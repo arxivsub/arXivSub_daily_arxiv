@@ -1,20 +1,18 @@
 # arXiv Daily Summary
 
-> 最后更新时间: 2026-01-10
+> 最后更新时间: 2026-01-10 | 今日论文总数: 530
 
 > 更多内容请访问 [arXivSub](https://arxivsub.comfyai.app/)
 
-## Fast Continuum Robot Shape and External Load State Estimation on SE(3)
+## 1. Fast Continuum Robot Shape and External Load State Estimation on SE(3)
 
 **arXiv ID:** 2601.04493 | [PDF](https://arxiv.org/pdf/2601.04493v1)
 
 **作者:** James M. Ferguson `[一作]` (University of Utah), Tucker Hermans `[通讯]` (NVIDIA)
 
-**通讯引用:** 2109 | **OpenAlex IDs:** https://openalex.org/A5000432183
+**通讯引用:** 2109 | [OpenAlex ID](https://openalex.org/A5000432183)
 
 **关键词:** `Robotics` `Robotic Intelligence` `Optimization` `Simultaneous Localization and Mapping`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -42,15 +40,13 @@
 
 ---
 
-## Surface-based Molecular Design with Multi-modal Flow Matching
+## 2. Surface-based Molecular Design with Multi-modal Flow Matching
 
 **arXiv ID:** 2601.04506 | [PDF](https://arxiv.org/pdf/2601.04506v1)
 
 **作者:** Fang Wu `[一作]` (Stanford University), Jinbo Xu `[通讯]` (MoleculeMind)
 
 **关键词:** `Machine Learning` `Drug Discovery` `Generation` `Graph Neural Network` `Flow-based Model` `Point Cloud`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -78,17 +74,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## RIGOURATE: Quantifying Scientific Exaggeration with Evidence-Aligned Claim Evaluation
+## 3. RIGOURATE: Quantifying Scientific Exaggeration with Evidence-Aligned Claim Evaluation
 
 **arXiv ID:** 2601.04350 | [PDF](https://arxiv.org/pdf/2601.04350v1)
 
 **作者:** Joseph James `[一作]` (University of Sheffield), Chenghua Lin `[通讯]` (University of Manchester)
 
-**通讯引用:** 3265 | **OpenAlex IDs:** https://openalex.org/A5024599321
+**通讯引用:** 3265 | [OpenAlex ID](https://openalex.org/A5024599321)
 
 **关键词:** `Computation and Language` `Retrieval` `Explainability and Interpretability` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Vision Language Model` `Multimodality` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -116,17 +110,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Large Language Models for Detecting Cyberattacks on Smart Grid Protective Relays
+## 4. Large Language Models for Detecting Cyberattacks on Smart Grid Protective Relays
 
 **arXiv ID:** 2601.04443 | [PDF](https://arxiv.org/pdf/2601.04443v1)
 
 **作者:** Ahmad Mohammad Saber `[一作]` (University of Toronto), Deepa Kundur `[通讯]` (University of Toronto)
 
-**通讯引用:** 9163 | **OpenAlex IDs:** https://openalex.org/A5077035168
+**通讯引用:** 9163 | [OpenAlex ID](https://openalex.org/A5077035168)
 
 **关键词:** `Cryptography and Security` `Anomaly Detection` `Explainability and Interpretability` `Computational Efficiency` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Prompt Engineering` `Time Series` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -164,15 +156,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Formal Analysis of AGI Decision-Theoretic Models and the Confrontation Question
+## 5. Formal Analysis of AGI Decision-Theoretic Models and the Confrontation Question
 
 **arXiv ID:** 2601.04234 | [PDF](https://arxiv.org/pdf/2601.04234v1)
 
 **作者:** Denis Saklakov `[一作]`, Denis Saklakov `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -200,15 +190,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Systems Explaining Systems: A Framework for Intelligence and Consciousness
+## 6. Systems Explaining Systems: A Framework for Intelligence and Consciousness
 
 **arXiv ID:** 2601.04269 | [PDF](https://arxiv.org/pdf/2601.04269v1)
 
 **作者:** Sean Niklas Semmler `[一作]` (Independent Researcher), Sean Niklas Semmler `[通讯]` (Independent Researcher)
 
 **关键词:** `Artificial Intelligence`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -236,15 +224,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Solving Cyclic Antibandwidth Problem by SAT
+## 7. Solving Cyclic Antibandwidth Problem by SAT
 
 **arXiv ID:** 2601.04239 | [PDF](https://arxiv.org/pdf/2601.04239v1)
 
 **作者:** Hieu Truong Xuan `[一作]` (Vietnam National University), Khanh To Van `[通讯]` (Vietnam National University)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -272,7 +258,7 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Defense Against Synthetic Speech: Real-Time Detection of RVC Voice Conversion Attacks
+## 8. Defense Against Synthetic Speech: Real-Time Detection of RVC Voice Conversion Attacks
 
 **arXiv ID:** 2601.04227 | [PDF](https://arxiv.org/pdf/2601.04227v1)
 
@@ -282,17 +268,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs
+## 9. Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs
 
 **arXiv ID:** 2601.04435 | [PDF](https://arxiv.org/pdf/2601.04435v1)
 
 **作者:** Myra Cheng `[一作]` (Stanford University), Dan Jurafsky `[通讯]` (Stanford University)
 
-**通讯引用:** 33701 | **OpenAlex IDs:** https://openalex.org/A5087088138
+**通讯引用:** 33701 | [OpenAlex ID](https://openalex.org/A5087088138)
 
 **关键词:** `Computation and Language` `Safty and Privacy` `Transformer` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -320,17 +304,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Interpreting Transformers Through Attention Head Intervention
+## 10. Interpreting Transformers Through Attention Head Intervention
 
 **arXiv ID:** 2601.04398 | [PDF](https://arxiv.org/pdf/2601.04398v1)
 
 **作者:** Mason Kadem `[一作]` (McMaster University), Rong Zheng `[通讯]` (McMaster University)
 
-**通讯引用:** 7881 | **OpenAlex IDs:** https://openalex.org/A5056442083
+**通讯引用:** 7881 | [OpenAlex ID](https://openalex.org/A5056442083)
 
 **关键词:** `Computation and Language` `Explainability and Interpretability` `Transformer` `Large Language Model` `Text` `Multimodality` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -358,17 +340,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Graph Integrated Transformers for Community Detection in Social Networks
+## 11. Graph Integrated Transformers for Community Detection in Social Networks
 
 **arXiv ID:** 2601.04367 | [PDF](https://arxiv.org/pdf/2601.04367v1)
 
 **作者:** Heba Zahran `[一作]` (Carleton University), M. Omair Shafiq `[通讯]` (Carleton University)
 
-**通讯引用:** 959 | **OpenAlex IDs:** https://openalex.org/A5087753797
+**通讯引用:** 959 | [OpenAlex ID](https://openalex.org/A5087753797)
 
 **关键词:** `Social and Information Networks` `Graph Neural Network` `Transformer` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -396,17 +376,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## From Domains to Instances: Dual-Granularity Data Synthesis for LLM Unlearning
+## 12. From Domains to Instances: Dual-Granularity Data Synthesis for LLM Unlearning
 
 **arXiv ID:** 2601.04278 | [PDF](https://arxiv.org/pdf/2601.04278v1)
 
 **作者:** Xiaoyu Xu `[一作]` (Hong Kong Polytechnic University), Haibo Hu `[通讯]` (Hong Kong Polytechnic University)
 
-**通讯引用:** 8461 | **OpenAlex IDs:** https://openalex.org/A5020630816
+**通讯引用:** 8461 | [OpenAlex ID](https://openalex.org/A5020630816)
 
 **关键词:** `Computation and Language` `Data Synthesis` `Safty and Privacy` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -434,15 +412,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Paper Skygest: Personalized Academic Recommendations on Bluesky
+## 13. Paper Skygest: Personalized Academic Recommendations on Bluesky
 
 **arXiv ID:** 2601.04253 | [PDF](https://arxiv.org/pdf/2601.04253v1)
 
 **作者:** Sophie Greenwood `[一作]` (Cornell Tech), Nikhil Garg `[通讯]` (Cornell Tech)
 
 **关键词:** `Social and Information Networks` `Recommendation System` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -470,17 +446,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## The Forgotten Shield: Safety Grafting in Parameter-Space for Medical MLLMs
+## 14. The Forgotten Shield: Safety Grafting in Parameter-Space for Medical MLLMs
 
 **arXiv ID:** 2601.04199 | [PDF](https://arxiv.org/pdf/2601.04199v1)
 
 **作者:** Jiale Zhao `[一作]` (National University of Defense Technology), Yaohua Wang `[通讯]` (National University of Defense Technology)
 
-**通讯引用:** 1099 | **OpenAlex IDs:** https://openalex.org/A5070012760
+**通讯引用:** 1099 | [OpenAlex ID](https://openalex.org/A5070012760)
 
 **关键词:** `Machine Learning` `Safty and Privacy` `Optimization` `Large Language Model` `Supervised Fine-Tuning` `Multimodality` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -508,15 +482,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems
+## 15. Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems
 
 **arXiv ID:** 2601.04201 | [PDF](https://arxiv.org/pdf/2601.04201v1)
 
 **作者:** Zihan Gao `[一作]` (University of Wisconsin-Madison), Jacob Thebault-Spieker `[通讯]` (University of Wisconsin-Madison)
 
 **关键词:** `Computation and Language` `Large Language Model` `Retrieval-Augmented Generation` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -544,7 +516,7 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## The Artificial Intelligence Value Chain: A Critical Appraisal. [Spanish Version]
+## 16. The Artificial Intelligence Value Chain: A Critical Appraisal. [Spanish Version]
 
 **arXiv ID:** 2601.04218 | [PDF](https://arxiv.org/pdf/2601.04218v1)
 
@@ -554,15 +526,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Can Consumer Chatbots Reason? A Student-Led Field Experiment Embedded in an "AI-for-All" Undergraduate Course
+## 17. Can Consumer Chatbots Reason? A Student-Led Field Experiment Embedded in an "AI-for-All" Undergraduate Course
 
 **arXiv ID:** 2601.04225 | [PDF](https://arxiv.org/pdf/2601.04225v1)
 
 **作者:** Amarda Shehu `[一作]` (George Mason University), Jagan Yetukuri `[通讯]` (George Mason University)
 
 **关键词:** `Computers and Society` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -590,17 +560,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## ARREST: Adversarial Resilient Regulation Enhancing Safety and Truth in Large Language Models
+## 18. ARREST: Adversarial Resilient Regulation Enhancing Safety and Truth in Large Language Models
 
 **arXiv ID:** 2601.04394 | [PDF](https://arxiv.org/pdf/2601.04394v1)
 
 **作者:** Sharanya Dasgupta `[一作]` (Indian Statistical Institute), Swagatam Das `[通讯]` (Indian Statistical Institute)
 
-**通讯引用:** 28202 | **OpenAlex IDs:** https://openalex.org/A5000078546
+**通讯引用:** 28202 | [OpenAlex ID](https://openalex.org/A5000078546)
 
 **关键词:** `Computation and Language` `Safty and Privacy` `Adversarial Attack` `Transformer` `Large Language Model` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -628,17 +596,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Hybrid Cloud Architectures for Research Computing: Applications and Use Cases
+## 19. Hybrid Cloud Architectures for Research Computing: Applications and Use Cases
 
 **arXiv ID:** 2601.04349 | [PDF](https://arxiv.org/pdf/2601.04349v1)
 
 **作者:** Xaver Stiensmeier `[一作]` (University of Bielefeld), Matej Antol `[通讯]` (Masaryk University)
 
-**通讯引用:** 71 | **OpenAlex IDs:** https://openalex.org/A5034266620
+**通讯引用:** 71 | [OpenAlex ID](https://openalex.org/A5034266620)
 
 **关键词:** `Distributed, Parallel, and Cluster Computing` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -666,15 +632,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Inference in the presence of model-form uncertainties: Leveraging a prediction-oriented approach to improve uncertainty characterization
+## 20. Inference in the presence of model-form uncertainties: Leveraging a prediction-oriented approach to improve uncertainty characterization
 
 **arXiv ID:** 2601.04396 | [PDF](https://arxiv.org/pdf/2601.04396v1)
 
 **作者:** Rebekah White `[一作]`, Teresa Portone `[通讯]`
 
 **关键词:** `Computational Engineering, Finance, and Science` `Variational Inference` `Monte Carlo` `Gradient Descent Optimization` `Tabular` `Time Series` `Physics Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -702,15 +666,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## CircuitLM: A Multi-Agent LLM-Aided Design Framework for Generating Circuit Schematics from Natural Language Prompts
+## 21. CircuitLM: A Multi-Agent LLM-Aided Design Framework for Generating Circuit Schematics from Natural Language Prompts
 
 **arXiv ID:** 2601.04505 | [PDF](https://arxiv.org/pdf/2601.04505v1)
 
 **作者:** Khandakar Shakib Al Hasan `[一作]` (Islamic University of Technology), Wahid Sadik `[通讯]` (Islamic University of Technology)
 
 **关键词:** `Artificial Intelligence` `Generation` `Retrieval` `Transformer` `Large Language Model` `Prompt Engineering` `Retrieval-Augmented Generation` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -738,17 +700,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer
+## 22. FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer
 
 **arXiv ID:** 2601.04520 | [PDF](https://arxiv.org/pdf/2601.04520v1)
 
 **作者:** Chengyang Li `[一作]` (Xiamen University), Xuan Cheng `[通讯]` (Xiamen University)
 
-**通讯引用:** 3706 | **OpenAlex IDs:** https://openalex.org/A5046914885
+**通讯引用:** 3706 | [OpenAlex ID](https://openalex.org/A5046914885)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Restoration` `Image Translation` `Generative Adversarial Network` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -776,15 +736,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback
+## 23. FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback
 
 **arXiv ID:** 2601.04203 | [PDF](https://arxiv.org/pdf/2601.04203v1)
 
 **作者:** Xueqing Wu `[一作]` (University of California, Los Angeles), Yeming Wen `[通讯]` (Meta Superintelligence Labs)
 
 **关键词:** `Computation and Language` `AI Code Assistant` `Transformer` `Large Language Model` `Vision Language Model` `Agentic AI` `Multimodality` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -812,17 +770,15 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization
+## 24. Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization
 
 **arXiv ID:** 2601.04442 | [PDF](https://arxiv.org/pdf/2601.04442v1)
 
 **作者:** Xingjian Diao `[一作]` (Dartmouth), Jiang Gui `[通讯]` (Dartmouth)
 
-**通讯引用:** 5305 | **OpenAlex IDs:** https://openalex.org/A5008965974
+**通讯引用:** 5305 | [OpenAlex ID](https://openalex.org/A5008965974)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Optimization` `Computational Efficiency` `Transformer` `Reinforcement Learning` `Vision Language Model` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -850,15 +806,13 @@ SurfFlow 是一种全原子表面驱动的全新多模态流匹配模型，用�
 
 ---
 
-## Unified Text-Image Generation with Weakness-Targeted Post-Training
+## 25. Unified Text-Image Generation with Weakness-Targeted Post-Training
 
 **arXiv ID:** 2601.04339 | [PDF](https://arxiv.org/pdf/2601.04339v1)
 
 **作者:** Jiahui Chen `[一作]` (FAIR at Meta), Marjan Ghazvininejad `[通讯]` (FAIR at Meta)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Data Synthesis` `Transformer` `Reinforcement Learning` `Mixture of Experts` `Multimodality` `Image` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -886,17 +840,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Beyond Immediate Activation: Temporally Decoupled Backdoor Attacks on Time Series Forecasting
+## 26. Beyond Immediate Activation: Temporally Decoupled Backdoor Attacks on Time Series Forecasting
 
 **arXiv ID:** 2601.04247 | [PDF](https://arxiv.org/pdf/2601.04247v1)
 
 **作者:** Zhixin Liu `[一作]` (Nankai University), Xiangrui Cai `[通讯]` (Nankai University)
 
-**通讯引用:** 1290 | **OpenAlex IDs:** https://openalex.org/A5057847421
+**通讯引用:** 1290 | [OpenAlex ID](https://openalex.org/A5057847421)
 
 **关键词:** `Cryptography and Security` `Adversarial Attack` `Anomaly Detection` `Graph Neural Network` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -924,15 +876,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models
+## 27. LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models
 
 **arXiv ID:** 2601.04233 | [PDF](https://arxiv.org/pdf/2601.04233v1)
 
 **作者:** Zhiyuan Zhao `[一作]` (International Digital Economy Academy), Yu Li `[通讯]` (International Digital Economy Academy)
 
 **关键词:** `Sound` `Generation` `Audio`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -960,7 +910,7 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Computable Gap Assessment of Artificial Intelligence Governance in Children's Centres:Evidence-Mechanism-Governance-Indicator Modelling of UNICEF's Guidance on AI and Children 3.0 Based on the Graph-GAP Framework
+## 28. Computable Gap Assessment of Artificial Intelligence Governance in Children's Centres:Evidence-Mechanism-Governance-Indicator Modelling of UNICEF's Guidance on AI and Children 3.0 Based on the Graph-GAP Framework
 
 **arXiv ID:** 2601.04216 | [PDF](https://arxiv.org/pdf/2601.04216v1)
 
@@ -970,17 +920,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## XGrammar 2: Dynamic and Efficient Structured Generation Engine for Agentic LLMs
+## 29. XGrammar 2: Dynamic and Efficient Structured Generation Engine for Agentic LLMs
 
 **arXiv ID:** 2601.04426 | [PDF](https://arxiv.org/pdf/2601.04426v1)
 
 **作者:** Linzhang Li `[一作]` (Shanghai Jiao Tong University), Tianqi Chen `[通讯]` (Carnegie Mellon University)
 
-**通讯引用:** 9361 | **OpenAlex IDs:** https://openalex.org/A5101471083
+**通讯引用:** 9361 | [OpenAlex ID](https://openalex.org/A5101471083)
 
 **关键词:** `Artificial Intelligence` `Generation` `Computational Efficiency` `Large Language Model` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1008,17 +956,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes
+## 30. Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes
 
 **arXiv ID:** 2601.04300 | [PDF](https://arxiv.org/pdf/2601.04300v1)
 
 **作者:** Chenye Meng `[一作]` (Zhejiang University), Lingyun Sun `[通讯]` (Zhejiang University)
 
-**通讯引用:** 13289 | **OpenAlex IDs:** https://openalex.org/A5100629346
+**通讯引用:** 13289 | [OpenAlex ID](https://openalex.org/A5100629346)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Optimization` `Diffusion model` `Supervised Fine-Tuning` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1046,15 +992,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Human-in-the-Loop Testing of AI Agents for Air Traffic Control with a Regulated Assessment Framework
+## 31. Human-in-the-Loop Testing of AI Agents for Air Traffic Control with a Regulated Assessment Framework
 
 **arXiv ID:** 2601.04288 | [PDF](https://arxiv.org/pdf/2601.04288v1)
 
 **作者:** Ben Carvell `[一作]` (NATS), Richard Cannon `[通讯]` (NATS)
 
 **关键词:** `Human-Computer Interaction`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1082,15 +1026,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Generation of synthetic delay time series for air transport applications
+## 32. Generation of synthetic delay time series for air transport applications
 
 **arXiv ID:** 2601.04279 | [PDF](https://arxiv.org/pdf/2601.04279v1)
 
 **作者:** Pau Esteve `[一作]` (Instituto de Física Interdisciplinar y Sistemas Complejos CSIC-UIB), Massimiliano Zanin `[通讯]` (Instituto de Física Interdisciplinar y Sistemas Complejos CSIC-UIB)
 
 **关键词:** `Machine Learning` `Generation` `Data Synthesis` `Generative Adversarial Network` `Auto Encoder` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1118,17 +1060,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## You Only Anonymize What Is Not Intent-Relevant: Suppressing Non-Intent Privacy Evidence
+## 33. You Only Anonymize What Is Not Intent-Relevant: Suppressing Non-Intent Privacy Evidence
 
 **arXiv ID:** 2601.04265 | [PDF](https://arxiv.org/pdf/2601.04265v1)
 
 **作者:** Weihao Shen `[一作]` (Beihang University), Fuzhen Zhuang `[通讯]` (Beihang University)
 
-**通讯引用:** 9759 | **OpenAlex IDs:** https://openalex.org/A5102969899
+**通讯引用:** 9759 | [OpenAlex ID](https://openalex.org/A5102969899)
 
 **关键词:** `Cryptography and Security` `Safty and Privacy` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1156,17 +1096,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Learning to Simulate Human Dialogue
+## 34. Learning to Simulate Human Dialogue
 
 **arXiv ID:** 2601.04436 | [PDF](https://arxiv.org/pdf/2601.04436v1)
 
 **作者:** Kanishk Gandhi `[一作]` (Stanford University), Noah D. Goodman `[通讯]` (Stanford University)
 
-**通讯引用:** 20545 | **OpenAlex IDs:** https://openalex.org/A5001961716
+**通讯引用:** 20545 | [OpenAlex ID](https://openalex.org/A5001961716)
 
 **关键词:** `Computation and Language` `Reinforcement Learning from Human Feedback` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Reinforcement Learning` `Chain-of-Thought` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1194,17 +1132,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Correct and Weight: A Simple Yet Effective Loss for Implicit Feedback Recommendation
+## 35. Correct and Weight: A Simple Yet Effective Loss for Implicit Feedback Recommendation
 
 **arXiv ID:** 2601.04291 | [PDF](https://arxiv.org/pdf/2601.04291v1)
 
 **作者:** Minglei Yin `[一作]` (University at Albany), Xin Li `[通讯]` (University at Albany)
 
-**通讯引用:** 37679 | **OpenAlex IDs:** https://openalex.org/A5100354056
+**通讯引用:** 37679 | [OpenAlex ID](https://openalex.org/A5100354056)
 
 **关键词:** `Information Retrieval` `Recommendation System` `Graph Neural Network` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1232,17 +1168,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Re-Rankers as Relevance Judges
+## 36. Re-Rankers as Relevance Judges
 
 **arXiv ID:** 2601.04455 | [PDF](https://arxiv.org/pdf/2601.04455v1)
 
 **作者:** Chuan Meng `[一作]` (University of Edinburgh), Maarten de Rijke `[通讯]` (University of Amsterdam)
 
-**通讯引用:** 29323 | **OpenAlex IDs:** https://openalex.org/A5031439294
+**通讯引用:** 29323 | [OpenAlex ID](https://openalex.org/A5031439294)
 
 **关键词:** `Information Retrieval` `Retrieval` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1270,17 +1204,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Propositional Abduction via Only-Knowing: A Non-Monotonic Approach
+## 37. Propositional Abduction via Only-Knowing: A Non-Monotonic Approach
 
 **arXiv ID:** 2601.04272 | [PDF](https://arxiv.org/pdf/2601.04272v1)
 
 **作者:** Sanderson Molick `[一作]` (Federal Institute of Pará), Vaishak Belle `[通讯]` (University of Edinburgh)
 
-**通讯引用:** 2596 | **OpenAlex IDs:** https://openalex.org/A5002932153
+**通讯引用:** 2596 | [OpenAlex ID](https://openalex.org/A5002932153)
 
 **关键词:** `Artificial Intelligence`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1308,17 +1240,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## TrueBrief: Faithful Summarization through Small Language Models
+## 38. TrueBrief: Faithful Summarization through Small Language Models
 
 **arXiv ID:** 2601.04212 | [PDF](https://arxiv.org/pdf/2601.04212v1)
 
 **作者:** Kumud Lakara `[一作]` (JPMorgan), Fran Silavong `[通讯]` (JPMorgan)
 
-**通讯引用:** 18 | **OpenAlex IDs:** https://openalex.org/A5043609447
+**通讯引用:** 18 | [OpenAlex ID](https://openalex.org/A5043609447)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1346,15 +1276,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Enhancing Admission Inquiry Responses with Fine-Tuned Models and Retrieval-Augmented Generation
+## 39. Enhancing Admission Inquiry Responses with Fine-Tuned Models and Retrieval-Augmented Generation
 
 **arXiv ID:** 2601.04206 | [PDF](https://arxiv.org/pdf/2601.04206v1)
 
 **作者:** Aram Virabyan `[一作]`, Aram Virabyan `[通讯]`
 
 **关键词:** `Computation and Language` `Retrieval` `Knowledge Distillation` `Generation` `Transformer` `Retrieval-Augmented Generation` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1382,15 +1310,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Aligned explanations in neural networks
+## 40. Aligned explanations in neural networks
 
 **arXiv ID:** 2601.04378 | [PDF](https://arxiv.org/pdf/2601.04378v1)
 
 **作者:** Corentin Lobet `[一作]`, Francesca Chiaromonte `[通讯]`
 
 **关键词:** `Machine Learning` `Explainability and Interpretability` `Segmentation` `Classification` `Convolutional Neural Network` `Supervised Fine-Tuning` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1418,7 +1344,7 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Technological Transitions and the Limits of Inference in Adaptive Educational Systems
+## 41. Technological Transitions and the Limits of Inference in Adaptive Educational Systems
 
 **arXiv ID:** 2601.04357 | [PDF](https://arxiv.org/pdf/2601.04357v1)
 
@@ -1428,15 +1354,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## A Future Capabilities Agent for Tactical Air Traffic Control
+## 42. A Future Capabilities Agent for Tactical Air Traffic Control
 
 **arXiv ID:** 2601.04285 | [PDF](https://arxiv.org/pdf/2601.04285v1)
 
 **作者:** Paul Kent `[一作]` (University of Exeter), Ben Carvell `[通讯]` (NATS)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Explainability and Interpretability` `Agentic AI` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1464,17 +1388,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## LinguaGame: A Linguistically Grounded Game-Theoretic Paradigm for Multi-Agent Dialogue Generation
+## 43. LinguaGame: A Linguistically Grounded Game-Theoretic Paradigm for Multi-Agent Dialogue Generation
 
 **arXiv ID:** 2601.04516 | [PDF](https://arxiv.org/pdf/2601.04516v1)
 
 **作者:** Yuxiao Ye `[一作]` (Tsinghua University), Zhiyuan Liu `[通讯]` (Tsinghua University)
 
-**通讯引用:** 44498 | **OpenAlex IDs:** https://openalex.org/A5100320723
+**通讯引用:** 44498 | [OpenAlex ID](https://openalex.org/A5100320723)
 
 **关键词:** `Computation and Language` `Generation` `Optimization` `Transformer` `Large Language Model` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1502,15 +1424,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## ArtCognition: A Multimodal AI Framework for Affective State Sensing from Visual and Kinematic Drawing Cues
+## 44. ArtCognition: A Multimodal AI Framework for Affective State Sensing from Visual and Kinematic Drawing Cues
 
 **arXiv ID:** 2601.04297 | [PDF](https://arxiv.org/pdf/2601.04297v1)
 
 **作者:** Behrad Binaei-Haghighi `[一作]` (University of Tehran), Behnam Bahrak `[通讯]` (Tehran Institute for Advanced Studies)
 
 **关键词:** `Machine Learning` `Classification` `Object Detection` `Generation` `Explainability and Interpretability` `Convolutional Neural Network` `Transformer` `Retrieval-Augmented Generation` `Large Language Model` `Image` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1538,15 +1458,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## TokenSeg: Efficient 3D Medical Image Segmentation via Hierarchical Visual Token Compression
+## 45. TokenSeg: Efficient 3D Medical Image Segmentation via Hierarchical Visual Token Compression
 
 **arXiv ID:** 2601.04519 | [PDF](https://arxiv.org/pdf/2601.04519v1)
 
 **作者:** Sen Zeng `[一作]` (Tsinghua University), Yang Liu `[通讯]` (KCL)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Segmentation` `Transformer` `Auto Encoder` `Image` `Biomedical Data` `Magnetic Resonance Imaging`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1574,15 +1492,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Towards a Mechanistic Understanding of Propositional Logical Reasoning in Large Language Models
+## 46. Towards a Mechanistic Understanding of Propositional Logical Reasoning in Large Language Models
 
 **arXiv ID:** 2601.04260 | [PDF](https://arxiv.org/pdf/2601.04260v1)
 
 **作者:** Danchun Chen `[一作]` (MOE Key Lab of Computational Linguistics Peking University), Liangming Pan `[通讯]` (MOE Key Lab of Computational Linguistics Peking University)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1610,15 +1526,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Transformer-based Multi-agent Reinforcement Learning for Separation Assurance in Structured and Unstructured Airspaces
+## 47. Transformer-based Multi-agent Reinforcement Learning for Separation Assurance in Structured and Unstructured Airspaces
 
 **arXiv ID:** 2601.04401 | [PDF](https://arxiv.org/pdf/2601.04401v1)
 
 **作者:** Arsyi Aziz `[一作]`, Peng Wei `[通讯]`
 
 **关键词:** `Robotics` `Reinforcement Learning` `Autonomous Driving` `Transformer` `Reinforcement Learning` `Tabular` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1646,17 +1560,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Correcting Autonomous Driving Object Detection Misclassifications with Automated Commonsense Reasoning
+## 48. Correcting Autonomous Driving Object Detection Misclassifications with Automated Commonsense Reasoning
 
 **arXiv ID:** 2601.04271 | [PDF](https://arxiv.org/pdf/2601.04271v1)
 
 **作者:** Keegan Kimbrell `[一作]` (University of Texas at Dallas), Gopal Gupta `[通讯]` (University of Texas at Dallas)
 
-**通讯引用:** 2874 | **OpenAlex IDs:** https://openalex.org/A5067377863
+**通讯引用:** 2874 | [OpenAlex ID](https://openalex.org/A5067377863)
 
 **关键词:** `Artificial Intelligence` `Object Detection` `Autonomous Driving` `Explainability and Interpretability` `Computational Efficiency` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1684,15 +1596,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## SampoNLP: A Self-Referential Toolkit for Morphological Analysis of Subword Tokenizers
+## 49. SampoNLP: A Self-Referential Toolkit for Morphological Analysis of Subword Tokenizers
 
 **arXiv ID:** 2601.04469 | [PDF](https://arxiv.org/pdf/2601.04469v1)
 
 **作者:** Iaroslav Chelombitko `[一作]` (Neapolis University Pafos), Aleksey Komissarov `[通讯]`
 
 **关键词:** `Computation and Language` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1720,15 +1630,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Decision-Aware Trust Signal Alignment for SOC Alert Triage
+## 50. Decision-Aware Trust Signal Alignment for SOC Alert Triage
 
 **arXiv ID:** 2601.04486 | [PDF](https://arxiv.org/pdf/2601.04486v1)
 
 **作者:** Israt Jahan Chowdhury `[一作]` (Ontario Tech University), Md Abu Yousuf Tanvir `[通讯]` (Ontario Tech University)
 
 **关键词:** `Cryptography and Security` `Anomaly Detection` `Tabular` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1756,15 +1664,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Generative AI for Social Impact
+## 51. Generative AI for Social Impact
 
 **arXiv ID:** 2601.04238 | [PDF](https://arxiv.org/pdf/2601.04238v1)
 
 **作者:** Lingkai Kong `[一作]`, Milind Tambe `[通讯]`
 
 **关键词:** `Computers and Society` `Optimization` `Generation` `Large Language Model` `Diffusion model` `Graph` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1792,7 +1698,7 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Vision-Language Agents for Interactive Forest Change Analysis
+## 52. Vision-Language Agents for Interactive Forest Change Analysis
 
 **arXiv ID:** 2601.04497 | [PDF](https://arxiv.org/pdf/2601.04497v1)
 
@@ -1802,17 +1708,15 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## LLMs for Explainable Business Decision-Making: A Reinforcement Learning Fine-Tuning Approach
+## 53. LLMs for Explainable Business Decision-Making: A Reinforcement Learning Fine-Tuning Approach
 
 **arXiv ID:** 2601.04208 | [PDF](https://arxiv.org/pdf/2601.04208v1)
 
 **作者:** Xiang Cheng `[一作]` (University of Maryland), Anindya Ghose `[通讯]` (New York University)
 
-**通讯引用:** 13703 | **OpenAlex IDs:** https://openalex.org/A5073770532
+**通讯引用:** 13703 | [OpenAlex ID](https://openalex.org/A5073770532)
 
 **关键词:** `Computation and Language` `Explainability and Interpretability` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Supervised Fine-Tuning` `Tabular` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1840,15 +1744,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Ideology as a Problem: Lightweight Logit Steering for Annotator-Specific Alignment in Social Media Analysis
+## 54. Ideology as a Problem: Lightweight Logit Steering for Annotator-Specific Alignment in Social Media Analysis
 
 **arXiv ID:** 2601.04207 | [PDF](https://arxiv.org/pdf/2601.04207v1)
 
 **作者:** Wei Xia `[一作]` (Ludwig Maximilian University of Munich), Luozheng Li `[通讯]` (Institute of Software, Chinese Academy of Sciences)
 
 **关键词:** `Computation and Language` `Classification` `Transformer` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1876,15 +1778,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving
+## 55. UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving
 
 **arXiv ID:** 2601.04453 | [PDF](https://arxiv.org/pdf/2601.04453v1)
 
 **作者:** Zhexiao Xiong `[一作]` (Bosch Research North America), Liu Ren `[通讯]` (Bosch Research North America)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Autonomous Driving` `Generation` `Transformer` `Vision Language Model` `Diffusion model` `World Model` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1912,15 +1812,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Few-Shot LoRA Adaptation of a Flow-Matching Foundation Model for Cross-Spectral Object Detection
+## 56. Few-Shot LoRA Adaptation of a Flow-Matching Foundation Model for Cross-Spectral Object Detection
 
 **arXiv ID:** 2601.04381 | [PDF](https://arxiv.org/pdf/2601.04381v1)
 
 **作者:** Maxim Clouser `[一作]` (Yrikka Inc), John Kalantari `[通讯]` (Yrikka Inc)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Image Translation` `Data Synthesis` `Supervised Fine-Tuning` `Flow-based Model` `Image` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1948,15 +1846,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## From Paper to Structured JSON: An Agentic Workflow for Compliant BMR Digital Transformation
+## 57. From Paper to Structured JSON: An Agentic Workflow for Compliant BMR Digital Transformation
 
 **arXiv ID:** 2601.04368 | [PDF](https://arxiv.org/pdf/2601.04368v1)
 
 **作者:** Bhavik Agarwal `[一作]` (MasterControl AI Research), Viktoria Rojkova `[通讯]` (MasterControl AI Research)
 
 **关键词:** `Digital Libraries` `Data Synthesis` `Optimization` `Computational Efficiency` `Transformer` `Large Language Model` `Agentic AI` `Vision Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -1984,7 +1880,7 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## Convenience vs. Control: A Qualitative Study of Youth Privacy with Smart Voice Assistants
+## 58. Convenience vs. Control: A Qualitative Study of Youth Privacy with Smart Voice Assistants
 
 **arXiv ID:** 2601.04399 | [PDF](https://arxiv.org/pdf/2601.04399v1)
 
@@ -1994,15 +1890,13 @@ MMGW弱点定向合成数据集（约3500个提示），并与通用的Shutterst
 
 ---
 
-## ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers
+## 59. ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers
 
 **arXiv ID:** 2601.04342 | [PDF](https://arxiv.org/pdf/2601.04342v1)
 
 **作者:** Mohsen Ghafoorian `[一作]` (Qualcomm AI Research), Amirhossein Habibian `[通讯]` (Qualcomm AI Research)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Data Synthesis` `Computational Efficiency` `Knowledge Distillation` `Recurrent Neural Network` `Transformer` `Diffusion model` `Knowledge Distillation` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2030,15 +1924,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## A Longitudinal Measurement Study of Log4Shell Exploitation from an Active Network Telescope
+## 60. A Longitudinal Measurement Study of Log4Shell Exploitation from an Active Network Telescope
 
 **arXiv ID:** 2601.04281 | [PDF](https://arxiv.org/pdf/2601.04281v1)
 
 **作者:** Aakash Singh `[一作]` (CSIR Fourth Paradigm Institute), Basavala Bhanu Prasanth `[通讯]` (CSIR Fourth Paradigm Institute)
 
 **关键词:** `Cryptography and Security` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2066,15 +1958,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Attribute-Aware Controlled Product Generation with LLMs for E-commerce
+## 61. Attribute-Aware Controlled Product Generation with LLMs for E-commerce
 
 **arXiv ID:** 2601.04200 | [PDF](https://arxiv.org/pdf/2601.04200v1)
 
 **作者:** Virginia Negri `[一作]` (Amazon Spain), Subburam Rajaram `[通讯]` (Amazon Germany)
 
 **关键词:** `Computation and Language` `Generation` `Data Synthesis` `Transformer` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2102,15 +1992,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Users Mispredict Their Own Preferences for AI Writing Assistance
+## 62. Users Mispredict Their Own Preferences for AI Writing Assistance
 
 **arXiv ID:** 2601.04461 | [PDF](https://arxiv.org/pdf/2601.04461v1)
 
 **作者:** Vivian Lai `[一作]` (Microsoft), Alex C. Williams `[通讯]` (Microsoft)
 
 **关键词:** `Computation and Language` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2138,15 +2026,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Sharded Elimination and Combining for Highly-Efficient Concurrent Stacks
+## 63. Sharded Elimination and Combining for Highly-Efficient Concurrent Stacks
 
 **arXiv ID:** 2601.04523 | [PDF](https://arxiv.org/pdf/2601.04523v1)
 
 **作者:** Ajay Singh `[一作]` (FORTH ICS), Panagiota Fatourou `[通讯]` (FORTH ICS)
 
 **关键词:** `Distributed, Parallel, and Cluster Computing` `Concurrent Stacks` `Elimination` `Software Combining` `Sharding` `CAS Atomic Operations`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2174,17 +2060,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Autonomous Reasoning for Spacecraft Control: A Large Language Model Framework with Group Relative Policy Optimization
+## 64. Autonomous Reasoning for Spacecraft Control: A Large Language Model Framework with Group Relative Policy Optimization
 
 **arXiv ID:** 2601.04334 | [PDF](https://arxiv.org/pdf/2601.04334v1)
 
 **作者:** Amit Jain `[一作]` (Massachusetts Institute of Technology), Richard Linares `[通讯]` (Massachusetts Institute of Technology)
 
-**通讯引用:** 1373 | **OpenAlex IDs:** https://openalex.org/A5087614402
+**通讯引用:** 1373 | [OpenAlex ID](https://openalex.org/A5087614402)
 
 **关键词:** `Robotics` `Optimization` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Supervised Fine-Tuning` `Prompt Engineering` `Sequential`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2212,7 +2096,7 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation
+## 65. ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation
 
 **arXiv ID:** 2601.04327 | [PDF](https://arxiv.org/pdf/2601.04327v1)
 
@@ -2222,17 +2106,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## AnimatedLLM: Explaining LLMs with Interactive Visualizations
+## 66. AnimatedLLM: Explaining LLMs with Interactive Visualizations
 
 **arXiv ID:** 2601.04213 | [PDF](https://arxiv.org/pdf/2601.04213v1)
 
 **作者:** Zdeněk Kasner `[一作]` (Charles University), Ondřej Dušek `[通讯]` (Charles University)
 
-**通讯引用:** 2857 | **OpenAlex IDs:** https://openalex.org/A5004829991
+**通讯引用:** 2857 | [OpenAlex ID](https://openalex.org/A5004829991)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2260,17 +2142,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Bridging Distance and Spectral Positional Encodings via Anchor-Based Diffusion Geometry Approximation
+## 67. Bridging Distance and Spectral Positional Encodings via Anchor-Based Diffusion Geometry Approximation
 
 **arXiv ID:** 2601.04517 | [PDF](https://arxiv.org/pdf/2601.04517v1)
 
 **作者:** Zimo Yan `[一作]` (National University of Defense Technology), Wumei Du `[通讯]` (National University of Defense Technology)
 
-**通讯引用:** 11 | **OpenAlex IDs:** https://openalex.org/A5110930339
+**通讯引用:** 11 | [OpenAlex ID](https://openalex.org/A5110930339)
 
 **关键词:** `Information Theory` `Drug Discovery` `Graph Neural Network` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2298,17 +2178,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Achievable Rate and Coding Principle for MIMO Multicarrier Systems With Cross-Domain MAMP Receiver Over Doubly Selective Channels
+## 68. Achievable Rate and Coding Principle for MIMO Multicarrier Systems With Cross-Domain MAMP Receiver Over Doubly Selective Channels
 
 **arXiv ID:** 2601.04433 | [PDF](https://arxiv.org/pdf/2601.04433v1)
 
 **作者:** Yuhao Chi `[一作]` (Xidian University), Chau Yuen `[通讯]` (Nanyang Technological University)
 
-**通讯引用:** 39159 | **OpenAlex IDs:** https://openalex.org/A5060020877
+**通讯引用:** 39159 | [OpenAlex ID](https://openalex.org/A5060020877)
 
 **关键词:** `Information Theory` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2353,15 +2231,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Optimal Depth-Three Circuits for Inner Product
+## 69. Optimal Depth-Three Circuits for Inner Product
 
 **arXiv ID:** 2601.04446 | [PDF](https://arxiv.org/pdf/2601.04446v1)
 
 **作者:** Mohit Gurumukhani `[一作]`, Navid Talebanfard `[通讯]`
 
 **关键词:** `Computational Complexity` `Optimization`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2389,15 +2265,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Scaling Trends for Multi-Hop Contextual Reasoning in Mid-Scale Language Models
+## 70. Scaling Trends for Multi-Hop Contextual Reasoning in Mid-Scale Language Models
 
 **arXiv ID:** 2601.04254 | [PDF](https://arxiv.org/pdf/2601.04254v1)
 
 **作者:** Brady Steele `[一作]` (Georgia Institute of Technology), Micah Katz `[通讯]` (University of Texas at Austin)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Chain-of-Thought` `Mixture of Experts` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2425,15 +2299,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## MemKD: Memory-Discrepancy Knowledge Distillation for Efficient Time Series Classification
+## 71. MemKD: Memory-Discrepancy Knowledge Distillation for Efficient Time Series Classification
 
 **arXiv ID:** 2601.04264 | [PDF](https://arxiv.org/pdf/2601.04264v1)
 
 **作者:** Nilushika Udayangani `[一作]` (University of Melbourne), Marimuthu Palaniswami `[通讯]`
 
 **关键词:** `Machine Learning` `Classification` `Knowledge Distillation` `Computational Efficiency` `Recurrent Neural Network` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2461,17 +2333,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## From Preoperative CT to Postmastoidectomy Mesh Construction:1Mastoidectomy Shape Prediction for Cochlear Implant Surgery
+## 72. From Preoperative CT to Postmastoidectomy Mesh Construction:1Mastoidectomy Shape Prediction for Cochlear Implant Surgery
 
 **arXiv ID:** 2601.04405 | [PDF](https://arxiv.org/pdf/2601.04405v1)
 
 **作者:** Yike Zhang `[一作]` (St. Mary's University), Jack Noble `[通讯]` (Vanderbilt University)
 
-**通讯引用:** 5310 | **OpenAlex IDs:** https://openalex.org/A5000197945
+**通讯引用:** 5310 | [OpenAlex ID](https://openalex.org/A5000197945)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Segmentation` `Convolutional Neural Network` `Contrastive Learning` `Image` `Mesh` `Computed Tomography`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2499,15 +2369,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Quantifying the Effect of Test Set Contamination on Generative Evaluations
+## 73. Quantifying the Effect of Test Set Contamination on Generative Evaluations
 
 **arXiv ID:** 2601.04301 | [PDF](https://arxiv.org/pdf/2601.04301v1)
 
 **作者:** Rylan Schaeffer `[一作]` (Stanford Computer Science), Sanmi Koyejo `[通讯]` (Stanford Computer Science)
 
 **关键词:** `Machine Learning` `Generation` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2535,15 +2403,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Learning Multinomial Logits in $O(n \log n)$ time
+## 74. Learning Multinomial Logits in $O(n \log n)$ time
 
 **arXiv ID:** 2601.04423 | [PDF](https://arxiv.org/pdf/2601.04423v1)
 
 **作者:** Flavio Chierichetti `[一作]` (Sapienza University of Rome), Andrew Tomkins `[通讯]` (Google Research)
 
 **关键词:** `Data Structures and Algorithms` `Recommendation System` `Optimization` `Computational Efficiency`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2571,7 +2437,7 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Embedding Textual Information in Images Using Quinary Pixel Combinations
+## 75. Embedding Textual Information in Images Using Quinary Pixel Combinations
 
 **arXiv ID:** 2601.04302 | [PDF](https://arxiv.org/pdf/2601.04302v1)
 
@@ -2581,7 +2447,7 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Transitive Expert Error and Routing Problems in Complex AI Systems
+## 76. Transitive Expert Error and Routing Problems in Complex AI Systems
 
 **arXiv ID:** 2601.04416 | [PDF](https://arxiv.org/pdf/2601.04416v1)
 
@@ -2591,15 +2457,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Pilot Study on Student Public Opinion Regarding GAI
+## 77. Pilot Study on Student Public Opinion Regarding GAI
 
 **arXiv ID:** 2601.04336 | [PDF](https://arxiv.org/pdf/2601.04336v1)
 
 **作者:** William Franz Lamberti `[一作]` (George Mason University), Samantha Rose Lawrence `[通讯]` (George Mason University)
 
 **关键词:** `Artificial Intelligence` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2627,17 +2491,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Distribution-Guided and Constrained Quantum Machine Unlearning
+## 78. Distribution-Guided and Constrained Quantum Machine Unlearning
 
 **arXiv ID:** 2601.04413 | [PDF](https://arxiv.org/pdf/2601.04413v1)
 
 **作者:** Nausherwan Malik `[一作]` (Lahore University of Management Sciences), Muhammad Faryad `[通讯]` (Lahore University of Management Sciences)
 
-**通讯引用:** 1621 | **OpenAlex IDs:** https://openalex.org/A5040871513
+**通讯引用:** 1621 | [OpenAlex ID](https://openalex.org/A5040871513)
 
 **关键词:** `Machine Learning` `Optimization` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2665,17 +2527,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## LEGATO: Good Identity Unlearning Is Continuous
+## 79. LEGATO: Good Identity Unlearning Is Continuous
 
 **arXiv ID:** 2601.04282 | [PDF](https://arxiv.org/pdf/2601.04282v1)
 
 **作者:** Qiang Chen `[一作]` (Central South University), Yi Chen `[通讯]` (Hong Kong University of Science and Technology)
 
-**通讯引用:** 10306 | **OpenAlex IDs:** https://openalex.org/A5100728316
+**通讯引用:** 10306 | [OpenAlex ID](https://openalex.org/A5100728316)
 
 **关键词:** `Machine Learning` `Generation` `Data Synthesis` `Optimization` `Ordinary Differential Equation` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2703,17 +2563,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Inhibitory Attacks on Backdoor-based Fingerprinting for Large Language Models
+## 80. Inhibitory Attacks on Backdoor-based Fingerprinting for Large Language Models
 
 **arXiv ID:** 2601.04261 | [PDF](https://arxiv.org/pdf/2601.04261v1)
 
 **作者:** Hang Fu `[一作]` (China Agricultural University), Yiming Xue `[通讯]` (China Agricultural University)
 
-**通讯引用:** 676 | **OpenAlex IDs:** https://openalex.org/A5012766424
+**通讯引用:** 676 | [OpenAlex ID](https://openalex.org/A5012766424)
 
 **关键词:** `Cryptography and Security` `Adversarial Attack` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2741,15 +2599,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## How Users Consider Web Tracking When Seeking Health Information Online
+## 81. How Users Consider Web Tracking When Seeking Health Information Online
 
 **arXiv ID:** 2601.04485 | [PDF](https://arxiv.org/pdf/2601.04485v1)
 
 **作者:** Martin P. Robillard `[一作]` (McGill University), Jin L. C. Guo `[通讯]`
 
 **关键词:** `Human-Computer Interaction` `Safty and Privacy` `Text` `Electronic Health Records`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2777,17 +2633,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## 3D-Agent:Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation
+## 82. 3D-Agent:Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation
 
 **arXiv ID:** 2601.04404 | [PDF](https://arxiv.org/pdf/2601.04404v1)
 
 **作者:** Jusheng Zhang `[一作]` (Sun Yat-sen University), Keze Wang `[通讯]` (Sun Yat-sen University)
 
-**通讯引用:** 2250 | **OpenAlex IDs:** https://openalex.org/A5088124671
+**通讯引用:** 2250 | [OpenAlex ID](https://openalex.org/A5088124671)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Segmentation` `Domain Adaptation` `Reinforcement Learning` `Transformer` `Vision Language Model` `Reinforcement Learning` `Multimodality` `Point Cloud`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2815,15 +2669,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Sphinx: Benchmarking and Modeling for LLM-Driven Pull Request Review
+## 83. Sphinx: Benchmarking and Modeling for LLM-Driven Pull Request Review
 
 **arXiv ID:** 2601.04252 | [PDF](https://arxiv.org/pdf/2601.04252v1)
 
 **作者:** Daoan Zhang `[一作]` (University of Rochester), Elsie Nallipogu `[通讯]` (Microsoft)
 
 **关键词:** `Software Engineering` `Large Language Model` `Supervised Fine-Tuning` `Prompt Engineering` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2851,17 +2703,15 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Fuzzy Representation of Norms
+## 84. Fuzzy Representation of Norms
 
 **arXiv ID:** 2601.04249 | [PDF](https://arxiv.org/pdf/2601.04249v1)
 
 **作者:** Ziba Assadi `[一作]` (Gran Sasso Science Institute), Paola Inverardi `[通讯]` (Gran Sasso Science Institute)
 
-**通讯引用:** 4512 | **OpenAlex IDs:** https://openalex.org/A5039484805
+**通讯引用:** 4512 | [OpenAlex ID](https://openalex.org/A5039484805)
 
 **关键词:** `Artificial Intelligence` `Robotic Intelligence` `Safty and Privacy` `Fuzzy Logic`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2889,7 +2739,7 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Balancing Usability and Compliance in AI Smart Devices: A Privacy-by-Design Audit of Google Home, Alexa, and Siri
+## 85. Balancing Usability and Compliance in AI Smart Devices: A Privacy-by-Design Audit of Google Home, Alexa, and Siri
 
 **arXiv ID:** 2601.04403 | [PDF](https://arxiv.org/pdf/2601.04403v1)
 
@@ -2899,15 +2749,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Survival Dynamics of Neural and Programmatic Policies in Evolutionary Reinforcement Learning
+## 86. Survival Dynamics of Neural and Programmatic Policies in Evolutionary Reinforcement Learning
 
 **arXiv ID:** 2601.04365 | [PDF](https://arxiv.org/pdf/2601.04365v1)
 
 **作者:** Anton Roupassov-Ruiz `[一作]` (University of Alberta), Yiyang Zuo `[通讯]` (University of Alberta)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2935,7 +2783,7 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Automatic Construction of Chinese Verb Collostruction Database
+## 87. Automatic Construction of Chinese Verb Collostruction Database
 
 **arXiv ID:** 2601.04197 | [PDF](https://arxiv.org/pdf/2601.04197v1)
 
@@ -2945,15 +2793,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## Hybrid Federated Learning for Noise-Robust Training
+## 88. Hybrid Federated Learning for Noise-Robust Training
 
 **arXiv ID:** 2601.04483 | [PDF](https://arxiv.org/pdf/2601.04483v1)
 
 **作者:** Yongjun Kim `[一作]` (KAIST), Junil Choi `[通讯]` (KAIST)
 
 **关键词:** `Machine Learning` `Federated Learning` `Knowledge Distillation` `Optimization` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -2981,15 +2827,13 @@ VBench、VBench‑2.0、Open‑Sora Plan 以及 350K Open‑Sora 子集与 22K �
 
 ---
 
-## From Imitation to Innovation: The Divergent Paths of Techno in Germany and the USA
+## 89. From Imitation to Innovation: The Divergent Paths of Techno in Germany and the USA
 
 **arXiv ID:** 2601.04222 | [PDF](https://arxiv.org/pdf/2601.04222v1)
 
 **作者:** Tim Ziemer `[一作]` (Institute of Systematic Musicology), Simon Linke `[通讯]` (Ligeti Center)
 
 **关键词:** `Sound` `Audio`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3021,15 +2865,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## MedPI: Evaluating AI Systems in Medical Patient-facing Interactions
+## 90. MedPI: Evaluating AI Systems in Medical Patient-facing Interactions
 
 **arXiv ID:** 2601.04195 | [PDF](https://arxiv.org/pdf/2601.04195v1)
 
 **作者:** Diego Fajardo V. `[一作]` (Lumos), Razvan Marinescu `[通讯]` (Lumos)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Text` `Biomedical Data` `Electronic Health Records` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3057,17 +2899,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention
+## 91. A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention
 
 **arXiv ID:** 2601.04509 | [PDF](https://arxiv.org/pdf/2601.04509v1)
 
 **作者:** Peixin Huang `[一作]` (Shandong University), Wei Zhang `[通讯]` (Shandong University)
 
-**通讯引用:** 48232 | **OpenAlex IDs:** https://openalex.org/A5100675809
+**通讯引用:** 48232 | [OpenAlex ID](https://openalex.org/A5100675809)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Representation Learning` `Graph Neural Network` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3095,17 +2935,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## RAGVUE: A Diagnostic View for Explainable and Automated Evaluation of Retrieval-Augmented Generation
+## 92. RAGVUE: A Diagnostic View for Explainable and Automated Evaluation of Retrieval-Augmented Generation
 
 **arXiv ID:** 2601.04196 | [PDF](https://arxiv.org/pdf/2601.04196v1)
 
 **作者:** Keerthana Murugaraj `[一作]` (University of Luxembourg), Martin Theobald `[通讯]` (University of Luxembourg)
 
-**通讯引用:** 3303 | **OpenAlex IDs:** https://openalex.org/A5060837952
+**通讯引用:** 3303 | [OpenAlex ID](https://openalex.org/A5060837952)
 
 **关键词:** `Computation and Language` `Explainability and Interpretability` `Retrieval` `Large Language Model` `Prompt Engineering` `Retrieval-Augmented Generation` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3133,15 +2971,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Making Tunable Parameters State-Dependent in Weather and Climate Models with Reinforcement Learning
+## 93. Making Tunable Parameters State-Dependent in Weather and Climate Models with Reinforcement Learning
 
 **arXiv ID:** 2601.04268 | [PDF](https://arxiv.org/pdf/2601.04268v1)
 
 **作者:** Pritthijit Nath `[一作]` (University of Cambridge), Mark J. Webb `[通讯]`
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Federated Learning` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3169,17 +3005,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## A Privacy-Preserving Localization Scheme with Node Selection in Mobile Networks
+## 94. A Privacy-Preserving Localization Scheme with Node Selection in Mobile Networks
 
 **arXiv ID:** 2601.04280 | [PDF](https://arxiv.org/pdf/2601.04280v1)
 
 **作者:** Liangbo Xie `[一作]` (Chongqing University of Posts and Telecommunications), Dusit Niyato `[通讯]` (Nanyang Technological University)
 
-**通讯引用:** 80345 | **OpenAlex IDs:** https://openalex.org/A5091266202
+**通讯引用:** 80345 | [OpenAlex ID](https://openalex.org/A5091266202)
 
 **关键词:** `Cryptography and Security` `Safty and Privacy` `Computational Efficiency` `Homomorphic Encryption` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3207,15 +3041,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Mitigating Position-Shift Failures in Text-Based Modular Arithmetic via Position Curriculum and Template Diversity
+## 95. Mitigating Position-Shift Failures in Text-Based Modular Arithmetic via Position Curriculum and Template Diversity
 
 **arXiv ID:** 2601.04283 | [PDF](https://arxiv.org/pdf/2601.04283v1)
 
 **作者:** Nikolay Yudin `[一作]` (Independent Researcher), Nikolay Yudin `[通讯]` (Independent Researcher)
 
 **关键词:** `Machine Learning` `Transformer` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3243,17 +3075,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Learning to Reason: Temporal Saliency Distillation for Interpretable Knowledge Transfer
+## 96. Learning to Reason: Temporal Saliency Distillation for Interpretable Knowledge Transfer
 
 **arXiv ID:** 2601.04263 | [PDF](https://arxiv.org/pdf/2601.04263v1)
 
 **作者:** Nilushika Udayangani Hewa Dehigahawattage `[一作]` (University of Melbourne), Marimuthu Palaniswami `[通讯]` (University of Melbourne)
 
-**通讯引用:** 30261 | **OpenAlex IDs:** https://openalex.org/A5080554686
+**通讯引用:** 30261 | [OpenAlex ID](https://openalex.org/A5080554686)
 
 **关键词:** `Machine Learning` `Knowledge Distillation` `Explainability and Interpretability` `Compression` `Time Series` `Recurrent Neural Network` `Supervised Fine-Tuning` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3281,15 +3111,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Performance Analysis of Image Classification on Bangladeshi Datasets
+## 97. Performance Analysis of Image Classification on Bangladeshi Datasets
 
 **arXiv ID:** 2601.04397 | [PDF](https://arxiv.org/pdf/2601.04397v1)
 
 **作者:** Mohammed Sami Khan `[一作]` (Dhaka University), Rowzatul Zannat `[通讯]` (Dhaka University)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Classification` `Convolutional Neural Network` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3317,7 +3145,7 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Longitudinal Trends in Pre University Preparation. A Cohort Evaluation Using Introductory Mathematics and Physics Courses (1980-2019)
+## 98. Longitudinal Trends in Pre University Preparation. A Cohort Evaluation Using Introductory Mathematics and Physics Courses (1980-2019)
 
 **arXiv ID:** 2601.04360 | [PDF](https://arxiv.org/pdf/2601.04360v1)
 
@@ -3327,15 +3155,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Improving and Accelerating Offline RL in Large Discrete Action Spaces with Structured Policy Initialization
+## 99. Improving and Accelerating Offline RL in Large Discrete Action Spaces with Structured Policy Initialization
 
 **arXiv ID:** 2601.04441 | [PDF](https://arxiv.org/pdf/2601.04441v1)
 
 **作者:** Matthew Landers `[一作]` (University of Virginia), Afsaneh Doryab `[通讯]` (MBZUAI)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Transformer` `Reinforcement Learning` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3363,17 +3189,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Combining facial videos and biosignals for stress estimation during driving
+## 100. Combining facial videos and biosignals for stress estimation during driving
 
 **arXiv ID:** 2601.04376 | [PDF](https://arxiv.org/pdf/2601.04376v1)
 
 **作者:** Paraskevi Valergaki `[一作]` (Foundation for Research and Technology Hellas), Anastasios Roussos `[通讯]` (Foundation for Research and Technology Hellas)
 
-**通讯引用:** 1924 | **OpenAlex IDs:** https://openalex.org/A5029931791
+**通讯引用:** 1924 | [OpenAlex ID](https://openalex.org/A5029931791)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Recognition` `Autonomous Driving` `Transformer` `Video` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3401,17 +3225,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Active Sensing Shapes Real-World Decision-Making through Dynamic Evidence Accumulation
+## 101. Active Sensing Shapes Real-World Decision-Making through Dynamic Evidence Accumulation
 
 **arXiv ID:** 2601.04214 | [PDF](https://arxiv.org/pdf/2601.04214v1)
 
 **作者:** Hongliang Lu `[一作]` (Hong Kong University of Science and Technology), Junjie Yang `[通讯]` (Hong Kong University of Science and Technology)
 
-**通讯引用:** 540 | **OpenAlex IDs:** https://openalex.org/A5101891276
+**通讯引用:** 540 | [OpenAlex ID](https://openalex.org/A5101891276)
 
 **关键词:** `Artificial Intelligence` `Autonomous Driving` `Optimization` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3439,7 +3261,7 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Using Grok to Avoid Personal Attacks While Correcting Misinformation on X
+## 102. Using Grok to Avoid Personal Attacks While Correcting Misinformation on X
 
 **arXiv ID:** 2601.04251 | [PDF](https://arxiv.org/pdf/2601.04251v1)
 
@@ -3449,15 +3271,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## STDD:Spatio-Temporal Dynamics-Driven Token Refinement in Diffusion Language Models
+## 103. STDD:Spatio-Temporal Dynamics-Driven Token Refinement in Diffusion Language Models
 
 **arXiv ID:** 2601.04205 | [PDF](https://arxiv.org/pdf/2601.04205v1)
 
 **作者:** Xinhao Sun `[一作]`, Xiang Chen `[通讯]`
 
 **关键词:** `Computation and Language` `Generation` `Computational Efficiency` `Transformer` `Large Language Model` `Diffusion model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3485,17 +3305,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## When Predictions Shape Reality: A Socio-Technical Synthesis of Performative Predictions in Machine Learning
+## 104. When Predictions Shape Reality: A Socio-Technical Synthesis of Performative Predictions in Machine Learning
 
 **arXiv ID:** 2601.04447 | [PDF](https://arxiv.org/pdf/2601.04447v1)
 
 **作者:** Gal Fybish `[一作]` (Massey University), Teo Susnjak `[通讯]` (Massey University)
 
-**通讯引用:** 2681 | **OpenAlex IDs:** https://openalex.org/A5037915797
+**通讯引用:** 2681 | [OpenAlex ID](https://openalex.org/A5037915797)
 
 **关键词:** `Machine Learning` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3523,17 +3341,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Application of Hybrid Chain Storage Framework in Energy Trading and Carbon Asset Management
+## 105. Application of Hybrid Chain Storage Framework in Energy Trading and Carbon Asset Management
 
 **arXiv ID:** 2601.04512 | [PDF](https://arxiv.org/pdf/2601.04512v1)
 
 **作者:** Yinghan Hou `[一作]` (Imperial College), Xiaokun Yang `[通讯]` (Nanchang Institute of Technology)
 
-**通讯引用:** 596 | **OpenAlex IDs:** https://openalex.org/A5058511319
+**通讯引用:** 596 | [OpenAlex ID](https://openalex.org/A5058511319)
 
 **关键词:** `Cryptography and Security` `Tabular` `Time Series` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3561,15 +3377,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Summary of The Inaugural Music Source Restoration Challenge
+## 106. Summary of The Inaugural Music Source Restoration Challenge
 
 **arXiv ID:** 2601.04343 | [PDF](https://arxiv.org/pdf/2601.04343v1)
 
 **作者:** Yongyi Zang `[一作]`, Mark D. Plumbley `[通讯]`
 
 **关键词:** `Sound` `Restoration` `Transformer` `Generative Adversarial Network` `Audio` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3597,15 +3411,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Complexity Agnostic Recursive Decomposition of Thoughts
+## 107. Complexity Agnostic Recursive Decomposition of Thoughts
 
 **arXiv ID:** 2601.04210 | [PDF](https://arxiv.org/pdf/2601.04210v1)
 
 **作者:** Kaleem Ullah Qasim `[一作]` (Southwest Jiaotong University), Hafiz Saif Ur Rehman `[通讯]` (Southwestern University of Finance and Economics)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Chain-of-Thought` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3633,17 +3445,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## AdaptEval: A Benchmark for Evaluating Large Language Models on Code Snippet Adaptation
+## 108. AdaptEval: A Benchmark for Evaluating Large Language Models on Code Snippet Adaptation
 
 **arXiv ID:** 2601.04540 | [PDF](https://arxiv.org/pdf/2601.04540v1)
 
 **作者:** Tanghaoran Zhang `[一作]` (National University of Defense and Technology), Yue Yu `[通讯]` (Peng Cheng Laboratory)
 
-**通讯引用:** 3811 | **OpenAlex IDs:** https://openalex.org/A5100397991
+**通讯引用:** 3811 | [OpenAlex ID](https://openalex.org/A5100397991)
 
 **关键词:** `Software Engineering` `AI Code Assistant` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3671,17 +3481,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Safety-Utility Conflicts Are Not Global: Surgical Alignment via Head-Level Diagnosis
+## 109. Safety-Utility Conflicts Are Not Global: Surgical Alignment via Head-Level Diagnosis
 
 **arXiv ID:** 2601.04262 | [PDF](https://arxiv.org/pdf/2601.04262v1)
 
 **作者:** Wang Cai `[一作]` (Baidu Inc.), Yunfang Wu `[通讯]` (Peking University)
 
-**通讯引用:** 981 | **OpenAlex IDs:** https://openalex.org/A5027803148
+**通讯引用:** 981 | [OpenAlex ID](https://openalex.org/A5027803148)
 
 **关键词:** `Machine Learning` `Safty and Privacy` `Optimization` `Transformer` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3709,17 +3517,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Dialect Matters: Cross-Lingual ASR Transfer for Low-Resource Indic Language Varieties
+## 110. Dialect Matters: Cross-Lingual ASR Transfer for Low-Resource Indic Language Varieties
 
 **arXiv ID:** 2601.04373 | [PDF](https://arxiv.org/pdf/2601.04373v1)
 
 **作者:** Akriti Dhasmana `[一作]` (University of Notre Dame), David Chiang `[通讯]` (University of Notre Dame)
 
-**通讯引用:** 6668 | **OpenAlex IDs:** https://openalex.org/A5036026526
+**通讯引用:** 6668 | [OpenAlex ID](https://openalex.org/A5036026526)
 
 **关键词:** `Computation and Language` `Recognition` `Domain Adaptation` `Supervised Fine-Tuning` `Audio`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3747,17 +3553,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## A Semi-supervised Molecular Learning Framework for Activity Cliff Estimation
+## 111. A Semi-supervised Molecular Learning Framework for Activity Cliff Estimation
 
 **arXiv ID:** 2601.04507 | [PDF](https://arxiv.org/pdf/2601.04507v1)
 
 **作者:** Fang Wu `[一作]` (Stanford University), Fang Wu `[通讯]` (Stanford University)
 
-**通讯引用:** 4311 | **OpenAlex IDs:** https://openalex.org/A5040225125
+**通讯引用:** 4311 | [OpenAlex ID](https://openalex.org/A5040225125)
 
 **关键词:** `Computational Engineering, Finance, and Science` `Drug Discovery` `Graph Neural Network` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3785,15 +3589,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## The Overlooked Role of Graded Relevance Thresholds in Multilingual Dense Retrieval
+## 112. The Overlooked Role of Graded Relevance Thresholds in Multilingual Dense Retrieval
 
 **arXiv ID:** 2601.04395 | [PDF](https://arxiv.org/pdf/2601.04395v1)
 
 **作者:** Tomer Wullach `[一作]` (OriginAI), Amir DN Cohen `[通讯]` (OriginAI)
 
 **关键词:** `Information Retrieval` `Retrieval` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Contrastive Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3821,17 +3623,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## SciFig: Towards Automating Scientific Figure Generation
+## 113. SciFig: Towards Automating Scientific Figure Generation
 
 **arXiv ID:** 2601.04390 | [PDF](https://arxiv.org/pdf/2601.04390v1)
 
 **作者:** Siyuan Huang `[一作]` (Johns Hopkins University), Shraman Pramanick `[通讯]` (Johns Hopkins University)
 
-**通讯引用:** 551 | **OpenAlex IDs:** https://openalex.org/A5067636415
+**通讯引用:** 551 | [OpenAlex ID](https://openalex.org/A5067636415)
 
 **关键词:** `Artificial Intelligence` `Generation` `Large Language Model` `Chain-of-Thought` `Diffusion model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3859,15 +3659,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards
+## 114. Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards
 
 **arXiv ID:** 2601.04411 | [PDF](https://arxiv.org/pdf/2601.04411v1)
 
 **作者:** Ali Rad `[一作]` (Cognichip), Ehsan Kamalinejad `[通讯]` (Cognichip)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3895,17 +3693,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Computational Compliance for AI Regulation: Blueprint for a New Research Domain
+## 115. Computational Compliance for AI Regulation: Blueprint for a New Research Domain
 
 **arXiv ID:** 2601.04474 | [PDF](https://arxiv.org/pdf/2601.04474v1)
 
 **作者:** Bill Marino `[一作]` (University of Cambridge), Nicholas D. Lane `[通讯]` (University of Cambridge)
 
-**通讯引用:** 16812 | **OpenAlex IDs:** https://openalex.org/A5045638679
+**通讯引用:** 16812 | [OpenAlex ID](https://openalex.org/A5045638679)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Supervised Fine-Tuning` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3933,15 +3729,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Phasor Agents: Oscillatory Graphs with Three-Factor Plasticity and Sleep-Staged Learning
+## 116. Phasor Agents: Oscillatory Graphs with Three-Factor Plasticity and Sleep-Staged Learning
 
 **arXiv ID:** 2601.04362 | [PDF](https://arxiv.org/pdf/2601.04362v1)
 
 **作者:** Rodja Trappe `[一作]` (Zauberzeug GmbH), Rodja Trappe `[通讯]` (Zauberzeug GmbH)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Graph Neural Network` `Reinforcement Learning` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -3969,17 +3763,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Causally-Aware Information Bottleneck for Domain Adaptation
+## 117. Causally-Aware Information Bottleneck for Domain Adaptation
 
 **arXiv ID:** 2601.04361 | [PDF](https://arxiv.org/pdf/2601.04361v1)
 
 **作者:** Mohammad Ali Javidian `[一作]` (Appalachian State University), Mohammad Ali Javidian `[通讯]` (Appalachian State University)
 
-**通讯引用:** 92 | **OpenAlex IDs:** https://openalex.org/A5011786801
+**通讯引用:** 92 | [OpenAlex ID](https://openalex.org/A5011786801)
 
 **关键词:** `Machine Learning` `Domain Adaptation` `Gaussian Splatting` `Variational Information Bottleneck` `Causal Information Bottleneck` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4007,17 +3799,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## AgentTutor: Empowering Personalized Learning with Multi-Turn Interactive Teaching in Intelligent Education Systems
+## 118. AgentTutor: Empowering Personalized Learning with Multi-Turn Interactive Teaching in Intelligent Education Systems
 
 **arXiv ID:** 2601.04219 | [PDF](https://arxiv.org/pdf/2601.04219v1)
 
 **作者:** Yuxin Liu `[一作]` (Shanghai Jiao Tong University), Jie Li `[通讯]` (Shanghai Jiao Tong University)
 
-**通讯引用:** 26452 | **OpenAlex IDs:** https://openalex.org/A5100428255
+**通讯引用:** 26452 | [OpenAlex ID](https://openalex.org/A5100428255)
 
 **关键词:** `Computers and Society` `Transformer` `Large Language Model` `Agentic AI` `Multimodality` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4045,15 +3835,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache
+## 119. PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache
 
 **arXiv ID:** 2601.04359 | [PDF](https://arxiv.org/pdf/2601.04359v1)
 
 **作者:** Kunyang Li `[一作]` (Institute of Artificial Intelligence University of Central Florida), Yuzhang Shang `[通讯]` (Institute of Artificial Intelligence University of Central Florida)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Computational Efficiency` `Transformer` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4081,15 +3869,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Integrating Multi-Agent Simulation, Behavioral Forensics, and Trust-Aware Machine Learning for Adaptive Insider Threat Detection
+## 120. Integrating Multi-Agent Simulation, Behavioral Forensics, and Trust-Aware Machine Learning for Adaptive Insider Threat Detection
 
 **arXiv ID:** 2601.04243 | [PDF](https://arxiv.org/pdf/2601.04243v1)
 
 **作者:** Firdous Kausar `[一作]` (Meharry Medical), Mohamed Zakaria Kurdi `[通讯]` (Meharry Medical)
 
 **关键词:** `Cryptography and Security` `Anomaly Detection` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4117,15 +3903,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Differential Locally Injective Grid Deformation and Optimization
+## 121. Differential Locally Injective Grid Deformation and Optimization
 
 **arXiv ID:** 2601.04494 | [PDF](https://arxiv.org/pdf/2601.04494v1)
 
 **作者:** Julian Knodt `[一作]` (POSTECH), Seung-Hwan Baek `[通讯]` (POSTECH)
 
 **关键词:** `Graphics` `Optimization` `Compression` `Mesh` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4153,15 +3937,13 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Predictive Controlled Music
+## 122. Predictive Controlled Music
 
 **arXiv ID:** 2601.04221 | [PDF](https://arxiv.org/pdf/2601.04221v1)
 
 **作者:** Midhun T. Augustine `[一作]` (University of Alberta), Midhun T. Augustine `[通讯]` (University of Alberta)
 
 **关键词:** `Sound` `Generation` `Optimization` `Recurrent Neural Network` `Audio` `Sequential`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4189,7 +3971,7 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## Social Engineering Attacks: A Systemisation of Knowledge on People Against Humans
+## 123. Social Engineering Attacks: A Systemisation of Knowledge on People Against Humans
 
 **arXiv ID:** 2601.04215 | [PDF](https://arxiv.org/pdf/2601.04215v1)
 
@@ -4199,17 +3981,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## TSSR: Two-Stage Swap-Reward-Driven Reinforcement Learning for Character-Level SMILES Generation
+## 124. TSSR: Two-Stage Swap-Reward-Driven Reinforcement Learning for Character-Level SMILES Generation
 
 **arXiv ID:** 2601.04521 | [PDF](https://arxiv.org/pdf/2601.04521v1)
 
 **作者:** Jacob Ede Levine `[一作]` (California State Polytechnic University), Sai Chandra Kosaraju `[通讯]` (California State Polytechnic University)
 
-**通讯引用:** 245 | **OpenAlex IDs:** https://openalex.org/A5010258542
+**通讯引用:** 245 | [OpenAlex ID](https://openalex.org/A5010258542)
 
 **关键词:** `Machine Learning` `Generation` `Reinforcement Learning` `Drug Discovery` `Recurrent Neural Network` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4237,17 +4017,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation
+## 125. TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation
 
 **arXiv ID:** 2601.04202 | [PDF](https://arxiv.org/pdf/2601.04202v1)
 
 **作者:** Anas Ezzakri `[一作]` (Huawei Technologies), Haozhe Zhang `[通讯]` (Huawei Technologies)
 
-**通讯引用:** 372 | **OpenAlex IDs:** https://openalex.org/A5100710300
+**通讯引用:** 372 | [OpenAlex ID](https://openalex.org/A5100710300)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Retrieval-Augmented Generation` `Chain-of-Thought` `Vision Language Model` `Tabular` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4275,17 +4053,15 @@ HOTGAME 语料库：9,029 首 House/Techno 曲目（4,667 德国 + 4,362 美国�
 
 ---
 
-## WESR: Scaling and Evaluating Word-level Event-Speech Recognition
+## 126. WESR: Scaling and Evaluating Word-level Event-Speech Recognition
 
 **arXiv ID:** 2601.04508 | [PDF](https://arxiv.org/pdf/2601.04508v1)
 
 **作者:** Chenchen Yang `[一作]` (Fudan University), Xipeng Qiu `[通讯]` (Fudan University)
 
-**通讯引用:** 17130 | **OpenAlex IDs:** https://openalex.org/A5044665993
+**通讯引用:** 17130 | [OpenAlex ID](https://openalex.org/A5044665993)
 
 **关键词:** `Computation and Language` `Recognition` `Transformer` `Supervised Fine-Tuning` `Large Language Model` `Audio` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4313,15 +4089,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Shadow Unlearning: A Neuro-Semantic Approach to Fidelity-Preserving Faceless Forgetting in LLMs
+## 127. Shadow Unlearning: A Neuro-Semantic Approach to Fidelity-Preserving Faceless Forgetting in LLMs
 
 **arXiv ID:** 2601.04275 | [PDF](https://arxiv.org/pdf/2601.04275v1)
 
 **作者:** Dinesh Srivasthav P `[一作]` (TCS Research), Ponnurangam Kumaraguru `[通讯]` (IIIT Hyderabad)
 
 **关键词:** `Cryptography and Security` `Safty and Privacy` `Computational Efficiency` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4349,17 +4123,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Generative Teaching via Code
+## 128. Generative Teaching via Code
 
 **arXiv ID:** 2601.04204 | [PDF](https://arxiv.org/pdf/2601.04204v1)
 
 **作者:** Yuheng Wang `[一作]` (Shanghai Jiao Tong University), Chen Qian `[通讯]` (Shanghai Jiao Tong University)
 
-**通讯引用:** 50873 | **OpenAlex IDs:** https://openalex.org/A5100428454
+**通讯引用:** 50873 | [OpenAlex ID](https://openalex.org/A5100428454)
 
 **关键词:** `Computers and Society` `Generation` `Data Synthesis` `Large Language Model` `Agentic AI` `Video` `Text` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4387,7 +4159,7 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Transformer-Based Multi-Modal Temporal Embeddings for Explainable Metabolic Phenotyping in Type 1 Diabetes
+## 129. Transformer-Based Multi-Modal Temporal Embeddings for Explainable Metabolic Phenotyping in Type 1 Diabetes
 
 **arXiv ID:** 2601.04299 | [PDF](https://arxiv.org/pdf/2601.04299v1)
 
@@ -4397,15 +4169,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Assessing the quality and coherence of word embeddings after SCM-based intersectional bias mitigation
+## 130. Assessing the quality and coherence of word embeddings after SCM-based intersectional bias mitigation
 
 **arXiv ID:** 2601.04393 | [PDF](https://arxiv.org/pdf/2601.04393v1)
 
 **作者:** Eren Kocadag `[一作]`, Ali Mohammed Mansoor Alsahag `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4433,17 +4203,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Scalable Floating-Point Satisfiability via Staged Optimization
+## 131. Scalable Floating-Point Satisfiability via Staged Optimization
 
 **arXiv ID:** 2601.04492 | [PDF](https://arxiv.org/pdf/2601.04492v1)
 
 **作者:** Yuanzhuo Zhang `[一作]` (Virginia Tech), Binoy Ravindran `[通讯]` (Virginia Tech)
 
-**通讯引用:** 3924 | **OpenAlex IDs:** https://openalex.org/A5067528153
+**通讯引用:** 3924 | [OpenAlex ID](https://openalex.org/A5067528153)
 
 **关键词:** `Programming Languages` `Optimization`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4471,17 +4239,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Towards Spatio-Temporal Extrapolation of Phase-Field Simulations with Convolution-Only Neural Networks
+## 132. Towards Spatio-Temporal Extrapolation of Phase-Field Simulations with Convolution-Only Neural Networks
 
 **arXiv ID:** 2601.04510 | [PDF](https://arxiv.org/pdf/2601.04510v1)
 
 **作者:** Christophe Bonneville `[一作]` (Sandia National Laboratories), Cosmin Safta `[通讯]` (Sandia National Laboratories)
 
-**通讯引用:** 1320 | **OpenAlex IDs:** https://openalex.org/A5070944838
+**通讯引用:** 1320 | [OpenAlex ID](https://openalex.org/A5070944838)
 
 **关键词:** `Computational Engineering, Finance, and Science` `Generation` `Data Synthesis` `Computational Efficiency` `Convolutional Neural Network` `Diffusion model` `Image` `Physics Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4509,15 +4275,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Categorical Belief Propagation: Sheaf-Theoretic Inference via Descent and Holonomy
+## 133. Categorical Belief Propagation: Sheaf-Theoretic Inference via Descent and Holonomy
 
 **arXiv ID:** 2601.04456 | [PDF](https://arxiv.org/pdf/2601.04456v1)
 
 **作者:** Enrique ter Horst `[一作]` (Universidad de los Andes), Juan Diego Zambrano `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Graph Neural Network` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4545,17 +4309,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting
+## 134. SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting
 
 **arXiv ID:** 2601.04348 | [PDF](https://arxiv.org/pdf/2601.04348v1)
 
 **作者:** Diego Revilla `[一作]` (University of Deusto), Ooi Wei Tsang `[通讯]` (National University of Singapore)
 
-**通讯引用:** 2771 | **OpenAlex IDs:** https://openalex.org/A5072587271
+**通讯引用:** 2771 | [OpenAlex ID](https://openalex.org/A5072587271)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Compression` `Recurrent Neural Network` `Gaussian Splatting` `Auto Encoder` `Point Cloud`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4583,17 +4345,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Leveraging Language Models and RAG for Efficient Knowledge Discovery in Clinical Environments
+## 135. Leveraging Language Models and RAG for Efficient Knowledge Discovery in Clinical Environments
 
 **arXiv ID:** 2601.04209 | [PDF](https://arxiv.org/pdf/2601.04209v1)
 
 **作者:** Seokhwan Ko `[一作]` (Kyungpook National University), Junghwan Cho `[通讯]` (Kyungpook National University)
 
-**通讯引用:** 963 | **OpenAlex IDs:** https://openalex.org/A5038559731
+**通讯引用:** 963 | [OpenAlex ID](https://openalex.org/A5038559731)
 
 **关键词:** `Computation and Language` `Recommendation System` `Retrieval` `Transformer` `Retrieval-Augmented Generation` `Prompt Engineering` `Large Language Model` `Text` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4621,17 +4381,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Advancing Language Models for Code-related Tasks
+## 136. Advancing Language Models for Code-related Tasks
 
 **arXiv ID:** 2601.04526 | [PDF](https://arxiv.org/pdf/2601.04526v1)
 
 **作者:** Zhao Tian `[一作]` (Tianjin University), Zhao Tian `[通讯]` (Tianjin University)
 
-**通讯引用:** 42474 | **OpenAlex IDs:** https://openalex.org/A5085086661
+**通讯引用:** 42474 | [OpenAlex ID](https://openalex.org/A5085086661)
 
 **关键词:** `Software Engineering` `AI Code Assistant` `Generation` `Transformer` `Large Language Model` `Prompt Engineering` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4659,17 +4417,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Online Action-Stacking Improves Reinforcement Learning Performance for Air Traffic Control
+## 137. Online Action-Stacking Improves Reinforcement Learning Performance for Air Traffic Control
 
 **arXiv ID:** 2601.04287 | [PDF](https://arxiv.org/pdf/2601.04287v1)
 
 **作者:** Ben Carvell `[一作]` (NATS), Richard Everson `[通讯]` (Alan Turing Institute)
 
-**通讯引用:** 9468 | **OpenAlex IDs:** https://openalex.org/A5016900158
+**通讯引用:** 9468 | [OpenAlex ID](https://openalex.org/A5016900158)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4697,17 +4453,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Machine Learning Model for Sparse PCM Completion
+## 138. Machine Learning Model for Sparse PCM Completion
 
 **arXiv ID:** 2601.04366 | [PDF](https://arxiv.org/pdf/2601.04366v1)
 
 **作者:** Selcuk Koyuncu `[一作]` (Coppin State University), Stephen Providence `[通讯]` (Coppin State University)
 
-**通讯引用:** 22 | **OpenAlex IDs:** https://openalex.org/A5050888625
+**通讯引用:** 22 | [OpenAlex ID](https://openalex.org/A5050888625)
 
 **关键词:** `Machine Learning` `Recommendation System` `Graph Neural Network` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4735,15 +4489,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Predictable Gradient Manifolds in Deep Learning: Temporal Path-Length and Intrinsic Rank as a Complexity Regime
+## 139. Predictable Gradient Manifolds in Deep Learning: Temporal Path-Length and Intrinsic Rank as a Complexity Regime
 
 **arXiv ID:** 2601.04270 | [PDF](https://arxiv.org/pdf/2601.04270v1)
 
 **作者:** Anherutowa Calvo `[一作]`, Anherutowa Calvo `[通讯]`
 
 **关键词:** `Machine Learning` `Optimization` `Convolutional Neural Network` `Transformer` `Tabular` `Sequential`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4771,17 +4523,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Comparative Analysis of Custom CNN Architectures versus Pre-trained Models and Transfer Learning: A Study on Five Bangladesh Datasets
+## 140. Comparative Analysis of Custom CNN Architectures versus Pre-trained Models and Transfer Learning: A Study on Five Bangladesh Datasets
 
 **arXiv ID:** 2601.04352 | [PDF](https://arxiv.org/pdf/2601.04352v1)
 
 **作者:** Ibrahim Tanvir `[一作]` (University of Dhaka), Sartaj Solaiman `[通讯]` (University of Dhaka)
 
-**通讯引用:** 2 | **OpenAlex IDs:** https://openalex.org/A5093910592
+**通讯引用:** 2 | [OpenAlex ID](https://openalex.org/A5093910592)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Classification` `Convolutional Neural Network` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4809,15 +4559,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## CRUNet-MR-Univ: A Foundation Model for Diverse Cardiac MRI Reconstruction
+## 141. CRUNet-MR-Univ: A Foundation Model for Diverse Cardiac MRI Reconstruction
 
 **arXiv ID:** 2601.04428 | [PDF](https://arxiv.org/pdf/2601.04428v1)
 
 **作者:** Donghang Lyu `[一作]` (Leiden University Medical Center), Mariya Doneva `[通讯]` (Philips Innovative Technologies)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Restoration` `Convolutional Neural Network` `Recurrent Neural Network` `Prompt Engineering` `Image` `Biomedical Data` `Magnetic Resonance Imaging`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4845,15 +4593,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## SmoothSync: Dual-Stream Diffusion Transformers for Jitter-Robust Beat-Synchronized Gesture Generation from Quantized Audio
+## 142. SmoothSync: Dual-Stream Diffusion Transformers for Jitter-Robust Beat-Synchronized Gesture Generation from Quantized Audio
 
 **arXiv ID:** 2601.04236 | [PDF](https://arxiv.org/pdf/2601.04236v1)
 
 **作者:** Yujiao Jiang `[一作]` (Shenzhen International Graduate School Tsinghua University), Zongqing Lu `[通讯]` (Shenzhen International Graduate School Tsinghua University)
 
 **关键词:** `Sound` `Generation` `Data Synthesis` `Transformer` `Diffusion model` `Audio` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4881,17 +4627,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## BanglaLorica: Design and Evaluation of a Robust Watermarking Algorithm for Large Language Models in Bangla Text Generation
+## 143. BanglaLorica: Design and Evaluation of a Robust Watermarking Algorithm for Large Language Models in Bangla Text Generation
 
 **arXiv ID:** 2601.04534 | [PDF](https://arxiv.org/pdf/2601.04534v1)
 
 **作者:** Amit Bin Tariqul `[一作]` (Islamic University of Technology), Md Kamrul Hasan `[通讯]` (Islamic University of Technology)
 
-**通讯引用:** 3157 | **OpenAlex IDs:** https://openalex.org/A5100656463
+**通讯引用:** 3157 | [OpenAlex ID](https://openalex.org/A5100656463)
 
 **关键词:** `Computation and Language` `Generation` `Adversarial Attack` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4919,17 +4663,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Beyond Interaction Effects: Two Logics for Studying Population Inequalities
+## 144. Beyond Interaction Effects: Two Logics for Studying Population Inequalities
 
 **arXiv ID:** 2601.04223 | [PDF](https://arxiv.org/pdf/2601.04223v1)
 
 **作者:** Adel Daoud `[一作]` (Linköping University), Adel Daoud `[通讯]` (Linköping University)
 
-**通讯引用:** 1293 | **OpenAlex IDs:** https://openalex.org/A5090745602
+**通讯引用:** 1293 | [OpenAlex ID](https://openalex.org/A5090745602)
 
 **关键词:** `Computers and Society` `Causal Forest` `Meta Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4957,17 +4699,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Using Large Language Models to Detect Socially Shared Regulation of Collaborative Learning
+## 145. Using Large Language Models to Detect Socially Shared Regulation of Collaborative Learning
 
 **arXiv ID:** 2601.04458 | [PDF](https://arxiv.org/pdf/2601.04458v1)
 
 **作者:** Jiayi Zhang `[一作]` (University of Pennsylvania), Gautam Biswas `[通讯]` (Vanderbilt University)
 
-**通讯引用:** 12884 | **OpenAlex IDs:** https://openalex.org/A5051150754
+**通讯引用:** 12884 | [OpenAlex ID](https://openalex.org/A5051150754)
 
 **关键词:** `Machine Learning` `Classification` `Transformer` `Large Language Model` `Text` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -4995,17 +4735,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## A Systematic Mapping Study on the Debugging of Autonomous Driving Systems
+## 146. A Systematic Mapping Study on the Debugging of Autonomous Driving Systems
 
 **arXiv ID:** 2601.04293 | [PDF](https://arxiv.org/pdf/2601.04293v1)
 
 **作者:** Nathan Shaw `[一作]` (University of Sheffield), Donghwan Shin `[通讯]` (University of Sheffield)
 
-**通讯引用:** 1028 | **OpenAlex IDs:** https://openalex.org/A5019085537
+**通讯引用:** 1028 | [OpenAlex ID](https://openalex.org/A5019085537)
 
 **关键词:** `Software Engineering` `Autonomous Driving` `Multimodality` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5033,15 +4771,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Meta-probabilistic Modeling
+## 147. Meta-probabilistic Modeling
 
 **arXiv ID:** 2601.04462 | [PDF](https://arxiv.org/pdf/2601.04462v1)
 
 **作者:** Kevin Zhang `[一作]`, Yixin Wang `[通讯]`
 
 **关键词:** `Machine Learning` `Meta Learning` `Explainability and Interpretability` `Auto Encoder` `Image` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5069,17 +4805,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## In-SRAM Radiant Foam Rendering on a Graph Processor
+## 148. In-SRAM Radiant Foam Rendering on a Graph Processor
 
 **arXiv ID:** 2601.04382 | [PDF](https://arxiv.org/pdf/2601.04382v1)
 
 **作者:** Zulkhuu Tuya `[一作]` (Imperial College London), Andrew J. Davison `[通讯]` (Imperial College London)
 
-**通讯引用:** 32669 | **OpenAlex IDs:** https://openalex.org/A5039230558
+**通讯引用:** 32669 | [OpenAlex ID](https://openalex.org/A5039230558)
 
 **关键词:** `Graphics` `Neural Radiance Field` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5107,15 +4841,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## An ASP-based Solution to the Medical Appointment Scheduling Problem
+## 149. An ASP-based Solution to the Medical Appointment Scheduling Problem
 
 **arXiv ID:** 2601.04274 | [PDF](https://arxiv.org/pdf/2601.04274v1)
 
 **作者:** Alina Vozna `[一作]` (University of Pisa), Dawid Pado `[通讯]` (University of L’Aquila)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Tabular` `Biomedical Data` `Electronic Health Records`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5143,17 +4875,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Memory-Guided Unified Hardware Accelerator for Mixed-Precision Scientific Computing
+## 150. Memory-Guided Unified Hardware Accelerator for Mixed-Precision Scientific Computing
 
 **arXiv ID:** 2601.04476 | [PDF](https://arxiv.org/pdf/2601.04476v1)
 
 **作者:** Chuanzhen Wang `[一作]` (Tongji University), Eric Liu `[通讯]` (Shanghai Jiao Tong University)
 
-**通讯引用:** 382 | **OpenAlex IDs:** https://openalex.org/A5078551074
+**通讯引用:** 382 | [OpenAlex ID](https://openalex.org/A5078551074)
 
 **关键词:** `Hardware Architecture` `Spiking Neural Network` `Image` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5181,15 +4911,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Disco-RAG: Discourse-Aware Retrieval-Augmented Generation
+## 151. Disco-RAG: Discourse-Aware Retrieval-Augmented Generation
 
 **arXiv ID:** 2601.04377 | [PDF](https://arxiv.org/pdf/2601.04377v1)
 
 **作者:** Dongqi Liu `[一作]` (Saarland University), Yabiao Wang `[通讯]` (Tencent YouTu Lab)
 
 **关键词:** `Computation and Language` `Generation` `Retrieval` `Transformer` `Large Language Model` `Retrieval-Augmented Generation` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5217,15 +4945,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models
+## 152. Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models
 
 **arXiv ID:** 2601.04448 | [PDF](https://arxiv.org/pdf/2601.04448v1)
 
 **作者:** San Kim `[一作]` (POSTECH), Gary Geunbae Lee `[通讯]` (POSTECH)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5253,17 +4979,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Automated Reproducibility Has a Problem Statement Problem
+## 153. Automated Reproducibility Has a Problem Statement Problem
 
 **arXiv ID:** 2601.04226 | [PDF](https://arxiv.org/pdf/2601.04226v1)
 
 **作者:** Thijs Snelleman `[一作]` (RWTH Aachen University), Odd Erik Gundersen `[通讯]` (Norwegian University of Science and Technology)
 
-**通讯引用:** 1181 | **OpenAlex IDs:** https://openalex.org/A5022601333
+**通讯引用:** 1181 | [OpenAlex ID](https://openalex.org/A5022601333)
 
 **关键词:** `Computers and Society` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5291,15 +5015,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## The Language of Bargaining: Linguistic Effects in LLM Negotiations
+## 154. The Language of Bargaining: Linguistic Effects in LLM Negotiations
 
 **arXiv ID:** 2601.04387 | [PDF](https://arxiv.org/pdf/2601.04387v1)
 
 **作者:** Stuti Sinha `[一作]` (Birla Institute of Technology and Science Pilani), Dhruv Kumar `[通讯]` (Birla Institute of Technology and Science Pilani)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5327,17 +5049,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space
+## 155. State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space
 
 **arXiv ID:** 2601.04266 | [PDF](https://arxiv.org/pdf/2601.04266v1)
 
 **作者:** Ji Guo `[一作]` (University of Electronic Science and Technology of China), Dusit Niyato `[通讯]` (Nanyang Technological University)
 
-**通讯引用:** 80345 | **OpenAlex IDs:** https://openalex.org/A5091266202
+**通讯引用:** 80345 | [OpenAlex ID](https://openalex.org/A5091266202)
 
 **关键词:** `Cryptography and Security` `Adversarial Attack` `Robotic Intelligence` `Vision-Language-Action Model` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5365,15 +5085,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Hybrid MKNF for Aeronautics Applications: Usage and Heuristics
+## 156. Hybrid MKNF for Aeronautics Applications: Usage and Heuristics
 
 **arXiv ID:** 2601.04273 | [PDF](https://arxiv.org/pdf/2601.04273v1)
 
 **作者:** Arun Raveendran Nair Sheela `[一作]` (Université Clermont Auvergne), Victor Charpenay `[通讯]` (École des Mines de Saint-Étienne)
 
 **关键词:** `Artificial Intelligence`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5401,15 +5119,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## IGA-LWP: An Iterative Gradient-based Adversarial Attack for Link Weight Prediction
+## 157. IGA-LWP: An Iterative Gradient-based Adversarial Attack for Link Weight Prediction
 
 **arXiv ID:** 2601.04259 | [PDF](https://arxiv.org/pdf/2601.04259v1)
 
 **作者:** Cunlai Pu `[一作]` (Nanjing University of Science and Technology), Rajput Ramiz Sharafat `[通讯]` (University of Science and Technology of China)
 
 **关键词:** `Social and Information Networks` `Adversarial Attack` `Optimization` `Graph Neural Network` `Auto Encoder` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5437,17 +5153,15 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Integrating Distribution Matching into Semi-Supervised Contrastive Learning for Labeled and Unlabeled Data
+## 158. Integrating Distribution Matching into Semi-Supervised Contrastive Learning for Labeled and Unlabeled Data
 
 **arXiv ID:** 2601.04518 | [PDF](https://arxiv.org/pdf/2601.04518v1)
 
 **作者:** Shogo Nakayama `[一作]` (Doshisha University), Masahiro Okuda `[通讯]` (Doshisha University)
 
-**通讯引用:** 4585 | **OpenAlex IDs:** https://openalex.org/A5025207272
+**通讯引用:** 4585 | [OpenAlex ID](https://openalex.org/A5025207272)
 
 **关键词:** `Artificial Intelligence` `Classification` `Contrastive Learning` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5475,15 +5189,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## Attachment Styles and AI Chatbot Interactions Among College Students
+## 159. Attachment Styles and AI Chatbot Interactions Among College Students
 
 **arXiv ID:** 2601.04217 | [PDF](https://arxiv.org/pdf/2601.04217v1)
 
 **作者:** Ziqi Lin `[一作]` (New York University), Taiyu Hou `[通讯]` (New York University)
 
 **关键词:** `Computers and Society` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5511,15 +5223,13 @@ WESR-Bench（900+句、21类事件，双语）、WESR-Train（1,767小时、英�
 
 ---
 
-## SAGE-32B: Agentic Reasoning via Iterative Distillation
+## 160. SAGE-32B: Agentic Reasoning via Iterative Distillation
 
 **arXiv ID:** 2601.04237 | [PDF](https://arxiv.org/pdf/2601.04237v1)
 
 **作者:** Basab Jha `[一作]` (SAGEA), Wang Junhao `[通讯]` (Fudan University)
 
 **关键词:** `Artificial Intelligence` `Knowledge Distillation` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5547,15 +5257,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Qwerty AI: Explainable Automated Age Rating and Content Safety Assessment for Russian-Language Screenplays
+## 161. Qwerty AI: Explainable Automated Age Rating and Content Safety Assessment for Russian-Language Screenplays
 
 **arXiv ID:** 2601.04211 | [PDF](https://arxiv.org/pdf/2601.04211v1)
 
 **作者:** Nikita Zmanovskii `[一作]` (Independent Researcher), Nikita Zmanovskii `[通讯]` (Independent Researcher)
 
 **关键词:** `Computation and Language` `Explainability and Interpretability` `Computational Efficiency` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5583,17 +5291,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## AI Agents as Policymakers in Simulated Epidemics
+## 162. AI Agents as Policymakers in Simulated Epidemics
 
 **arXiv ID:** 2601.04245 | [PDF](https://arxiv.org/pdf/2601.04245v1)
 
 **作者:** Goshi Aoki `[一作]` (Virginia Tech), Navid Ghaffarzadegan `[通讯]` (Virginia Tech)
 
-**通讯引用:** 1952 | **OpenAlex IDs:** https://openalex.org/A5078713927
+**通讯引用:** 1952 | [OpenAlex ID](https://openalex.org/A5078713927)
 
 **关键词:** `Multiagent Systems` `Transformer` `Large Language Model` `Agentic AI` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5621,15 +5327,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Privacy at Scale in Networked Healthcare
+## 163. Privacy at Scale in Networked Healthcare
 
 **arXiv ID:** 2601.04298 | [PDF](https://arxiv.org/pdf/2601.04298v1)
 
 **作者:** M. Amin Rahimian `[一作]` (University of Pittsburgh), James Joshi `[通讯]`
 
 **关键词:** `Cryptography and Security` `Safty and Privacy` `Federated Learning` `Biomedical Data` `Electronic Health Records`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5677,15 +5381,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## UNIC: Learning Unified Multimodal Extrinsic Contact Estimation
+## 164. UNIC: Learning Unified Multimodal Extrinsic Contact Estimation
 
 **arXiv ID:** 2601.04356 | [PDF](https://arxiv.org/pdf/2601.04356v1)
 
 **作者:** Zhengtong Xu `[一作]` (Purdue University), Yuki Shirai `[通讯]` (Mitsubishi Electric Research Laboratories)
 
 **关键词:** `Robotics` `Robotic Intelligence` `Transformer` `Multimodality` `Point Cloud`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5738,17 +5440,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Timeliness-Oriented Scheduling and Resource Allocation in Multi-Region Collaborative Perception
+## 165. Timeliness-Oriented Scheduling and Resource Allocation in Multi-Region Collaborative Perception
 
 **arXiv ID:** 2601.04542 | [PDF](https://arxiv.org/pdf/2601.04542v1)
 
 **作者:** Mengmeng Zhu `[一作]` (Beijing Jiaotong University), Sheng Zhou `[通讯]` (Tsinghua University)
 
-**通讯引用:** 12524 | **OpenAlex IDs:** https://openalex.org/A5021120517
+**通讯引用:** 12524 | [OpenAlex ID](https://openalex.org/A5021120517)
 
 **关键词:** `Machine Learning` `Optimization` `Lyapunov optimization` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5776,17 +5476,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Actively Obtaining Environmental Feedback for Autonomous Action Evaluation Without Predefined Measurements
+## 166. Actively Obtaining Environmental Feedback for Autonomous Action Evaluation Without Predefined Measurements
 
 **arXiv ID:** 2601.04235 | [PDF](https://arxiv.org/pdf/2601.04235v1)
 
 **作者:** Hong Su `[一作]` (Chengdu University of Information Technology), Hong Su `[通讯]` (Chengdu University of Information Technology)
 
-**通讯引用:** 145 | **OpenAlex IDs:** https://openalex.org/A5031030652
+**通讯引用:** 145 | [OpenAlex ID](https://openalex.org/A5031030652)
 
 **关键词:** `Artificial Intelligence` `Robotic Intelligence` `Transformer` `Large Language Model` `Agentic AI` `Text` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5814,15 +5512,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## When Models Manipulate Manifolds: The Geometry of a Counting Task
+## 167. When Models Manipulate Manifolds: The Geometry of a Counting Task
 
 **arXiv ID:** 2601.04480 | [PDF](https://arxiv.org/pdf/2601.04480v1)
 
 **作者:** Wes Gurnee `[一作]` (Anthropic), Joshua Batson `[通讯]` (Anthropic)
 
 **关键词:** `Machine Learning` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5850,15 +5546,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Explainable Admission-Level Predictive Modeling for Prolonged Hospital Stay in Elderly Populations: Challenges in Low- and Middle-Income Countries
+## 168. Explainable Admission-Level Predictive Modeling for Prolonged Hospital Stay in Elderly Populations: Challenges in Low- and Middle-Income Countries
 
 **arXiv ID:** 2601.04449 | [PDF](https://arxiv.org/pdf/2601.04449v1)
 
 **作者:** Daniel Sierra-Botero `[一作]` (University of Antioquia), Olga Lopez-Acevedo `[通讯]` (University of Antioquia)
 
 **关键词:** `Machine Learning` `Explainability and Interpretability` `Tabular` `Biomedical Data` `Electronic Health Records`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5886,7 +5580,7 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Enhancing Robustness of Asynchronous EEG-Based Movement Prediction using Classifier Ensembles
+## 169. Enhancing Robustness of Asynchronous EEG-Based Movement Prediction using Classifier Ensembles
 
 **arXiv ID:** 2601.04286 | [PDF](https://arxiv.org/pdf/2601.04286v1)
 
@@ -5896,15 +5590,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Green MLOps: Closed-Loop, Energy-Aware Inference with NVIDIA Triton, FastAPI, and Bio-Inspired Thresholding
+## 170. Green MLOps: Closed-Loop, Energy-Aware Inference with NVIDIA Triton, FastAPI, and Bio-Inspired Thresholding
 
 **arXiv ID:** 2601.04250 | [PDF](https://arxiv.org/pdf/2601.04250v1)
 
 **作者:** Mustapha Hamdi `[一作]`, Mourad Jabou `[通讯]`
 
 **关键词:** `Machine Learning` `Protein Structure Prediction` `Computational Efficiency` `Transformer` `Supervised Fine-Tuning` `Text` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5932,17 +5624,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Gavel: Agent Meets Checklist for Evaluating LLMs on Long-Context Legal Summarization
+## 171. Gavel: Agent Meets Checklist for Evaluating LLMs on Long-Context Legal Summarization
 
 **arXiv ID:** 2601.04424 | [PDF](https://arxiv.org/pdf/2601.04424v1)
 
 **作者:** Yao Dou `[一作]` (Georgia Institute of Technology), Wei Xu `[通讯]` (Georgia Institute of Technology)
 
-**通讯引用:** 21777 | **OpenAlex IDs:** https://openalex.org/A5100690851
+**通讯引用:** 21777 | [OpenAlex ID](https://openalex.org/A5100690851)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Agentic AI` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -5970,17 +5660,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## AHA: Scalable Alternative History Analysis for Operational Timeseries Applications
+## 172. AHA: Scalable Alternative History Analysis for Operational Timeseries Applications
 
 **arXiv ID:** 2601.04432 | [PDF](https://arxiv.org/pdf/2601.04432v1)
 
 **作者:** Harshavardhan Kamarthi `[一作]` (Georgia Institute of Technology), Vyas Sekar `[通讯]` (Carnegie Mellon University)
 
-**通讯引用:** 16436 | **OpenAlex IDs:** https://openalex.org/A5079175103
+**通讯引用:** 16436 | [OpenAlex ID](https://openalex.org/A5079175103)
 
 **关键词:** `Databases` `Computational Efficiency` `Anomaly Detection` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6008,15 +5696,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## LLM-Guided Lifecycle-Aware Clustering of Multi-Turn Customer Support Conversations
+## 173. LLM-Guided Lifecycle-Aware Clustering of Multi-Turn Customer Support Conversations
 
 **arXiv ID:** 2601.04388 | [PDF](https://arxiv.org/pdf/2601.04388v1)
 
 **作者:** Priyaranjan Pattnayak `[一作]` (Oracle America Inc), Hitesh Laxmichand Patel `[通讯]` (Oracle America Inc)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6044,15 +5730,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## MiJaBench: Revealing Minority Biases in Large Language Models via Hate Speech Jailbreaking
+## 174. MiJaBench: Revealing Minority Biases in Large Language Models via Hate Speech Jailbreaking
 
 **arXiv ID:** 2601.04389 | [PDF](https://arxiv.org/pdf/2601.04389v1)
 
 **作者:** Iago Alves Brito `[一作]`, Arlindo Rodrigues Galvão Filho `[通讯]`
 
 **关键词:** `Computation and Language` `Adversarial Attack` `Safty and Privacy` `Transformer` `Large Language Model` `Chain-of-Thought` `Prompt Engineering` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6080,17 +5764,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Enhanced-FQL($λ$), an Efficient and Interpretable RL with novel Fuzzy Eligibility Traces and Segmented Experience Replay
+## 175. Enhanced-FQL($λ$), an Efficient and Interpretable RL with novel Fuzzy Eligibility Traces and Segmented Experience Replay
 
 **arXiv ID:** 2601.04392 | [PDF](https://arxiv.org/pdf/2601.04392v1)
 
 **作者:** Mohsen Jalaeian-Farimani `[一作]` (Politecnico di Milano), Mohsen Jalaeian-Farimani `[通讯]` (Politecnico di Milano)
 
-**通讯引用:** 90 | **OpenAlex IDs:** https://openalex.org/A5066851566
+**通讯引用:** 90 | [OpenAlex ID](https://openalex.org/A5066851566)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6118,17 +5800,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Unlocking the Pre-Trained Model as a Dual-Alignment Calibrator for Post-Trained LLMs
+## 176. Unlocking the Pre-Trained Model as a Dual-Alignment Calibrator for Post-Trained LLMs
 
 **arXiv ID:** 2601.04277 | [PDF](https://arxiv.org/pdf/2601.04277v1)
 
 **作者:** Beier Luo `[一作]` (Southern University of Science and Technology), Xuefeng Du `[通讯]` (Nanyang Technological University)
 
-**通讯引用:** 768 | **OpenAlex IDs:** https://openalex.org/A5001001983
+**通讯引用:** 768 | [OpenAlex ID](https://openalex.org/A5001001983)
 
 **关键词:** `Machine Learning` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6156,15 +5836,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Cross-Language Speaker Attribute Prediction Using MIL and RL
+## 177. Cross-Language Speaker Attribute Prediction Using MIL and RL
 
 **arXiv ID:** 2601.04257 | [PDF](https://arxiv.org/pdf/2601.04257v1)
 
 **作者:** Sunny Shu `[一作]` (Informatics Institute University of Amsterdam), Ali Mohammed Mansoor Alsahag `[通讯]` (Informatics Institute University of Amsterdam)
 
 **关键词:** `Artificial Intelligence` `Classification` `Domain Adaptation` `Reinforcement Learning` `Transformer` `Reinforcement Learning` `Text` `Audio`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6192,15 +5870,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration
+## 178. TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration
 
 **arXiv ID:** 2601.04544 | [PDF](https://arxiv.org/pdf/2601.04544v1)
 
 **作者:** Jiuzhou Zhao `[一作]` (Tencent Cloud Andon), Yanchi Liu Yongzhou Xu Xiaochuan Xu Min Zhang `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Reinforcement Learning` `Chain-of-Thought` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6228,17 +5904,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Paradoxical noise preference in RNNs
+## 179. Paradoxical noise preference in RNNs
 
 **arXiv ID:** 2601.04539 | [PDF](https://arxiv.org/pdf/2601.04539v1)
 
 **作者:** Noah Eckstein `[一作]` (Ohio State University), Manoj Srinivasan `[通讯]` (Ohio State University)
 
-**通讯引用:** 2479 | **OpenAlex IDs:** https://openalex.org/A5062283980
+**通讯引用:** 2479 | [OpenAlex ID](https://openalex.org/A5062283980)
 
 **关键词:** `Neural and Evolutionary Computing` `Recurrent Neural Network` `Stochastic Differential Equation` `Time Series` `Sequential`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6266,15 +5940,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## A Closed-Loop Multi-Agent System Driven by LLMs for Meal-Level Personalized Nutrition Management
+## 180. A Closed-Loop Multi-Agent System Driven by LLMs for Meal-Level Personalized Nutrition Management
 
 **arXiv ID:** 2601.04491 | [PDF](https://arxiv.org/pdf/2601.04491v1)
 
 **作者:** Muqing Xu `[一作]` (University of Bristol), Muqing Xu `[通讯]` (University of Bristol)
 
 **关键词:** `Artificial Intelligence` `Recommendation System` `Recognition` `Transformer` `Large Language Model` `Agentic AI` `Image` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6302,17 +5974,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Beyond Static Summarization: Proactive Memory Extraction for LLM Agents
+## 181. Beyond Static Summarization: Proactive Memory Extraction for LLM Agents
 
 **arXiv ID:** 2601.04463 | [PDF](https://arxiv.org/pdf/2601.04463v1)
 
 **作者:** Chengyuan Yang `[一作]` (Nanjing University), Wei Hu `[通讯]` (Nanjing University)
 
-**通讯引用:** 10465 | **OpenAlex IDs:** https://openalex.org/A5022039557
+**通讯引用:** 10465 | [OpenAlex ID](https://openalex.org/A5022039557)
 
 **关键词:** `Computation and Language` `Large Language Model` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6340,17 +6010,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## BioPIE: A Biomedical Protocol Information Extraction Dataset for High-Reasoning-Complexity Experiment Question Answer
+## 182. BioPIE: A Biomedical Protocol Information Extraction Dataset for High-Reasoning-Complexity Experiment Question Answer
 
 **arXiv ID:** 2601.04524 | [PDF](https://arxiv.org/pdf/2601.04524v1)
 
 **作者:** Haofei Hou `[一作]` (Peking University), Qining Wang `[通讯]` (Peking University)
 
-**通讯引用:** 4151 | **OpenAlex IDs:** https://openalex.org/A5025723618
+**通讯引用:** 4151 | [OpenAlex ID](https://openalex.org/A5025723618)
 
 **关键词:** `Artificial Intelligence` `Knowledge Distillation` `Drug Discovery` `Transformer` `Large Language Model` `Retrieval-Augmented Generation` `Supervised Fine-Tuning` `Biomedical Data` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6378,17 +6046,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Concept Tokens: Learning Behavioral Embeddings Through Concept Definitions
+## 183. Concept Tokens: Learning Behavioral Embeddings Through Concept Definitions
 
 **arXiv ID:** 2601.04465 | [PDF](https://arxiv.org/pdf/2601.04465v1)
 
 **作者:** Ignacio Sastre `[一作]` (Universidad de la República), Aiala Rosá `[通讯]` (Universidad de la República)
 
-**通讯引用:** 209 | **OpenAlex IDs:** https://openalex.org/A5104021555
+**通讯引用:** 209 | [OpenAlex ID](https://openalex.org/A5104021555)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6416,17 +6082,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers
+## 184. Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers
 
 **arXiv ID:** 2601.04547 | [PDF](https://arxiv.org/pdf/2601.04547v1)
 
 **作者:** Jakob M. Kern `[一作]` (Tohoku University), Kazuya Yoshida `[通讯]` (Tohoku University)
 
-**通讯引用:** 13030 | **OpenAlex IDs:** https://openalex.org/A5023419492
+**通讯引用:** 13030 | [OpenAlex ID](https://openalex.org/A5023419492)
 
 **关键词:** `Robotics`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6454,7 +6118,7 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Self-MedRAG: a Self-Reflective Hybrid Retrieval-Augmented Generation Framework for Reliable Medical Question Answering
+## 185. Self-MedRAG: a Self-Reflective Hybrid Retrieval-Augmented Generation Framework for Reliable Medical Question Answering
 
 **arXiv ID:** 2601.04531 | [PDF](https://arxiv.org/pdf/2601.04531v1)
 
@@ -6464,15 +6128,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Personalized Model-Based Design of Human Centric AI enabled CPS for Long term usage
+## 186. Personalized Model-Based Design of Human Centric AI enabled CPS for Long term usage
 
 **arXiv ID:** 2601.04545 | [PDF](https://arxiv.org/pdf/2601.04545v1)
 
 **作者:** Bernard Ngabonziza `[一作]` (Arizona State University), Sandeep K. S. Gupta `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Safty and Privacy` `Compression` `Anomaly Detection` `Biomedical Data` `Time Series` `Electrocardiogram`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6500,17 +6162,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Design and Development of Modular Limbs for Reconfigurable Robots on the Moon
+## 187. Design and Development of Modular Limbs for Reconfigurable Robots on the Moon
 
 **arXiv ID:** 2601.04541 | [PDF](https://arxiv.org/pdf/2601.04541v1)
 
 **作者:** Gustavo H. Diaz `[一作]` (Tohoku University), Kazuya Yoshida `[通讯]` (Tohoku University)
 
-**通讯引用:** 13030 | **OpenAlex IDs:** https://openalex.org/A5023419492
+**通讯引用:** 13030 | [OpenAlex ID](https://openalex.org/A5023419492)
 
 **关键词:** `Robotics` `Robotic Intelligence`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6538,15 +6198,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Not All Steps are Informative: On the Linearity of LLMs' RLVR Training
+## 188. Not All Steps are Informative: On the Linearity of LLMs' RLVR Training
 
 **arXiv ID:** 2601.04537 | [PDF](https://arxiv.org/pdf/2601.04537v1)
 
 **作者:** Tianle Wang `[一作]` (City University of Hong Kong), Ning Miao `[通讯]` (City University of Hong Kong)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Transformer` `Reinforcement Learning` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6574,17 +6232,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## GRACE: Reinforcement Learning for Grounded Response and Abstention under Contextual Evidence
+## 189. GRACE: Reinforcement Learning for Grounded Response and Abstention under Contextual Evidence
 
 **arXiv ID:** 2601.04525 | [PDF](https://arxiv.org/pdf/2601.04525v1)
 
 **作者:** Yibo Zhao `[一作]` (East China Normal University), Xiang Li `[通讯]` (East China Normal University)
 
-**通讯引用:** 40636 | **OpenAlex IDs:** https://openalex.org/A5041120433
+**通讯引用:** 40636 | [OpenAlex ID](https://openalex.org/A5041120433)
 
 **关键词:** `Computation and Language` `Reinforcement Learning` `Retrieval` `Reinforcement Learning` `Retrieval-Augmented Generation` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6612,17 +6268,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Multiagent Reinforcement Learning with Neighbor Action Estimation
+## 190. Multiagent Reinforcement Learning with Neighbor Action Estimation
 
 **arXiv ID:** 2601.04511 | [PDF](https://arxiv.org/pdf/2601.04511v1)
 
 **作者:** Zhenglong Luo `[一作]` (University of Newcastle), Aoxiang Liu `[通讯]` (Central South University)
 
-**通讯引用:** 7 | **OpenAlex IDs:** https://openalex.org/A5111006598
+**通讯引用:** 7 | [OpenAlex ID](https://openalex.org/A5111006598)
 
 **关键词:** `Robotics` `Reinforcement Learning` `Robotic Intelligence` `Reinforcement Learning` `Sequential`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6650,17 +6304,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Specific Emitter Identification via Active Learning
+## 191. Specific Emitter Identification via Active Learning
 
 **arXiv ID:** 2601.04502 | [PDF](https://arxiv.org/pdf/2601.04502v1)
 
 **作者:** Jingyi Wang `[一作]` (Beijing Jiaotong University), Fanggang Wang `[通讯]` (Beijing Jiaotong University)
 
-**通讯引用:** 1152 | **OpenAlex IDs:** https://openalex.org/A5102985769
+**通讯引用:** 1152 | [OpenAlex ID](https://openalex.org/A5102985769)
 
 **关键词:** `Artificial Intelligence` `Recognition` `Convolutional Neural Network` `Contrastive Learning` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6688,7 +6340,7 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Evaluating Human and Machine Confidence in Phishing Email Detection: A Comparative Study
+## 192. Evaluating Human and Machine Confidence in Phishing Email Detection: A Comparative Study
 
 **arXiv ID:** 2601.04610 | [PDF](https://arxiv.org/pdf/2601.04610v1)
 
@@ -6698,17 +6350,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## GUITester: Enabling GUI Agents for Exploratory Defect Discovery
+## 193. GUITester: Enabling GUI Agents for Exploratory Defect Discovery
 
 **arXiv ID:** 2601.04500 | [PDF](https://arxiv.org/pdf/2601.04500v1)
 
 **作者:** Yifei Gao `[一作]` (Beijing Jiaotong University), Jitao Sang `[通讯]` (Beijing Jiaotong University)
 
-**通讯引用:** 2095 | **OpenAlex IDs:** https://openalex.org/A5023834030
+**通讯引用:** 2095 | [OpenAlex ID](https://openalex.org/A5023834030)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Agentic AI` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6736,15 +6386,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## IGenBench: Benchmarking the Reliability of Text-to-Infographic Generation
+## 194. IGenBench: Benchmarking the Reliability of Text-to-Infographic Generation
 
 **arXiv ID:** 2601.04498 | [PDF](https://arxiv.org/pdf/2601.04498v1)
 
 **作者:** Yinghao Tang `[一作]` (State Key Lab of CAD and CG, Zhejiang University), Wei Chen `[通讯]`
 
 **关键词:** `Machine Learning` `Generation` `Transformer` `Large Language Model` `Text` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6772,15 +6420,13 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## Understanding Gaming the System by Analyzing Self-Regulated Learning in Think-Aloud Protocols
+## 195. Understanding Gaming the System by Analyzing Self-Regulated Learning in Think-Aloud Protocols
 
 **arXiv ID:** 2601.04487 | [PDF](https://arxiv.org/pdf/2601.04487v1)
 
 **作者:** Jiayi Zhang `[一作]` (University of Pennsylvania), Ryan S. Baker `[通讯]` (Adelaide University)
 
 **关键词:** `Computers and Society` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6808,17 +6454,15 @@ SAGE-32B 是一种 32 亿参数的语言模型，专为代理式推理和长程�
 
 ---
 
-## SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation
+## 196. SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation
 
 **arXiv ID:** 2601.04638 | [PDF](https://arxiv.org/pdf/2601.04638v1)
 
 **作者:** Sirry Chen `[一作]` (Fudan University), Zhongyu Wei `[通讯]` (Fudan University)
 
-**通讯引用:** 5871 | **OpenAlex IDs:** https://openalex.org/A5011504177
+**通讯引用:** 5871 | [OpenAlex ID](https://openalex.org/A5011504177)
 
 **关键词:** `Computation and Language` `Domain Adaptation` `Computational Efficiency` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text` `Audio` `Multimodality` `Biomedical Data` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6846,15 +6490,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset
+## 197. From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset
 
 **arXiv ID:** 2601.04632 | [PDF](https://arxiv.org/pdf/2601.04632v1)
 
 **作者:** Haneul Yoo `[一作]` (Korea Advanced Institute of Science and Technology), Jiyoon Han `[通讯]`
 
 **关键词:** `Computation and Language` `Large Language Model` `Supervised Fine-Tuning` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6882,15 +6524,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## RecruitScope: A Visual Analytics System for Multidimensional Recruitment Data Analysis
+## 198. RecruitScope: A Visual Analytics System for Multidimensional Recruitment Data Analysis
 
 **arXiv ID:** 2601.04630 | [PDF](https://arxiv.org/pdf/2601.04630v1)
 
 **作者:** Xiyuan Zhu `[一作]`, Ran Wang `[通讯]`
 
 **关键词:** `Human-Computer Interaction` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6918,17 +6558,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## DeepHalo: A Neural Choice Model with Controllable Context Effects
+## 199. DeepHalo: A Neural Choice Model with Controllable Context Effects
 
 **arXiv ID:** 2601.04616 | [PDF](https://arxiv.org/pdf/2601.04616v1)
 
 **作者:** Shuhan Zhang `[一作]` (Chinese University of Hong Kong), Shuang Li `[通讯]` (Chinese University of Hong Kong)
 
-**通讯引用:** 25601 | **OpenAlex IDs:** https://openalex.org/A5100415884
+**通讯引用:** 25601 | [OpenAlex ID](https://openalex.org/A5100415884)
 
 **关键词:** `Machine Learning` `Recommendation System` `Explainability and Interpretability` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6956,17 +6594,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Density Matrix RNN (DM-RNN): A Quantum Information Theoretic Framework for Modeling Musical Context and Polyphony
+## 200. Density Matrix RNN (DM-RNN): A Quantum Information Theoretic Framework for Modeling Musical Context and Polyphony
 
 **arXiv ID:** 2601.04592 | [PDF](https://arxiv.org/pdf/2601.04592v1)
 
 **作者:** Joonwon Seo `[一作]` (Georgia State University), Mariana Montiel `[通讯]` (Georgia State University)
 
-**通讯引用:** 148 | **OpenAlex IDs:** https://openalex.org/A5062698749
+**通讯引用:** 148 | [OpenAlex ID](https://openalex.org/A5062698749)
 
 **关键词:** `Machine Learning` `Recurrent Neural Network` `Audio`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -6994,15 +6630,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Scaling Behavior Cloning Improves Causal Reasoning: An Open Model for Real-Time Video Game Playing
+## 201. Scaling Behavior Cloning Improves Causal Reasoning: An Open Model for Real-Time Video Game Playing
 
 **arXiv ID:** 2601.04575 | [PDF](https://arxiv.org/pdf/2601.04575v1)
 
 **作者:** Yuguang Yue `[一作]` (Player2), Jonathan J Hunt `[通讯]` (Player2)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Video` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7030,15 +6664,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## When Tone and Words Disagree: Towards Robust Speech Emotion Recognition under Acoustic-Semantic Conflict
+## 202. When Tone and Words Disagree: Towards Robust Speech Emotion Recognition under Acoustic-Semantic Conflict
 
 **arXiv ID:** 2601.04564 | [PDF](https://arxiv.org/pdf/2601.04564v1)
 
 **作者:** Dawei Huang `[一作]` (Inclusion AI), Xiaojiang Peng `[通讯]` (Shenzhen University)
 
 **关键词:** `Sound` `Classification` `Recognition` `Transformer` `Supervised Fine-Tuning` `Audio` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7066,17 +6698,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Improving Semi-Supervised Contrastive Learning via Entropy-Weighted Confidence Integration of Anchor-Positive Pairs
+## 203. Improving Semi-Supervised Contrastive Learning via Entropy-Weighted Confidence Integration of Anchor-Positive Pairs
 
 **arXiv ID:** 2601.04555 | [PDF](https://arxiv.org/pdf/2601.04555v1)
 
 **作者:** Shogo Nakayama `[一作]` (Doshisha University), Masahiro Okuda `[通讯]` (Doshisha University)
 
-**通讯引用:** 4585 | **OpenAlex IDs:** https://openalex.org/A5025207272
+**通讯引用:** 4585 | [OpenAlex ID](https://openalex.org/A5025207272)
 
 **关键词:** `Machine Learning` `Classification` `Representation Learning` `Optimization` `Convolutional Neural Network` `Contrastive Learning` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7104,17 +6734,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Exploring Recommender System Evaluation: A Multi-Modal User Agent Framework for A/B Testing
+## 204. Exploring Recommender System Evaluation: A Multi-Modal User Agent Framework for A/B Testing
 
 **arXiv ID:** 2601.04554 | [PDF](https://arxiv.org/pdf/2601.04554v1)
 
 **作者:** Wenlin Zhang `[一作]` (City University of Hong Kong), Xiangyu Zhao `[通讯]` (City University of Hong Kong)
 
-**通讯引用:** 5727 | **OpenAlex IDs:** https://openalex.org/A5100645854
+**通讯引用:** 5727 | [OpenAlex ID](https://openalex.org/A5100645854)
 
 **关键词:** `Information Retrieval` `Recommendation System` `Large Language Model` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7142,17 +6770,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain
+## 205. Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain
 
 **arXiv ID:** 2601.04551 | [PDF](https://arxiv.org/pdf/2601.04551v1)
 
 **作者:** Riku Suzuki `[一作]` (Tohoku University), Kazuya Yoshida `[通讯]` (Tohoku University)
 
-**通讯引用:** 13030 | **OpenAlex IDs:** https://openalex.org/A5023419492
+**通讯引用:** 13030 | [OpenAlex ID](https://openalex.org/A5023419492)
 
 **关键词:** `Robotics` `Compression` `Simultaneous Localization and Mapping` `Point Cloud`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7180,15 +6806,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## GEnSHIN: Graphical Enhanced Spatio-temporal Hierarchical Inference Network for Traffic Flow Prediction
+## 206. GEnSHIN: Graphical Enhanced Spatio-temporal Hierarchical Inference Network for Traffic Flow Prediction
 
 **arXiv ID:** 2601.04550 | [PDF](https://arxiv.org/pdf/2601.04550v1)
 
 **作者:** Zhiyan Zhou `[一作]` (Beijing Normal University), Ziai Wang `[通讯]` (Beijing Normal University)
 
 **关键词:** `Machine Learning` `Graph Neural Network` `Recurrent Neural Network` `Transformer` `Time Series` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7216,15 +6840,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation
+## 207. UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation
 
 **arXiv ID:** 2601.04629 | [PDF](https://arxiv.org/pdf/2601.04629v1)
 
 **作者:** Zhongxuan Li `[一作]` (University of Hong Kong), Peng Zhou `[通讯]` (Great Bay University)
 
 **关键词:** `Robotics` `Robotic Intelligence` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7252,15 +6874,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## THaLLE-ThaiLLM: Domain-Specialized Small LLMs for Finance and Thai -- Technical Report
+## 208. THaLLE-ThaiLLM: Domain-Specialized Small LLMs for Finance and Thai -- Technical Report
 
 **arXiv ID:** 2601.04597 | [PDF](https://arxiv.org/pdf/2601.04597v1)
 
 **作者:** KBTG Labs `[一作]` (KASIKORN Business Technology Group), Monchai Lertsutthiwong `[通讯]`
 
 **关键词:** `Computation and Language` `Optimization` `Safty and Privacy` `Computational Efficiency` `Recommendation System` `Domain Adaptation` `Data-Centric Learning` `Anomaly Detection` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text` `Multimodality` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7288,17 +6908,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Feel the Presence: The Effects of Haptic Sensation on VR-Based Human-Robot Interaction
+## 209. Feel the Presence: The Effects of Haptic Sensation on VR-Based Human-Robot Interaction
 
 **arXiv ID:** 2601.04596 | [PDF](https://arxiv.org/pdf/2601.04596v1)
 
 **作者:** Xinyan Yu `[一作]` (University of Sydney), Martin Tomitsch `[通讯]` (University of Technology Sydney)
 
-**通讯引用:** 2924 | **OpenAlex IDs:** https://openalex.org/A5023076293
+**通讯引用:** 2924 | [OpenAlex ID](https://openalex.org/A5023076293)
 
 **关键词:** `Human-Computer Interaction` `Robotic Intelligence` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7326,17 +6944,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Lenses for Partially-Specified States (Extended Version)
+## 210. Lenses for Partially-Specified States (Extended Version)
 
 **arXiv ID:** 2601.04573 | [PDF](https://arxiv.org/pdf/2601.04573v1)
 
 **作者:** Kazutaka Matsuda `[一作]` (Tohoku University), Meng Wang `[通讯]` (University of Bristol)
 
-**通讯引用:** 90676 | **OpenAlex IDs:** https://openalex.org/A5101694733
+**通讯引用:** 90676 | [OpenAlex ID](https://openalex.org/A5101694733)
 
 **关键词:** `Programming Languages`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7377,15 +6993,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Neurosymbolic Retrievers for Retrieval-augmented Generation
+## 211. Neurosymbolic Retrievers for Retrieval-augmented Generation
 
 **arXiv ID:** 2601.04568 | [PDF](https://arxiv.org/pdf/2601.04568v1)
 
 **作者:** Yash Saxena `[一作]` (University of Maryland Baltimore County), Manas Gaur `[通讯]` (University of Maryland Baltimore County)
 
 **关键词:** `Artificial Intelligence` `Retrieval` `Generation` `Retrieval-Augmented Generation` `Text` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7413,17 +7027,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## All Changes May Have Invariant Principles: Improving Ever-Shifting Harmful Meme Detection via Design Concept Reproduction
+## 212. All Changes May Have Invariant Principles: Improving Ever-Shifting Harmful Meme Detection via Design Concept Reproduction
 
 **arXiv ID:** 2601.04567 | [PDF](https://arxiv.org/pdf/2601.04567v1)
 
 **作者:** Ziyou Jiang `[一作]` (Chinese Academy of Sciences), Qing Wang `[通讯]` (Chinese Academy of Sciences)
 
-**通讯引用:** 56954 | **OpenAlex IDs:** https://openalex.org/A5100434847
+**通讯引用:** 56954 | [OpenAlex ID](https://openalex.org/A5100434847)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Classification` `Anomaly Detection` `Transformer` `Large Language Model` `Prompt Engineering` `Multimodality` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7451,17 +7063,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## A Vision for Multisensory Intelligence: Sensing, Synergy, and Science
+## 213. A Vision for Multisensory Intelligence: Sensing, Synergy, and Science
 
 **arXiv ID:** 2601.04563 | [PDF](https://arxiv.org/pdf/2601.04563v1)
 
 **作者:** Paul Pu Liang `[一作]` (Massachusetts Institute of Technology), Paul Pu Liang `[通讯]` (Massachusetts Institute of Technology)
 
-**通讯引用:** 7789 | **OpenAlex IDs:** https://openalex.org/A5086233510
+**通讯引用:** 7789 | [OpenAlex ID](https://openalex.org/A5086233510)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Meta Learning` `Multimodality` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7489,15 +7099,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Reasoning Over Space: Enabling Geographic Reasoning for LLM-Based Generative Next POI Recommendation
+## 214. Reasoning Over Space: Enabling Geographic Reasoning for LLM-Based Generative Next POI Recommendation
 
 **arXiv ID:** 2601.04562 | [PDF](https://arxiv.org/pdf/2601.04562v1)
 
 **作者:** Dongyi Lv `[一作]` (Xi’an Jiaotong University), Mu Xu `[通讯]` (Amap, Alibaba Group)
 
 **关键词:** `Artificial Intelligence` `Recommendation System` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Chain-of-Thought` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7525,17 +7133,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## 4D-ARE: Bridging the Attribution Gap in LLM Agent Requirements Engineering
+## 215. 4D-ARE: Bridging the Attribution Gap in LLM Agent Requirements Engineering
 
 **arXiv ID:** 2601.04556 | [PDF](https://arxiv.org/pdf/2601.04556v1)
 
 **作者:** Bo Yu `[一作]` (Tencent), Lei Zhao `[通讯]` (Tencent)
 
-**通讯引用:** 2622 | **OpenAlex IDs:** https://openalex.org/A5103197618
+**通讯引用:** 2622 | [OpenAlex ID](https://openalex.org/A5103197618)
 
 **关键词:** `Software Engineering` `Optimization` `Explainability and Interpretability` `Recommendation System` `Data-Centric Learning` `Finance Related` `Transformer` `Large Language Model` `Prompt Engineering` `Chain-of-Thought` `Agentic AI` `Tabular` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7563,17 +7169,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Limited Math: Aligning Mathematical Semantics with Finite Computation
+## 216. Limited Math: Aligning Mathematical Semantics with Finite Computation
 
 **arXiv ID:** 2601.04634 | [PDF](https://arxiv.org/pdf/2601.04634v1)
 
 **作者:** Lian Wen `[一作]` (Griffith University), Lian Wen `[通讯]` (Griffith University)
 
-**通讯引用:** 463 | **OpenAlex IDs:** https://openalex.org/A5012316456
+**通讯引用:** 463 | [OpenAlex ID](https://openalex.org/A5012316456)
 
 **关键词:** `Logic in Computer Science`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7601,17 +7205,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election
+## 217. Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election
 
 **arXiv ID:** 2601.04631 | [PDF](https://arxiv.org/pdf/2601.04631v1)
 
 **作者:** Etienne Casanova `[一作]` (California Institute of Technology), R. Michael Alvarez `[通讯]` (California Institute of Technology)
 
-**通讯引用:** 10563 | **OpenAlex IDs:** https://openalex.org/A5091187284
+**通讯引用:** 10563 | [OpenAlex ID](https://openalex.org/A5091187284)
 
 **关键词:** `Artificial Intelligence` `Classification` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7639,15 +7241,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Adaptive Retrieval for Reasoning-Intensive Retrieval
+## 218. Adaptive Retrieval for Reasoning-Intensive Retrieval
 
 **arXiv ID:** 2601.04618 | [PDF](https://arxiv.org/pdf/2601.04618v1)
 
 **作者:** Jongho Kim `[一作]` (Seoul National University), Moontae Lee `[通讯]` (LG AI Research)
 
 **关键词:** `Information Retrieval` `Retrieval` `Large Language Model` `Reinforcement Learning` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7675,17 +7275,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Enhancing Multimodal Retrieval via Complementary Information Extraction and Alignment
+## 219. Enhancing Multimodal Retrieval via Complementary Information Extraction and Alignment
 
 **arXiv ID:** 2601.04571 | [PDF](https://arxiv.org/pdf/2601.04571v1)
 
 **作者:** Delong Zeng `[一作]` (Sun Yat-sen University), Ying Shen `[通讯]` (Sun Yat-sen University)
 
-**通讯引用:** 5157 | **OpenAlex IDs:** https://openalex.org/A5074799043
+**通讯引用:** 5157 | [OpenAlex ID](https://openalex.org/A5074799043)
 
 **关键词:** `Artificial Intelligence` `Retrieval` `Transformer` `Contrastive Learning` `Vision Language Model` `Image` `Text` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7713,17 +7311,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Industrial Data-Service-Knowledge Governance: Toward Integrated and Trusted Intelligence for Industry 5.0
+## 220. Industrial Data-Service-Knowledge Governance: Toward Integrated and Trusted Intelligence for Industry 5.0
 
 **arXiv ID:** 2601.04569 | [PDF](https://arxiv.org/pdf/2601.04569v1)
 
 **作者:** Hailiang Zhao `[一作]` (Zhejiang University), Shuiguang Deng `[通讯]` (Zhejiang University)
 
-**通讯引用:** 9000 | **OpenAlex IDs:** https://openalex.org/A5055284175
+**通讯引用:** 9000 | [OpenAlex ID](https://openalex.org/A5055284175)
 
 **关键词:** `Computational Engineering, Finance, and Science` `Multimodality` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7751,17 +7347,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Identifying Good and Bad Neurons for Task-Level Controllable LLMs
+## 221. Identifying Good and Bad Neurons for Task-Level Controllable LLMs
 
 **arXiv ID:** 2601.04548 | [PDF](https://arxiv.org/pdf/2601.04548v1)
 
 **作者:** Wenjie Li `[一作]` (Singapore Management University), David Lo `[通讯]` (Singapore Management University)
 
-**通讯引用:** 29512 | **OpenAlex IDs:** https://openalex.org/A5081036622
+**通讯引用:** 29512 | [OpenAlex ID](https://openalex.org/A5081036622)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7789,17 +7383,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## AgentDevel: Reframing Self-Evolving LLM Agents as Release Engineering
+## 222. AgentDevel: Reframing Self-Evolving LLM Agents as Release Engineering
 
 **arXiv ID:** 2601.04620 | [PDF](https://arxiv.org/pdf/2601.04620v1)
 
 **作者:** Di Zhang `[一作]` (Fudan University), Di Zhang `[通讯]` (Fudan University)
 
-**通讯引用:** 17366 | **OpenAlex IDs:** https://openalex.org/A5100366416
+**通讯引用:** 17366 | [OpenAlex ID](https://openalex.org/A5100366416)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Agentic AI` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7827,17 +7419,15 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## Character-R1: Enhancing Role-Aware Reasoning in Role-Playing Agents via RLVR
+## 223. Character-R1: Enhancing Role-Aware Reasoning in Role-Playing Agents via RLVR
 
 **arXiv ID:** 2601.04611 | [PDF](https://arxiv.org/pdf/2601.04611v1)
 
 **作者:** Yihong Tang `[一作]` (Harbin Institute of Technology), Min Zhang `[通讯]` (Harbin Institute of Technology)
 
-**通讯引用:** 58048 | **OpenAlex IDs:** https://openalex.org/A5100402851
+**通讯引用:** 58048 | [OpenAlex ID](https://openalex.org/A5100402851)
 
 **关键词:** `Computation and Language` `Reinforcement Learning` `Reinforcement Learning` `Chain-of-Thought` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7865,15 +7455,13 @@ SpeechLM encoder–adaptor–LLM–decoder架构，文本注入训练，语音�
 
 ---
 
-## When More Words Say Less: Decoupling Length and Specificity in Image Description Evaluation
+## 224. When More Words Say Less: Decoupling Length and Specificity in Image Description Evaluation
 
 **arXiv ID:** 2601.04609 | [PDF](https://arxiv.org/pdf/2601.04609v1)
 
 **作者:** Rhea Kapur `[一作]` (Stanford University), Elisa Kreiss `[通讯]` (University of California Los Angeles)
 
 **关键词:** `Computation and Language` `Generation` `Retrieval` `Transformer` `Vision Language Model` `Prompt Engineering` `Image` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7901,15 +7489,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Detection of Deployment Operational Deviations for Safety and Security of AI-Enabled Human-Centric Cyber Physical Systems
+## 225. Detection of Deployment Operational Deviations for Safety and Security of AI-Enabled Human-Centric Cyber Physical Systems
 
 **arXiv ID:** 2601.04605 | [PDF](https://arxiv.org/pdf/2601.04605v1)
 
 **作者:** Bernard Ngabonziza `[一作]` (Arizona State University), Sandeep K. S. Gupta `[通讯]`
 
 **关键词:** `Computer Vision and Pattern Recognition` `Anomaly Detection` `Safety and Privacy` `Convolutional Neural Network` `Image` `Time Series` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7937,7 +7523,7 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## 3D Conditional Image Synthesis of Left Atrial LGE MRI from Composite Semantic Masks
+## 226. 3D Conditional Image Synthesis of Left Atrial LGE MRI from Composite Semantic Masks
 
 **arXiv ID:** 2601.04588 | [PDF](https://arxiv.org/pdf/2601.04588v1)
 
@@ -7947,17 +7533,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## The UnScripted Trip: Fostering Policy Discussion on Future Human-Vehicle Collaboration in Autonomous Driving Through Design-Oriented Methods
+## 227. The UnScripted Trip: Fostering Policy Discussion on Future Human-Vehicle Collaboration in Autonomous Driving Through Design-Oriented Methods
 
 **arXiv ID:** 2601.04601 | [PDF](https://arxiv.org/pdf/2601.04601v1)
 
 **作者:** Xinyan Yu `[一作]` (University of Sydney), Wendy Ju `[通讯]` (Cornell University)
 
-**通讯引用:** 6471 | **OpenAlex IDs:** https://openalex.org/A5016068576
+**通讯引用:** 6471 | [OpenAlex ID](https://openalex.org/A5016068576)
 
 **关键词:** `Human-Computer Interaction` `Autonomous Driving`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -7985,17 +7569,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## On the Limitations of Rank-One Model Editing in Answering Multi-hop Questions
+## 228. On the Limitations of Rank-One Model Editing in Answering Multi-hop Questions
 
 **arXiv ID:** 2601.04600 | [PDF](https://arxiv.org/pdf/2601.04600v1)
 
 **作者:** Zhiyuan He `[一作]` (University College London), Xi Chen `[通讯]` (University College London)
 
-**通讯引用:** 58063 | **OpenAlex IDs:** https://openalex.org/A5100329996
+**通讯引用:** 58063 | [OpenAlex ID](https://openalex.org/A5100329996)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8023,17 +7605,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## MiLDEdit: Reasoning-Based Multi-Layer Design Document Editing
+## 229. MiLDEdit: Reasoning-Based Multi-Layer Design Document Editing
 
 **arXiv ID:** 2601.04589 | [PDF](https://arxiv.org/pdf/2601.04589v1)
 
 **作者:** Zihao Lin `[一作]` (University of California), Tong Sun `[通讯]` (Adobe)
 
-**通讯引用:** 14929 | **OpenAlex IDs:** https://openalex.org/A5100372581
+**通讯引用:** 14929 | [OpenAlex ID](https://openalex.org/A5100372581)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Reinforcement Learning` `Optimization` `Transformer` `Large Language Model` `Reinforcement Learning` `Agentic AI` `Text` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8061,7 +7641,7 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Deep Dive into the Abuse of DL APIs To Create Malicious AI Models and How to Detect Them
+## 230. Deep Dive into the Abuse of DL APIs To Create Malicious AI Models and How to Detect Them
 
 **arXiv ID:** 2601.04553 | [PDF](https://arxiv.org/pdf/2601.04553v1)
 
@@ -8071,15 +7651,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization
+## 231. Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization
 
 **arXiv ID:** 2601.04582 | [PDF](https://arxiv.org/pdf/2601.04582v1)
 
 **作者:** Mizanur Rahman `[一作]` (York University), Enamul Hoque `[通讯]` (York University)
 
 **关键词:** `Computation and Language` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Text` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8107,15 +7685,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Sci-Reasoning: A Dataset Decoding AI Innovation Patterns
+## 232. Sci-Reasoning: A Dataset Decoding AI Innovation Patterns
 
 **arXiv ID:** 2601.04577 | [PDF](https://arxiv.org/pdf/2601.04577v1)
 
 **作者:** Jiachen Liu `[一作]` (Orchestra Research), Zechen Zhang `[通讯]` (Orchestra Research)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8143,17 +7719,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Spatial-Temporal Feedback Diffusion Guidance for Controlled Traffic Imputation
+## 233. Spatial-Temporal Feedback Diffusion Guidance for Controlled Traffic Imputation
 
 **arXiv ID:** 2601.04572 | [PDF](https://arxiv.org/pdf/2601.04572v1)
 
 **作者:** Xiaowei Mao `[一作]` (Beijing Jiaotong University), Huaiyu Wan `[通讯]` (Beijing Jiaotong University)
 
-**通讯引用:** 6288 | **OpenAlex IDs:** https://openalex.org/A5065949777
+**通讯引用:** 6288 | [OpenAlex ID](https://openalex.org/A5065949777)
 
 **关键词:** `Machine Learning` `Diffusion model` `Score-based Model` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8181,17 +7755,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## MAGA-Bench: Machine-Augment-Generated Text via Alignment Detection Benchmark
+## 234. MAGA-Bench: Machine-Augment-Generated Text via Alignment Detection Benchmark
 
 **arXiv ID:** 2601.04633 | [PDF](https://arxiv.org/pdf/2601.04633v1)
 
 **作者:** Anyang Song `[一作]` (Fudan University), Rui Feng `[通讯]` (Fudan University)
 
-**通讯引用:** 5701 | **OpenAlex IDs:** https://openalex.org/A5100680619
+**通讯引用:** 5701 | [OpenAlex ID](https://openalex.org/A5100680619)
 
 **关键词:** `Computation and Language` `Generation` `Adversarial Attack` `Reinforcement Learning from Human Feedback` `Transformer` `Reinforcement Learning` `Prompt Engineering` `Large Language Model` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8219,15 +7791,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Using Ray-shooting Queries for Sublinear Algorithms for Dominating Sets in RDV Graphs
+## 235. Using Ray-shooting Queries for Sublinear Algorithms for Dominating Sets in RDV Graphs
 
 **arXiv ID:** 2601.04626 | [PDF](https://arxiv.org/pdf/2601.04626v1)
 
 **作者:** Therese Biedl `[一作]` (University of Waterloo), Prashant Gokhale `[通讯]` (University of Wisconsin-Madison)
 
 **关键词:** `Data Structures and Algorithms` `Optimization` `Computational Efficiency` `Graph Neural Network` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8263,17 +7833,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## HyperAlign: Hyperbolic Entailment Cones for Adaptive Text-to-Image Alignment Assessment
+## 236. HyperAlign: Hyperbolic Entailment Cones for Adaptive Text-to-Image Alignment Assessment
 
 **arXiv ID:** 2601.04614 | [PDF](https://arxiv.org/pdf/2601.04614v1)
 
 **作者:** Wenzhi Chen `[一作]` (Chongqing University of Posts and Telecommunications), Xinbo Gao `[通讯]` (Xidian University)
 
-**通讯引用:** 38166 | **OpenAlex IDs:** https://openalex.org/A5101785348
+**通讯引用:** 38166 | [OpenAlex ID](https://openalex.org/A5101785348)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Data Synthesis` `Contrastive Learning` `Image` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8301,17 +7869,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## HUR-MACL: High-Uncertainty Region-Guided Multi-Architecture Collaborative Learning for Head and Neck Multi-Organ Segmentation
+## 237. HUR-MACL: High-Uncertainty Region-Guided Multi-Architecture Collaborative Learning for Head and Neck Multi-Organ Segmentation
 
 **arXiv ID:** 2601.04607 | [PDF](https://arxiv.org/pdf/2601.04607v1)
 
 **作者:** Xiaoyu Liu `[一作]` (Fudan University), Zhijian Song `[通讯]` (Fudan University)
 
-**通讯引用:** 3858 | **OpenAlex IDs:** https://openalex.org/A5111697224
+**通讯引用:** 3858 | [OpenAlex ID](https://openalex.org/A5111697224)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Segmentation` `Convolutional Neural Network` `Image` `Biomedical Data` `Computed Tomography`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8339,15 +7905,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Constitutional Classifiers++: Efficient Production-Grade Defenses against Universal Jailbreaks
+## 238. Constitutional Classifiers++: Efficient Production-Grade Defenses against Universal Jailbreaks
 
 **arXiv ID:** 2601.04603 | [PDF](https://arxiv.org/pdf/2601.04603v1)
 
 **作者:** Hoagy Cunningham `[一作]`, Mrinank Sharma `[通讯]`
 
 **关键词:** `Cryptography and Security` `Adversarial Attack` `Computational Efficiency` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8375,17 +7939,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## FedKDX: Federated Learning with Negative Knowledge Distillation for Enhanced Healthcare AI Systems
+## 239. FedKDX: Federated Learning with Negative Knowledge Distillation for Enhanced Healthcare AI Systems
 
 **arXiv ID:** 2601.04587 | [PDF](https://arxiv.org/pdf/2601.04587v1)
 
 **作者:** Quang-Tu Pham `[一作]` (VinUniversity), Hieu H. Pham `[通讯]` (VinUniversity)
 
-**通讯引用:** 1052 | **OpenAlex IDs:** https://openalex.org/A5065112274
+**通讯引用:** 1052 | [OpenAlex ID](https://openalex.org/A5065112274)
 
 **关键词:** `Machine Learning` `Federated Learning` `Knowledge Distillation` `Computational Efficiency` `Safty and Privacy` `Convolutional Neural Network` `Contrastive Learning` `Biomedical Data` `Multimodality` `Electronic Health Records`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8413,15 +7975,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Autonomous Agents on Blockchains: Standards, Execution Models, and Trust Boundaries
+## 240. Autonomous Agents on Blockchains: Standards, Execution Models, and Trust Boundaries
 
 **arXiv ID:** 2601.04583 | [PDF](https://arxiv.org/pdf/2601.04583v1)
 
 **作者:** Saad Alqithami `[一作]`, Saad Alqithami `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Agentic AI` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8449,15 +8009,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## FeedEval: Pedagogically Aligned Evaluation of LLM-Generated Essay Feedback
+## 241. FeedEval: Pedagogically Aligned Evaluation of LLM-Generated Essay Feedback
 
 **arXiv ID:** 2601.04574 | [PDF](https://arxiv.org/pdf/2601.04574v1)
 
 **作者:** Seongyeub Chu `[一作]` (KAIST), Munyong Yi `[通讯]` (KAIST)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8485,7 +8043,7 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models
+## 242. A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models
 
 **arXiv ID:** 2601.04696 | [PDF](https://arxiv.org/pdf/2601.04696v1)
 
@@ -8495,17 +8053,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents
+## 243. BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents
 
 **arXiv ID:** 2601.04566 | [PDF](https://arxiv.org/pdf/2601.04566v1)
 
 **作者:** Yunhao Feng `[一作]` (Fudan University), Yugang Jiang `[通讯]` (Fudan University)
 
-**通讯引用:** 23651 | **OpenAlex IDs:** https://openalex.org/A5047962986
+**通讯引用:** 23651 | [OpenAlex ID](https://openalex.org/A5047962986)
 
 **关键词:** `Artificial Intelligence` `Adversarial Attack` `AI Code Assistant` `Transformer` `Large Language Model` `Retrieval-Augmented Generation` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8533,15 +8089,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## ThinkDrive: Chain-of-Thought Guided Progressive Reinforcement Learning Fine-Tuning for Autonomous Driving
+## 244. ThinkDrive: Chain-of-Thought Guided Progressive Reinforcement Learning Fine-Tuning for Autonomous Driving
 
 **arXiv ID:** 2601.04714 | [PDF](https://arxiv.org/pdf/2601.04714v1)
 
 **作者:** Chang Zhao `[一作]`, Wen Ji `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Autonomous Driving` `Reinforcement Learning` `Large Language Model` `Supervised Fine-Tuning` `Reinforcement Learning` `Chain-of-Thought` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8569,15 +8123,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## TourPlanner: A Competitive Consensus Framework with Constraint-Gated Reinforcement Learning for Travel Planning
+## 245. TourPlanner: A Competitive Consensus Framework with Constraint-Gated Reinforcement Learning for Travel Planning
 
 **arXiv ID:** 2601.04698 | [PDF](https://arxiv.org/pdf/2601.04698v1)
 
 **作者:** Yinuo Wang `[一作]` (Xiaohongshu Inc), Weiming Dong `[通讯]` (Institute of Automation, Chinese Academy of Sciences)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning` `Optimization` `Recommendation System` `Transformer` `Large Language Model` `Reinforcement Learning` `Chain-of-Thought` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8605,17 +8157,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## ResMAS: Resilience Optimization in LLM-based Multi-agent Systems
+## 246. ResMAS: Resilience Optimization in LLM-based Multi-agent Systems
 
 **arXiv ID:** 2601.04694 | [PDF](https://arxiv.org/pdf/2601.04694v1)
 
 **作者:** Zhilun Zhou `[一作]` (Tsinghua University), Fengli Xu `[通讯]` (Tsinghua University)
 
-**通讯引用:** 2417 | **OpenAlex IDs:** https://openalex.org/A5062365263
+**通讯引用:** 2417 | [OpenAlex ID](https://openalex.org/A5062365263)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Reinforcement Learning` `Graph Neural Network` `Large Language Model` `Reinforcement Learning` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8643,17 +8193,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Nightmare Dreamer: Dreaming About Unsafe States And Planning Ahead
+## 247. Nightmare Dreamer: Dreaming About Unsafe States And Planning Ahead
 
 **arXiv ID:** 2601.04686 | [PDF](https://arxiv.org/pdf/2601.04686v1)
 
 **作者:** Oluwatosin Oseni `[一作]` (Colorado School of Mines), Micah Corah `[通讯]` (Colorado School of Mines)
 
-**通讯引用:** 466 | **OpenAlex IDs:** https://openalex.org/A5082404058
+**通讯引用:** 466 | [OpenAlex ID](https://openalex.org/A5082404058)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Safety and Privacy` `Robotic Intelligence` `Recurrent Neural Network` `Reinforcement Learning` `World Model` `Sequential` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8681,17 +8229,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Leveraging LLMs for Efficient and Personalized Smart Home Automation
+## 248. Leveraging LLMs for Efficient and Personalized Smart Home Automation
 
 **arXiv ID:** 2601.04680 | [PDF](https://arxiv.org/pdf/2601.04680v1)
 
 **作者:** Chaerin Yu `[一作]` (Ajou University), Sangeun Oh `[通讯]` (Korea University)
 
-**通讯引用:** 1057 | **OpenAlex IDs:** https://openalex.org/A5038510569
+**通讯引用:** 1057 | [OpenAlex ID](https://openalex.org/A5038510569)
 
 **关键词:** `Human-Computer Interaction` `Recommendation System` `Computational Efficiency` `Transformer` `Large Language Model` `Retrieval-Augmented Generation` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8719,15 +8265,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Estimating Causal Effects in Gaussian Linear SCMs with Finite Data
+## 249. Estimating Causal Effects in Gaussian Linear SCMs with Finite Data
 
 **arXiv ID:** 2601.04673 | [PDF](https://arxiv.org/pdf/2601.04673v1)
 
 **作者:** Aurghya Maiti `[一作]` (Columbia University), Prateek Jain `[通讯]` (Columbia University)
 
 **关键词:** `Machine Learning` `EM 算法` `线性高斯模型理论` `合成数据`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8755,15 +8299,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Agri-R1: Empowering Generalizable Agricultural Reasoning in Vision-Language Models with Reinforcement Learning
+## 250. Agri-R1: Empowering Generalizable Agricultural Reasoning in Vision-Language Models with Reinforcement Learning
 
 **arXiv ID:** 2601.04672 | [PDF](https://arxiv.org/pdf/2601.04672v1)
 
 **作者:** Wentao Zhang `[一作]` (Shandong University of Technology), Tao Fang `[通讯]` (Macau Millennium College)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Reinforcement Learning` `Explainability and Interpretability` `Optimization` `Data Synthesis` `Transformer` `Vision Language Model` `Reinforcement Learning` `Large Language Model` `Multimodality` `Agriculture Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8791,15 +8333,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Quantifying Autoscaler Vulnerabilities: An Empirical Study of Resource Misallocation Induced by Cloud Infrastructure Faults
+## 251. Quantifying Autoscaler Vulnerabilities: An Empirical Study of Resource Misallocation Induced by Cloud Infrastructure Faults
 
 **arXiv ID:** 2601.04659 | [PDF](https://arxiv.org/pdf/2601.04659v1)
 
 **作者:** Gijun Park `[一作]` (Okestro AI Research Center), Gijun Park `[通讯]` (Okestro AI Research Center)
 
 **关键词:** `Distributed, Parallel, and Cluster Computing`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8827,17 +8367,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Model of Spatial Human-Agent Interaction with Consideration for Others
+## 252. Model of Spatial Human-Agent Interaction with Consideration for Others
 
 **arXiv ID:** 2601.04657 | [PDF](https://arxiv.org/pdf/2601.04657v1)
 
 **作者:** Takafumi Sakamoto `[一作]` (Shizuoka University), Yugo Takeuchi `[通讯]` (Shizuoka University)
 
-**通讯引用:** 423 | **OpenAlex IDs:** https://openalex.org/A5008020893
+**通讯引用:** 423 | [OpenAlex ID](https://openalex.org/A5008020893)
 
 **关键词:** `Robotics` `Robotic Intelligence` `Agentic AI` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8865,17 +8403,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Vibe Coding an LLM-powered Theorem Prover
+## 253. Vibe Coding an LLM-powered Theorem Prover
 
 **arXiv ID:** 2601.04653 | [PDF](https://arxiv.org/pdf/2601.04653v1)
 
 **作者:** Zhe Hou `[一作]` (Griffith University), Zhe Hou `[通讯]` (Griffith University)
 
-**通讯引用:** 4475 | **OpenAlex IDs:** https://openalex.org/A5055734272
+**通讯引用:** 4475 | [OpenAlex ID](https://openalex.org/A5055734272)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Transformer` `Large Language Model` `Reinforcement Learning` `Retrieval-Augmented Generation` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8903,17 +8439,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## MMFCTUB: Multi-Modal Financial Credit Table Understanding Benchmark
+## 254. MMFCTUB: Multi-Modal Financial Credit Table Understanding Benchmark
 
 **arXiv ID:** 2601.04643 | [PDF](https://arxiv.org/pdf/2601.04643v1)
 
 **作者:** Cui Yakun `[一作]` (Hong Kong University of Science and Technology), Sirui Han `[通讯]` (Hong Kong University of Science and Technology)
 
-**通讯引用:** 43 | **OpenAlex IDs:** https://openalex.org/A5021255269
+**通讯引用:** 43 | [OpenAlex ID](https://openalex.org/A5021255269)
 
 **关键词:** `Computational Engineering, Finance, and Science` `Data Synthesis` `Recommendation System` `Knowledge Distillation` `Optimization` `Transformer` `Large Language Model` `Prompt Engineering` `Tabular` `Multimodality` `Benchmark` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8941,17 +8475,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## DP-MGTD: Privacy-Preserving Machine-Generated Text Detection via Adaptive Differentially Private Entity Sanitization
+## 255. DP-MGTD: Privacy-Preserving Machine-Generated Text Detection via Adaptive Differentially Private Entity Sanitization
 
 **arXiv ID:** 2601.04641 | [PDF](https://arxiv.org/pdf/2601.04641v1)
 
 **作者:** Lionel Z. Wang `[一作]` (Nanyang Technological University), Wei Dong `[通讯]` (Nanyang Technological University)
 
-**通讯引用:** 14824 | **OpenAlex IDs:** https://openalex.org/A5100746411
+**通讯引用:** 14824 | [OpenAlex ID](https://openalex.org/A5100746411)
 
 **关键词:** `Cryptography and Security` `Safty and Privacy` `Classification` `Recurrent Neural Network` `Large Language Model` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -8979,17 +8511,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## See, Explain, and Intervene: A Few-Shot Multimodal Agent Framework for Hateful Meme Moderation
+## 256. See, Explain, and Intervene: A Few-Shot Multimodal Agent Framework for Hateful Meme Moderation
 
 **arXiv ID:** 2601.04692 | [PDF](https://arxiv.org/pdf/2601.04692v1)
 
 **作者:** Naquee Rizwan `[一作]` (Indian Institute of Technology), Animesh Mukherjee `[通讯]` (Indian Institute of Technology)
 
-**通讯引用:** 3965 | **OpenAlex IDs:** https://openalex.org/A5020991141
+**通讯引用:** 3965 | [OpenAlex ID](https://openalex.org/A5020991141)
 
 **关键词:** `Computation and Language` `Classification` `Explainability and Interpretability` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Vision Language Model` `Prompt Engineering` `Multimodality` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9017,15 +8547,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## GPU-Accelerated INT8 Quantization for KV Cache Compression in Large Language Models
+## 257. GPU-Accelerated INT8 Quantization for KV Cache Compression in Large Language Models
 
 **arXiv ID:** 2601.04719 | [PDF](https://arxiv.org/pdf/2601.04719v1)
 
 **作者:** Maanas Taneja `[一作]`, Purab Shingvi `[通讯]`
 
 **关键词:** `Machine Learning` `Compression` `Computational Efficiency` `Large Language Model`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9053,17 +8581,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Fame Fades, Nature Remains: Disentangling the Character Identity of Role-Playing Agents
+## 258. Fame Fades, Nature Remains: Disentangling the Character Identity of Role-Playing Agents
 
 **arXiv ID:** 2601.04716 | [PDF](https://arxiv.org/pdf/2601.04716v1)
 
 **作者:** Yonghyun Jun `[一作]` (Chung-Ang University), Hwanhee Lee `[通讯]` (Chung-Ang University)
 
-**通讯引用:** 536 | **OpenAlex IDs:** https://openalex.org/A5063029769
+**通讯引用:** 536 | [OpenAlex ID](https://openalex.org/A5063029769)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9091,17 +8617,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Prior-Informed Zeroth-Order Optimization with Adaptive Direction Alignment for Memory-Efficient LLM Fine-Tuning
+## 259. Prior-Informed Zeroth-Order Optimization with Adaptive Direction Alignment for Memory-Efficient LLM Fine-Tuning
 
 **arXiv ID:** 2601.04710 | [PDF](https://arxiv.org/pdf/2601.04710v1)
 
 **作者:** Feihu Jin `[一作]` (Peking University), Ying Tan `[通讯]` (Peking University)
 
-**通讯引用:** 11301 | **OpenAlex IDs:** https://openalex.org/A5023089209
+**通讯引用:** 11301 | [OpenAlex ID](https://openalex.org/A5023089209)
 
 **关键词:** `Computation and Language` `Optimization` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9129,17 +8653,15 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Unified Framework for Qualifying Security Boundary of PUFs Against Machine Learning Attacks
+## 260. Unified Framework for Qualifying Security Boundary of PUFs Against Machine Learning Attacks
 
 **arXiv ID:** 2601.04697 | [PDF](https://arxiv.org/pdf/2601.04697v1)
 
 **作者:** Hongming Fei `[一作]` (National University of Singapore), Biplab Sikdar `[通讯]` (National University of Singapore)
 
-**通讯引用:** 11746 | **OpenAlex IDs:** https://openalex.org/A5041189303
+**通讯引用:** 11746 | [OpenAlex ID](https://openalex.org/A5041189303)
 
 **关键词:** `Cryptography and Security` `Safty and Privacy` `Adversarial Attack` `Monte Carlo 采样`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9167,15 +8689,13 @@ CLIPScore可能存在偏差且输入长度受限；对比集相对性限制了�
 
 ---
 
-## Do LLMs Benefit from User and Item Embeddings in Recommendation Tasks?
+## 261. Do LLMs Benefit from User and Item Embeddings in Recommendation Tasks?
 
 **arXiv ID:** 2601.04690 | [PDF](https://arxiv.org/pdf/2601.04690v1)
 
 **作者:** Mir Rayat Imtiaz Hossain `[一作]` (University of British Columbia), Mohamed Osama Ahmed `[通讯]` (RBC Borealis)
 
 **关键词:** `Machine Learning` `Recommendation System` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Prompt Engineering` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9203,17 +8723,15 @@ Amazon Beauty、LastFM、MovieLens‑1M 三个公开交互数据集。
 
 ---
 
-## ToolGate: Contract-Grounded and Verified Tool Execution for LLMs
+## 262. ToolGate: Contract-Grounded and Verified Tool Execution for LLMs
 
 **arXiv ID:** 2601.04688 | [PDF](https://arxiv.org/pdf/2601.04688v1)
 
 **作者:** Yanming Liu `[一作]` (Zhejiang University), Xuhong Zhang `[通讯]` (Zhejiang University)
 
-**通讯引用:** 1760 | **OpenAlex IDs:** https://openalex.org/A5047459900
+**通讯引用:** 1760 | [OpenAlex ID](https://openalex.org/A5047459900)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Retrieval-Augmented Generation` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9241,15 +8759,13 @@ Amazon Beauty、LastFM、MovieLens‑1M 三个公开交互数据集。
 
 ---
 
-## Mechanism Design for Federated Learning with Non-Monotonic Network Effects
+## 263. Mechanism Design for Federated Learning with Non-Monotonic Network Effects
 
 **arXiv ID:** 2601.04648 | [PDF](https://arxiv.org/pdf/2601.04648v1)
 
 **作者:** Xiang Li `[一作]` (Shenzhen Institute of Artificial Intelligence and Robotics for Society), Yuan Luo `[通讯]` (Shenzhen Institute of Artificial Intelligence and Robotics for Society)
 
 **关键词:** `Computer Science and Game Theory` `Federated Learning` `Optimization` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9277,17 +8793,15 @@ MNIST、SVHN、CIFAR‑10三种公开数据集。
 
 ---
 
-## Succeeding at Scale: Automated Multi-Retriever Fusion and Query-Side Adaptation for Multi-Tenant Search
+## 264. Succeeding at Scale: Automated Multi-Retriever Fusion and Query-Side Adaptation for Multi-Tenant Search
 
 **arXiv ID:** 2601.04646 | [PDF](https://arxiv.org/pdf/2601.04646v1)
 
 **作者:** Prateek Jain `[一作]` (DevRev), Constantine Caramanis `[通讯]` (University of Texas at Austin)
 
-**通讯引用:** 8924 | **OpenAlex IDs:** https://openalex.org/A5053978837
+**通讯引用:** 8924 | [OpenAlex ID](https://openalex.org/A5053978837)
 
 **关键词:** `Information Retrieval` `Retrieval` `Domain Adaptation` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9315,15 +8829,13 @@ MNIST、SVHN、CIFAR‑10三种公开数据集。
 
 ---
 
-## PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations
+## 265. PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations
 
 **arXiv ID:** 2601.04674 | [PDF](https://arxiv.org/pdf/2601.04674v1)
 
 **作者:** Chengcheng Guo `[一作]` (Kuaishou Inc.), Guorui Zhou `[通讯]` (Kuaishou Inc.)
 
 **关键词:** `Information Retrieval` `Recommendation System` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9351,15 +8863,13 @@ MNIST、SVHN、CIFAR‑10三种公开数据集。
 
 ---
 
-## Bridging Temporal and Textual Modalities: A Multimodal Framework for Automated Cloud Failure Root Cause Analysis
+## 266. Bridging Temporal and Textual Modalities: A Multimodal Framework for Automated Cloud Failure Root Cause Analysis
 
 **arXiv ID:** 2601.04709 | [PDF](https://arxiv.org/pdf/2601.04709v1)
 
 **作者:** Gijun Park `[一作]` (Okestro AI Research Center), Gijun Park `[通讯]` (Okestro AI Research Center)
 
 **关键词:** `Artificial Intelligence` `Anomaly Detection` `Transformer` `Retrieval-Augmented Generation` `Large Language Model` `Time Series` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9387,17 +8897,15 @@ MNIST、SVHN、CIFAR‑10三种公开数据集。
 
 ---
 
-## HATIR: Heat-Aware Diffusion for Turbulent Infrared Video Super-Resolution
+## 267. HATIR: Heat-Aware Diffusion for Turbulent Infrared Video Super-Resolution
 
 **arXiv ID:** 2601.04682 | [PDF](https://arxiv.org/pdf/2601.04682v1)
 
 **作者:** Yang Zou `[一作]` (Northwestern Polytechnical University), Jinyuan Liu `[通讯]` (Dalian University of Technology)
 
-**通讯引用:** 9948 | **OpenAlex IDs:** https://openalex.org/A5100675904
+**通讯引用:** 9948 | [OpenAlex ID](https://openalex.org/A5100675904)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Super Resolution` `Restoration` `Diffusion model` `Optical Flow` `Auto Encoder` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9425,15 +8933,13 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Optimizing Path Planning using Deep Reinforcement Learning for UGVs in Precision Agriculture
+## 268. Optimizing Path Planning using Deep Reinforcement Learning for UGVs in Precision Agriculture
 
 **arXiv ID:** 2601.04668 | [PDF](https://arxiv.org/pdf/2601.04668v1)
 
 **作者:** Laukik Patade `[一作]` (Sardar Patel Institute of Technology), Sandeep Pillai `[通讯]` (Sardar Patel Institute of Technology)
 
 **关键词:** `Robotics` `Optimization` `Reinforcement Learning` `Robotic Intelligence` `Autonomous Driving` `Agriculture Related` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9461,17 +8967,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Air-to-Ground Communications for Internet of Things: UAV-based Coverage Hole Detection and Recovery
+## 269. Air-to-Ground Communications for Internet of Things: UAV-based Coverage Hole Detection and Recovery
 
 **arXiv ID:** 2601.04665 | [PDF](https://arxiv.org/pdf/2601.04665v1)
 
 **作者:** Xiao Fan `[一作]` (Sun Yat-sen University), Minghua Xia `[通讯]` (Sun Yat-sen University)
 
-**通讯引用:** 2839 | **OpenAlex IDs:** https://openalex.org/A5052938144
+**通讯引用:** 2839 | [OpenAlex ID](https://openalex.org/A5052938144)
 
 **关键词:** `Information Theory` `Optimization` `Robotic Intelligence`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9499,17 +9003,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence
+## 270. LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence
 
 **arXiv ID:** 2601.04658 | [PDF](https://arxiv.org/pdf/2601.04658v1)
 
 **作者:** Hyeongkeun Lee `[一作]` (Korea Advanced Institute of Science and Technology), Joon Son Chung `[通讯]` (Korea Advanced Institute of Science and Technology)
 
-**通讯引用:** 10153 | **OpenAlex IDs:** https://openalex.org/A5038723822
+**通讯引用:** 10153 | [OpenAlex ID](https://openalex.org/A5038723822)
 
 **关键词:** `Sound` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Contrastive Learning` `Audio` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9537,17 +9039,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Does Provenance Interact?
+## 271. Does Provenance Interact?
 
 **arXiv ID:** 2601.04722 | [PDF](https://arxiv.org/pdf/2601.04722v1)
 
 **作者:** Chrysanthi Kosyfaki `[一作]` (Hong Kong University of Science and Technology), Xiaofang Zhou `[通讯]` (Hong Kong University of Science and Technology)
 
-**通讯引用:** 23680 | **OpenAlex IDs:** https://openalex.org/A5011384237
+**通讯引用:** 23680 | [OpenAlex ID](https://openalex.org/A5011384237)
 
 **关键词:** `Databases` `Compression` `Optimization` `Computational Efficiency` `Finance Related` `Graph Neural Network` `Time Series` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9575,17 +9075,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking
+## 272. Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking
 
 **arXiv ID:** 2601.04720 | [PDF](https://arxiv.org/pdf/2601.04720v1)
 
 **作者:** Mingxin Li `[一作]` (Alibaba Group), Junyang Lin `[通讯]` (Alibaba Group)
 
-**通讯引用:** 3025 | **OpenAlex IDs:** https://openalex.org/A5100612233
+**通讯引用:** 3025 | [OpenAlex ID](https://openalex.org/A5100612233)
 
 **关键词:** `Computation and Language` `Retrieval` `Knowledge Distillation` `Transformer` `Vision Language Model` `Contrastive Learning` `Multimodality` `Image` `Text` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9613,17 +9111,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## On the Holistic Approach for Detecting Human Image Forgery
+## 273. On the Holistic Approach for Detecting Human Image Forgery
 
 **arXiv ID:** 2601.04715 | [PDF](https://arxiv.org/pdf/2601.04715v1)
 
 **作者:** Xiao Guo `[一作]` (Michigan State University), Xiaoming Liu `[通讯]` (Michigan State University)
 
-**通讯引用:** 20406 | **OpenAlex IDs:** https://openalex.org/A5100409052
+**通讯引用:** 20406 | [OpenAlex ID](https://openalex.org/A5100409052)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Anomaly Detection` `Convolutional Neural Network` `Mixture of Experts` `Large Language Model` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9651,15 +9147,13 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning
+## 274. SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning
 
 **arXiv ID:** 2601.04699 | [PDF](https://arxiv.org/pdf/2601.04699v1)
 
 **作者:** Zebin Han `[一作]` (North University of China), Zhi Han `[通讯]` (State Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences)
 
 **关键词:** `Robotics` `Recurrent Neural Network` `Transformer` `Large Language Model` `Vision Language Model` `Multimodality` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9687,15 +9181,13 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Tape: A Cellular Automata Benchmark for Evaluating Rule-Shift Generalization in Reinforcement Learning
+## 275. Tape: A Cellular Automata Benchmark for Evaluating Rule-Shift Generalization in Reinforcement Learning
 
 **arXiv ID:** 2601.04695 | [PDF](https://arxiv.org/pdf/2601.04695v1)
 
 **作者:** Enze Pan `[一作]` (University of Hong Kong), Enze Pan `[通讯]` (University of Hong Kong)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning` `Reinforcement Learning` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9723,17 +9215,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Thunder-KoNUBench: A Corpus-Aligned Benchmark for Korean Negation Understanding
+## 276. Thunder-KoNUBench: A Corpus-Aligned Benchmark for Korean Negation Understanding
 
 **arXiv ID:** 2601.04693 | [PDF](https://arxiv.org/pdf/2601.04693v1)
 
 **作者:** Sungmok Jung `[一作]` (Seoul National University), Jaejin Lee `[通讯]` (Seoul National University)
 
-**通讯引用:** 2772 | **OpenAlex IDs:** https://openalex.org/A5100767182
+**通讯引用:** 2772 | [OpenAlex ID](https://openalex.org/A5100767182)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9761,17 +9251,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Extending Delta Debugging Minimization for Spectrum-Based Fault Localization
+## 277. Extending Delta Debugging Minimization for Spectrum-Based Fault Localization
 
 **arXiv ID:** 2601.04689 | [PDF](https://arxiv.org/pdf/2601.04689v1)
 
 **作者:** Charaka Geethal Kapugama `[一作]` (University of Ruhuna), Charaka Geethal Kapugama `[通讯]` (University of Ruhuna)
 
-**通讯引用:** 9 | **OpenAlex IDs:** https://openalex.org/A5044327946
+**通讯引用:** 9 | [OpenAlex ID](https://openalex.org/A5044327946)
 
 **关键词:** `Software Engineering`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9799,17 +9287,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## WebCryptoAgent: Agentic Crypto Trading with Web Informatics
+## 278. WebCryptoAgent: Agentic Crypto Trading with Web Informatics
 
 **arXiv ID:** 2601.04687 | [PDF](https://arxiv.org/pdf/2601.04687v1)
 
 **作者:** Ali Kurban `[一作]` (AI Geeks), Hao Tang `[通讯]` (Peking University)
 
-**通讯引用:** 8842 | **OpenAlex IDs:** https://openalex.org/A5100662197
+**通讯引用:** 8842 | [OpenAlex ID](https://openalex.org/A5100662197)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Recommendation System` `Optimization` `Anomaly Detection` `Finance Related` `Transformer` `Large Language Model` `Agentic AI` `Reinforcement Learning` `Time Series` `Multimodality` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9837,17 +9323,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## CRANE: Causal Relevance Analysis of Language-Specific Neurons in Multilingual Large Language Models
+## 279. CRANE: Causal Relevance Analysis of Language-Specific Neurons in Multilingual Large Language Models
 
 **arXiv ID:** 2601.04664 | [PDF](https://arxiv.org/pdf/2601.04664v1)
 
 **作者:** Yifan Le `[一作]` (Zhejiang University), Yunliang Li `[通讯]` (Zhejiang University)
 
-**通讯引用:** 3364 | **OpenAlex IDs:** https://openalex.org/A5067405994
+**通讯引用:** 3364 | [OpenAlex ID](https://openalex.org/A5067405994)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9875,17 +9359,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models
+## 280. Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models
 
 **arXiv ID:** 2601.04651 | [PDF](https://arxiv.org/pdf/2601.04651v1)
 
 **作者:** Can Xu `[一作]` (East China Normal University), Xiang Li `[通讯]` (East China Normal University)
 
-**通讯引用:** 40636 | **OpenAlex IDs:** https://openalex.org/A5041120433
+**通讯引用:** 40636 | [OpenAlex ID](https://openalex.org/A5041120433)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning` `Retrieval` `Transformer` `Large Language Model` `Reinforcement Learning` `Retrieval-Augmented Generation` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9913,7 +9395,7 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks
+## 281. A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks
 
 **arXiv ID:** 2601.04705 | [PDF](https://arxiv.org/pdf/2601.04705v1)
 
@@ -9923,15 +9405,13 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## DSC2025 -- ViHallu Challenge: Detecting Hallucination in Vietnamese LLMs
+## 282. DSC2025 -- ViHallu Challenge: Detecting Hallucination in Vietnamese LLMs
 
 **arXiv ID:** 2601.04711 | [PDF](https://arxiv.org/pdf/2601.04711v1)
 
 **作者:** Anh Thi-Hoang Nguyen `[一作]` (University of Information Technology), Kiet Van Nguyen `[通讯]` (University of Information Technology)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Prompt Engineering` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9959,17 +9439,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training
+## 283. MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training
 
 **arXiv ID:** 2601.04707 | [PDF](https://arxiv.org/pdf/2601.04707v1)
 
 **作者:** Irfan Ullah `[一作]` (Kyung Hee University), Young-Koo Lee `[通讯]` (Kyung Hee University)
 
-**通讯引用:** 6512 | **OpenAlex IDs:** https://openalex.org/A5039165136
+**通讯引用:** 6512 | [OpenAlex ID](https://openalex.org/A5039165136)
 
 **关键词:** `Machine Learning` `Graph Neural Network` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -9997,15 +9475,13 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Forge-and-Quench: Enhancing Image Generation for Higher Fidelity in Unified Multimodal Models
+## 284. Forge-and-Quench: Enhancing Image Generation for Higher Fidelity in Unified Multimodal Models
 
 **arXiv ID:** 2601.04706 | [PDF](https://arxiv.org/pdf/2601.04706v1)
 
 **作者:** Yanbing Zeng `[一作]` (Meituan), Jie Hu `[通讯]` (Meituan)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Transformer` `Large Language Model` `Diffusion model` `Image` `Text` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10033,17 +9509,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search
+## 285. Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search
 
 **arXiv ID:** 2601.04703 | [PDF](https://arxiv.org/pdf/2601.04703v1)
 
 **作者:** Yiqun Chen `[一作]` (Renmin University of China), Jiaxin Mao `[通讯]` (Renmin University of China)
 
-**通讯引用:** 2361 | **OpenAlex IDs:** https://openalex.org/A5072119199
+**通讯引用:** 2361 | [OpenAlex ID](https://openalex.org/A5072119199)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Reinforcement Learning` `Large Language Model` `Reinforcement Learning` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10071,15 +9545,13 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## PRISM: A Unified Framework for Post-Training LLMs Without Verifiable Rewards
+## 286. PRISM: A Unified Framework for Post-Training LLMs Without Verifiable Rewards
 
 **arXiv ID:** 2601.04700 | [PDF](https://arxiv.org/pdf/2601.04700v1)
 
 **作者:** Mukesh Ghimire `[一作]` (Arizona State University), Xuan Zhu `[通讯]` (Amazon Web Services)
 
 **关键词:** `Computation and Language` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10107,17 +9579,15 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## DB-MSMUNet:Dual Branch Multi-scale Mamba UNet for Pancreatic CT Scans Segmentation
+## 287. DB-MSMUNet:Dual Branch Multi-scale Mamba UNet for Pancreatic CT Scans Segmentation
 
 **arXiv ID:** 2601.04676 | [PDF](https://arxiv.org/pdf/2601.04676v1)
 
 **作者:** Qiu Guan `[一作]` (Zhejiang University of Technology), Ying Tang `[通讯]` (Zhejiang University of Technology)
 
-**通讯引用:** 4542 | **OpenAlex IDs:** https://openalex.org/A5086134377
+**通讯引用:** 4542 | [OpenAlex ID](https://openalex.org/A5086134377)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Segmentation` `Convolutional Neural Network` `Image` `Biomedical Data` `Computed Tomography`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10145,15 +9615,13 @@ FLIR‑IVSR 数据集：640 条低分辨率–高分辨率红外视频对，分�
 
 ---
 
-## LLM-Guided Quantified SMT Solving over Uninterpreted Functions
+## 288. LLM-Guided Quantified SMT Solving over Uninterpreted Functions
 
 **arXiv ID:** 2601.04675 | [PDF](https://arxiv.org/pdf/2601.04675v1)
 
 **作者:** Kunhang Lv `[一作]` (Institute of Software Chinese Academy of Sciences), Jian Zhang `[通讯]` (Institute of Software Chinese Academy of Sciences)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Prompt Engineering` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10181,17 +9649,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Learning Dynamics in RL Post-Training for Language Models
+## 289. Learning Dynamics in RL Post-Training for Language Models
 
 **arXiv ID:** 2601.04670 | [PDF](https://arxiv.org/pdf/2601.04670v1)
 
 **作者:** Akiyoshi Tomihari `[一作]` (University of Tokyo), Akiyoshi Tomihari `[通讯]` (University of Tokyo)
 
-**通讯引用:** 2 | **OpenAlex IDs:** https://openalex.org/A5098162455
+**通讯引用:** 2 | [OpenAlex ID](https://openalex.org/A5098162455)
 
 **关键词:** `Machine Learning` `Reinforcement Learning from Human Feedback` `Optimization` `Transformer` `Reinforcement Learning` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10219,15 +9685,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning
+## 290. Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning
 
 **arXiv ID:** 2601.04666 | [PDF](https://arxiv.org/pdf/2601.04666v1)
 
 **作者:** Zhiyuan Chang `[一作]` (Institute of Software Chinese Academy of Sciences), Qing Wang `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Data Synthesis` `Safty and Privacy` `Adversarial Attack` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Chain-of-Thought` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10255,7 +9719,7 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Integrated Framework for Selecting and Enhancing Ancient Marathi Inscription Images from Stone, Metal Plate, and Paper Documents
+## 291. Integrated Framework for Selecting and Enhancing Ancient Marathi Inscription Images from Stone, Metal Plate, and Paper Documents
 
 **arXiv ID:** 2601.04800 | [PDF](https://arxiv.org/pdf/2601.04800v1)
 
@@ -10265,15 +9729,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions
+## 292. FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions
 
 **arXiv ID:** 2601.04656 | [PDF](https://arxiv.org/pdf/2601.04656v1)
 
 **作者:** Dekun Chen `[一作]` (Chinese University of Hong Kong), Zhizheng Wu `[通讯]` (Chinese University of Hong Kong)
 
 **关键词:** `Sound` `Generation` `Data Synthesis` `Transformer` `Large Language Model` `Reinforcement Learning` `Prompt Engineering` `Audio` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10301,17 +9763,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Automatic Classifiers Underdetect Emotions Expressed by Men
+## 293. Automatic Classifiers Underdetect Emotions Expressed by Men
 
 **arXiv ID:** 2601.04730 | [PDF](https://arxiv.org/pdf/2601.04730v1)
 
 **作者:** Ivan Smirnov `[一作]` (University of Technology Sydney), David Garcia `[通讯]` (University of Konstanz)
 
-**通讯引用:** 7063 | **OpenAlex IDs:** https://openalex.org/A5084395089
+**通讯引用:** 7063 | [OpenAlex ID](https://openalex.org/A5084395089)
 
 **关键词:** `Computation and Language` `Classification` `Recognition` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10339,17 +9799,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning
+## 294. Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning
 
 **arXiv ID:** 2601.04805 | [PDF](https://arxiv.org/pdf/2601.04805v1)
 
 **作者:** Siyuan Gan `[一作]` (Nanjing University), Yang Gao `[通讯]` (Nanjing University)
 
-**通讯引用:** 13470 | **OpenAlex IDs:** https://openalex.org/A5070337115
+**通讯引用:** 13470 | [OpenAlex ID](https://openalex.org/A5070337115)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10377,17 +9835,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## APEX: Academic Poster Editing Agentic Expert
+## 295. APEX: Academic Poster Editing Agentic Expert
 
 **arXiv ID:** 2601.04794 | [PDF](https://arxiv.org/pdf/2601.04794v1)
 
 **作者:** Chengxin Shi `[一作]` (East China Normal University), Xiang Li `[通讯]` (East China Normal University)
 
-**通讯引用:** 40636 | **OpenAlex IDs:** https://openalex.org/A5041120433
+**通讯引用:** 40636 | [OpenAlex ID](https://openalex.org/A5041120433)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Vision Language Model` `Agentic AI` `Text` `Image` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10415,15 +9871,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference
+## 296. PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference
 
 **arXiv ID:** 2601.04792 | [PDF](https://arxiv.org/pdf/2601.04792v1)
 
 **作者:** Denis Korzhenkov `[一作]` (Qualcomm AI Research), Amirhossein Habibian `[通讯]` (Qualcomm AI Research)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Knowledge Distillation` `Computational Efficiency` `Generation` `Diffusion model` `Flow-based Model` `Video` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10451,17 +9905,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Segmentation-Driven Monocular Shape from Polarization based on Physical Model
+## 297. Segmentation-Driven Monocular Shape from Polarization based on Physical Model
 
 **arXiv ID:** 2601.04776 | [PDF](https://arxiv.org/pdf/2601.04776v1)
 
 **作者:** Jinyu Zhang `[一作]` (Beijing Institute of Technology), Gonzalo R. Arce `[通讯]` (University of Delaware)
 
-**通讯引用:** 13298 | **OpenAlex IDs:** https://openalex.org/A5005357824
+**通讯引用:** 13298 | [OpenAlex ID](https://openalex.org/A5005357824)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Segmentation` `Restoration` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10489,15 +9941,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Smart IoT-Based Wearable Device for Detection and Monitoring of Common Cow Diseases Using a Novel Machine Learning Technique
+## 298. Smart IoT-Based Wearable Device for Detection and Monitoring of Common Cow Diseases Using a Novel Machine Learning Technique
 
 **arXiv ID:** 2601.04761 | [PDF](https://arxiv.org/pdf/2601.04761v1)
 
 **作者:** Rupsa Rani Mishra `[一作]` (Biju Patnaik University), Ajaya Kumar Tripathy `[通讯]` (Gangadhar Meher University)
 
 **关键词:** `Machine Learning` `Classification` `Optimization` `Multimodality` `Time Series` `Tabular` `Agriculture Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10525,17 +9975,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Skeletonization-Based Adversarial Perturbations on Large Vision Language Model's Mathematical Text Recognition
+## 299. Skeletonization-Based Adversarial Perturbations on Large Vision Language Model's Mathematical Text Recognition
 
 **arXiv ID:** 2601.04752 | [PDF](https://arxiv.org/pdf/2601.04752v1)
 
 **作者:** Masatomo Yoshida `[一作]` (Doshisha University), Masahiro Okuda `[通讯]` (Doshisha University)
 
-**通讯引用:** 4585 | **OpenAlex IDs:** https://openalex.org/A5025207272
+**通讯引用:** 4585 | [OpenAlex ID](https://openalex.org/A5025207272)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Recognition` `Adversarial Attack` `Optimization` `Vision Language Model` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10563,15 +10011,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Cognitive Infrastructure: A Unified DCIM Framework for AI Data Centers
+## 300. Cognitive Infrastructure: A Unified DCIM Framework for AI Data Centers
 
 **arXiv ID:** 2601.04750 | [PDF](https://arxiv.org/pdf/2601.04750v1)
 
 **作者:** Krishna Chaitanya Sunkara `[一作]` (Independent Researcher, AI Data Center Engineering), Krishna Chaitanya Sunkara `[通讯]` (Independent Researcher, AI Data Center Engineering)
 
 **关键词:** `Distributed, Parallel, and Cluster Computing` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10599,17 +10045,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
+## 301. KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
 
 **arXiv ID:** 2601.04745 | [PDF](https://arxiv.org/pdf/2601.04745v1)
 
 **作者:** Tingyu Wu `[一作]` (University of Chinese Academy of Sciences), Ronghao Chen `[通讯]` (Peking University)
 
-**通讯引用:** 4 | **OpenAlex IDs:** https://openalex.org/A5109632049
+**通讯引用:** 4 | [OpenAlex ID](https://openalex.org/A5109632049)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Retrieval-Augmented Generation` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10637,17 +10081,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Tool-MAD: A Multi-Agent Debate Framework for Fact Verification with Diverse Tool Augmentation and Adaptive Retrieval
+## 302. Tool-MAD: A Multi-Agent Debate Framework for Fact Verification with Diverse Tool Augmentation and Adaptive Retrieval
 
 **arXiv ID:** 2601.04742 | [PDF](https://arxiv.org/pdf/2601.04742v1)
 
 **作者:** Seyeon Jeong `[一作]` (Yonsei University), Beakcheol Jang `[通讯]` (Yonsei University)
 
-**通讯引用:** 2799 | **OpenAlex IDs:** https://openalex.org/A5067151609
+**通讯引用:** 2799 | [OpenAlex ID](https://openalex.org/A5067151609)
 
 **关键词:** `Computation and Language` `Retrieval` `Recommendation System` `Retrieval-Augmented Generation` `Agentic AI` `Text` `Biomedical Data` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10675,17 +10117,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Miner:Mining Intrinsic Mastery for Data-Efficient RL in Large Reasoning Models
+## 303. Miner:Mining Intrinsic Mastery for Data-Efficient RL in Large Reasoning Models
 
 **arXiv ID:** 2601.04731 | [PDF](https://arxiv.org/pdf/2601.04731v1)
 
 **作者:** Shuyang Jiang `[一作]` (Fudan University), Yu Wang `[通讯]` (Shanghai Jiao Tong University)
 
-**通讯引用:** 42925 | **OpenAlex IDs:** https://openalex.org/A5100445300
+**通讯引用:** 42925 | [OpenAlex ID](https://openalex.org/A5100445300)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10713,15 +10153,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Detector-Augmented SAMURAI for Long-Duration Drone Tracking
+## 304. Detector-Augmented SAMURAI for Long-Duration Drone Tracking
 
 **arXiv ID:** 2601.04798 | [PDF](https://arxiv.org/pdf/2601.04798v1)
 
 **作者:** Tamara R. Lenhard `[一作]` (German Aerospace Center), Tobias Koch `[通讯]` (German Aerospace Center)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Object Tracking` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10749,17 +10187,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Belief in Authority: Impact of Authority in Multi-Agent Evaluation Framework
+## 305. Belief in Authority: Impact of Authority in Multi-Agent Evaluation Framework
 
 **arXiv ID:** 2601.04790 | [PDF](https://arxiv.org/pdf/2601.04790v1)
 
 **作者:** Junhyuk Choi `[一作]` (Chung-Ang University), Bugeun Kim `[通讯]` (Chung-Ang University)
 
-**通讯引用:** 69 | **OpenAlex IDs:** https://openalex.org/A5077260647
+**通讯引用:** 69 | [OpenAlex ID](https://openalex.org/A5077260647)
 
 **关键词:** `Computation and Language` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10787,15 +10223,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## AgentOCR: Reimagining Agent History via Optical Self-Compression
+## 306. AgentOCR: Reimagining Agent History via Optical Self-Compression
 
 **arXiv ID:** 2601.04786 | [PDF](https://arxiv.org/pdf/2601.04786v1)
 
 **作者:** Lang Feng `[一作]`, Bo An `[通讯]`
 
 **关键词:** `Machine Learning` `Compression` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Vision Language Model` `Image` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10823,15 +10257,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Defocus Aberration Theory Confirms Gaussian Model in Most Imaging Devices
+## 307. Defocus Aberration Theory Confirms Gaussian Model in Most Imaging Devices
 
 **arXiv ID:** 2601.04779 | [PDF](https://arxiv.org/pdf/2601.04779v1)
 
 **作者:** Akbar Saadat `[一作]` (Iranian railways), Akbar Saadat `[通讯]` (Iranian railways)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Depth Estimation`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10859,15 +10291,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## SciIF: Benchmarking Scientific Instruction Following Towards Rigorous Scientific Intelligence
+## 308. SciIF: Benchmarking Scientific Instruction Following Towards Rigorous Scientific Intelligence
 
 **arXiv ID:** 2601.04770 | [PDF](https://arxiv.org/pdf/2601.04770v1)
 
 **作者:** Encheng Su `[一作]` (Shanghai AI Laboratory), Houqiang Li `[通讯]` (Shanghai AI Laboratory)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Supervised Fine-Tuning` `Reinforcement Learning` `Prompt Engineering` `Text` `Benchmark` `Physics Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10895,15 +10325,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Differential syntactic and semantic encoding in LLMs
+## 309. Differential syntactic and semantic encoding in LLMs
 
 **arXiv ID:** 2601.04765 | [PDF](https://arxiv.org/pdf/2601.04765v1)
 
 **作者:** Santiago Acevedo `[一作]` (Scuola Internazionale Superiore di Studi Avanzati), Marco Baroni `[通讯]` (Catalan Institute of Research and Advanced Studies)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10931,15 +10359,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Parallelizing Node-Level Explainability in Graph Neural Networks
+## 310. Parallelizing Node-Level Explainability in Graph Neural Networks
 
 **arXiv ID:** 2601.04807 | [PDF](https://arxiv.org/pdf/2601.04807v1)
 
 **作者:** Oscar Llorente `[一作]`, Miguel Familiar `[通讯]`
 
 **关键词:** `Machine Learning` `Explainability and Interpretability` `Graph Neural Network`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -10967,17 +10393,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## MPM-LLM4DSE: Reaching the Pareto Frontier in HLS with Multimodal Learning and LLM-Driven Exploration
+## 311. MPM-LLM4DSE: Reaching the Pareto Frontier in HLS with Multimodal Learning and LLM-Driven Exploration
 
 **arXiv ID:** 2601.04801 | [PDF](https://arxiv.org/pdf/2601.04801v1)
 
 **作者:** Lei Xu `[一作]`, Chenglong Xiao `[通讯]` (Shantou University)
 
-**通讯引用:** 84 | **OpenAlex IDs:** https://openalex.org/A5049047722
+**通讯引用:** 84 | [OpenAlex ID](https://openalex.org/A5049047722)
 
 **关键词:** `Hardware Architecture` `Graph Neural Network` `Large Language Model` `Prompt Engineering` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11005,17 +10429,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## SRU-Pix2Pix: A Fusion-Driven Generator Network for Medical Image Translation with Few-Shot Learning
+## 312. SRU-Pix2Pix: A Fusion-Driven Generator Network for Medical Image Translation with Few-Shot Learning
 
 **arXiv ID:** 2601.04785 | [PDF](https://arxiv.org/pdf/2601.04785v1)
 
 **作者:** Xihe Qiu `[一作]` (Shanghai University of Engineering Science), Liang Liu `[通讯]` (Fudan University)
 
-**通讯引用:** 10383 | **OpenAlex IDs:** https://openalex.org/A5100322376
+**通讯引用:** 10383 | [OpenAlex ID](https://openalex.org/A5100322376)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Image Translation` `Generation` `Convolutional Neural Network` `Generative Adversarial Network` `Image` `Biomedical Data` `Magnetic Resonance Imaging`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11043,15 +10465,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## GeM-VG: Towards Generalized Multi-image Visual Grounding with Multimodal Large Language Models
+## 313. GeM-VG: Towards Generalized Multi-image Visual Grounding with Multimodal Large Language Models
 
 **arXiv ID:** 2601.04777 | [PDF](https://arxiv.org/pdf/2601.04777v1)
 
 **作者:** Shurong Zheng `[一作]` (Institute of Automation, Chinese Academy of Sciences), Jinqiao Wang `[通讯]` (Institute of Automation, Chinese Academy of Sciences)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Object Tracking` `Segmentation` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Chain-of-Thought` `Vision Language Model` `Image` `Video` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11079,15 +10499,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## AT$^2$PO: Agentic Turn-based Policy Optimization via Tree Search
+## 314. AT$^2$PO: Agentic Turn-based Policy Optimization via Tree Search
 
 **arXiv ID:** 2601.04767 | [PDF](https://arxiv.org/pdf/2601.04767v1)
 
 **作者:** Zefang Zong `[一作]` (Tencent Inc), Jie Jiang `[通讯]` (Tencent Inc)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning` `Optimization` `Reinforcement Learning` `Agentic AI` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11115,17 +10533,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence
+## 315. Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence
 
 **arXiv ID:** 2601.04766 | [PDF](https://arxiv.org/pdf/2601.04766v1)
 
 **作者:** Shengyin Sun `[一作]` (City University of Hong Kong), Chen Ma `[通讯]` (City University of Hong Kong)
 
-**通讯引用:** 4362 | **OpenAlex IDs:** https://openalex.org/A5101866773
+**通讯引用:** 4362 | [OpenAlex ID](https://openalex.org/A5101866773)
 
 **关键词:** `Computation and Language` `Computational Efficiency` `Optimization` `Transformer` `Large Language Model` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11153,17 +10569,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Orion-RAG: Path-Aligned Hybrid Retrieval for Graphless Data
+## 316. Orion-RAG: Path-Aligned Hybrid Retrieval for Graphless Data
 
 **arXiv ID:** 2601.04764 | [PDF](https://arxiv.org/pdf/2601.04764v1)
 
 **作者:** Zhen Chen `[一作]` (City University of Hong Kong), Jianping Wang `[通讯]` (City University of Hong Kong)
 
-**通讯引用:** 14044 | **OpenAlex IDs:** https://openalex.org/A5100356291
+**通讯引用:** 14044 | [OpenAlex ID](https://openalex.org/A5100356291)
 
 **关键词:** `Artificial Intelligence` `Retrieval` `Generation` `Large Language Model` `Retrieval-Augmented Generation` `Text` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11191,17 +10605,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## PILOT-Bench: A Benchmark for Legal Reasoning in the Patent Domain with IRAC-Aligned Classification Tasks
+## 317. PILOT-Bench: A Benchmark for Legal Reasoning in the Patent Domain with IRAC-Aligned Classification Tasks
 
 **arXiv ID:** 2601.04758 | [PDF](https://arxiv.org/pdf/2601.04758v1)
 
 **作者:** Yehoon Jang `[一作]` (Pukyong National University), Sungchul Choi `[通讯]` (Pukyong National University)
 
-**通讯引用:** 3130 | **OpenAlex IDs:** https://openalex.org/A5084523518
+**通讯引用:** 3130 | [OpenAlex ID](https://openalex.org/A5084523518)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11229,17 +10641,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting
+## 318. ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting
 
 **arXiv ID:** 2601.04754 | [PDF](https://arxiv.org/pdf/2601.04754v1)
 
 **作者:** Yen-Jen Chiou `[一作]` (National Yang Ming Chiao Tung University), Yuan-Fu Yang `[通讯]` (National Yang Ming Chiao Tung University)
 
-**通讯引用:** 151 | **OpenAlex IDs:** https://openalex.org/A5040566036
+**通讯引用:** 151 | [OpenAlex ID](https://openalex.org/A5040566036)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Retrieval` `Segmentation` `Gaussian Splatting` `Contrastive Learning` `Point Cloud`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11267,15 +10677,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Intraday spatiotemporal PV power prediction at national scale using satellite-based solar forecast models
+## 319. Intraday spatiotemporal PV power prediction at national scale using satellite-based solar forecast models
 
 **arXiv ID:** 2601.04751 | [PDF](https://arxiv.org/pdf/2601.04751v1)
 
 **作者:** Luca Lanzilao `[一作]` (Bern University of Applied Sciences), Angela Meyer `[通讯]` (TU Delft)
 
 **关键词:** `Machine Learning` `Recurrent Neural Network` `Optical Flow` `Diffusion model` `Auto Encoder` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11303,17 +10711,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## AM$^3$Safety: Towards Data Efficient Alignment of Multi-modal Multi-turn Safety for MLLMs
+## 320. AM$^3$Safety: Towards Data Efficient Alignment of Multi-modal Multi-turn Safety for MLLMs
 
 **arXiv ID:** 2601.04736 | [PDF](https://arxiv.org/pdf/2601.04736v1)
 
 **作者:** Han Zhu `[一作]` (Hong Kong University of Science and Technology), Yike Guo `[通讯]` (Hong Kong University of Science and Technology)
 
-**通讯引用:** 18216 | **OpenAlex IDs:** https://openalex.org/A5045081171
+**通讯引用:** 18216 | [OpenAlex ID](https://openalex.org/A5045081171)
 
 **关键词:** `Computation and Language` `Safty and Privacy` `Reinforcement Learning from Human Feedback` `Reinforcement Learning` `Supervised Fine-Tuning` `Large Language Model` `Multimodality` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11341,15 +10747,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## AIVD: Adaptive Edge-Cloud Collaboration for Accurate and Efficient Industrial Visual Detection
+## 321. AIVD: Adaptive Edge-Cloud Collaboration for Accurate and Efficient Industrial Visual Detection
 
 **arXiv ID:** 2601.04734 | [PDF](https://arxiv.org/pdf/2601.04734v1)
 
 **作者:** Yunqing Hu `[一作]` (Institute of Computing Technology), Wen Ji `[通讯]` (Institute of AI for Industries)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Classification` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Image` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11377,15 +10781,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Training a Custom CNN on Five Heterogeneous Image Datasets
+## 322. Training a Custom CNN on Five Heterogeneous Image Datasets
 
 **arXiv ID:** 2601.04727 | [PDF](https://arxiv.org/pdf/2601.04727v1)
 
 **作者:** Anika Tabassum `[一作]` (University of Dhaka), Nafisa Naznin `[通讯]` (University of Dhaka)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Classification` `Object Detection` `Convolutional Neural Network` `Image` `Agriculture Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11413,17 +10815,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Measurement-Consistent Langevin Corrector: A Remedy for Latent Diffusion Inverse Solvers
+## 323. Measurement-Consistent Langevin Corrector: A Remedy for Latent Diffusion Inverse Solvers
 
 **arXiv ID:** 2601.04791 | [PDF](https://arxiv.org/pdf/2601.04791v1)
 
 **作者:** Lee Hyoseok `[一作]` (Korea Advanced Institute of Science and Technology), Tae-Hyun Oh `[通讯]` (Korea Advanced Institute of Science and Technology)
 
-**通讯引用:** 2670 | **OpenAlex IDs:** https://openalex.org/A5078114111
+**通讯引用:** 2670 | [OpenAlex ID](https://openalex.org/A5078114111)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Restoration` `Generation` `Diffusion model` `Stochastic Differential Equation` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11451,15 +10851,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## CounterVid: Counterfactual Video Generation for Mitigating Action and Temporal Hallucinations in Video-Language Models
+## 324. CounterVid: Counterfactual Video Generation for Mitigating Action and Temporal Hallucinations in Video-Language Models
 
 **arXiv ID:** 2601.04778 | [PDF](https://arxiv.org/pdf/2601.04778v1)
 
 **作者:** Tobia Poppi `[一作]` (University of Modena and Reggio Emilia), Florian Schiffers `[通讯]` (Amazon Prime Video)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Optimization` `Large Language Model` `Diffusion model` `Video` `Text` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11487,17 +10885,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail
+## 325. When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail
 
 **arXiv ID:** 2601.04748 | [PDF](https://arxiv.org/pdf/2601.04748v1)
 
 **作者:** Xiaoxiao Li `[一作]` (University of British Columbia), Xiaoxiao Li `[通讯]` (University of British Columbia)
 
-**通讯引用:** 5049 | **OpenAlex IDs:** https://openalex.org/A5100458648
+**通讯引用:** 5049 | [OpenAlex ID](https://openalex.org/A5100458648)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Prompt Engineering` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11525,17 +10921,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Semi-Supervised Diseased Detection from Speech Dialogues with Multi-Level Data Modeling
+## 326. Semi-Supervised Diseased Detection from Speech Dialogues with Multi-Level Data Modeling
 
 **arXiv ID:** 2601.04744 | [PDF](https://arxiv.org/pdf/2601.04744v1)
 
 **作者:** Xingyuan Li `[一作]` (Shanghai Jiao Tong University), Mengyue Wu `[通讯]` (Shanghai Jiao Tong University)
 
-**通讯引用:** 1553 | **OpenAlex IDs:** https://openalex.org/A5109064838
+**通讯引用:** 1553 | [OpenAlex ID](https://openalex.org/A5109064838)
 
 **关键词:** `Sound` `Classification` `Anomaly Detection` `Recurrent Neural Network` `Transformer` `Contrastive Learning` `Audio` `Biomedical Data` `Alzheimer's Disease` `Electronic Health Records`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11563,17 +10957,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Fast Mining and Dynamic Time-to-Event Prediction over Multi-sensor Data Streams
+## 327. Fast Mining and Dynamic Time-to-Event Prediction over Multi-sensor Data Streams
 
 **arXiv ID:** 2601.04741 | [PDF](https://arxiv.org/pdf/2601.04741v1)
 
 **作者:** Kota Nakamura `[一作]` (Toyota Motor Corporation), Yasushi Sakurai `[通讯]` (Osaka University)
 
-**通讯引用:** 3021 | **OpenAlex IDs:** https://openalex.org/A5089668362
+**通讯引用:** 3021 | [OpenAlex ID](https://openalex.org/A5089668362)
 
 **关键词:** `Machine Learning` `Anomaly Detection` `Optimization` `Computational Efficiency` `Stochastic Differential Equation` `Time Series` `Sequential` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11601,17 +10993,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## RiskAtlas: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation
+## 328. RiskAtlas: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation
 
 **arXiv ID:** 2601.04740 | [PDF](https://arxiv.org/pdf/2601.04740v1)
 
 **作者:** Huawei Zheng `[一作]` (Zhejiang University), Dazhen Deng `[通讯]` (Zhejiang University)
 
-**通讯引用:** 555 | **OpenAlex IDs:** https://openalex.org/A5049050148
+**通讯引用:** 555 | [OpenAlex ID](https://openalex.org/A5049050148)
 
 **关键词:** `Computation and Language` `Generation` `Adversarial Attack` `Transformer` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11639,17 +11029,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Feasibility Study Regarding Self-sustainable Reconfigurable Intelligent Surfaces
+## 329. Feasibility Study Regarding Self-sustainable Reconfigurable Intelligent Surfaces
 
 **arXiv ID:** 2601.04723 | [PDF](https://arxiv.org/pdf/2601.04723v1)
 
 **作者:** Zhenyu Li `[一作]` (KTH Royal Institute of Technology), Cicek Cavdar `[通讯]` (KTH Royal Institute of Technology)
 
-**通讯引用:** 2717 | **OpenAlex IDs:** https://openalex.org/A5006937058
+**通讯引用:** 2717 | [OpenAlex ID](https://openalex.org/A5006937058)
 
 **关键词:** `Information Theory`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11677,15 +11065,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning
+## 330. SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning
 
 **arXiv ID:** 2601.04809 | [PDF](https://arxiv.org/pdf/2601.04809v1)
 
 **作者:** Caijun Xu `[一作]` (Fudan University), Yixin Cao `[通讯]` (Shanghai Innovation Institute)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11713,17 +11099,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Neural-Symbolic Integration with Evolvable Policies
+## 331. Neural-Symbolic Integration with Evolvable Policies
 
 **arXiv ID:** 2601.04799 | [PDF](https://arxiv.org/pdf/2601.04799v1)
 
 **作者:** Marios Thoma `[一作]` (CYENS Centre of Excellence), Loizos Michael `[通讯]` (Open University of Cyprus)
 
-**通讯引用:** 782 | **OpenAlex IDs:** https://openalex.org/A5002765890
+**通讯引用:** 782 | [OpenAlex ID](https://openalex.org/A5002765890)
 
 **关键词:** `Machine Learning` `Optimization` `Explainability and Interpretability` `Convolutional Neural Network` `Reinforcement Learning` `Agentic AI` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11751,17 +11135,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Defense Against Indirect Prompt Injection via Tool Result Parsing
+## 332. Defense Against Indirect Prompt Injection via Tool Result Parsing
 
 **arXiv ID:** 2601.04795 | [PDF](https://arxiv.org/pdf/2601.04795v1)
 
 **作者:** Qiang Yu `[一作]` (Harbin Institute of Technology), Chuanyi Liu `[通讯]` (Harbin Institute of Technology)
 
-**通讯引用:** 689 | **OpenAlex IDs:** https://openalex.org/A5103171964
+**通讯引用:** 689 | [OpenAlex ID](https://openalex.org/A5103171964)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Prompt Engineering` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11789,15 +11171,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## NC2C: Automated Convexification of Generic Non-Convex Optimization Problems
+## 333. NC2C: Automated Convexification of Generic Non-Convex Optimization Problems
 
 **arXiv ID:** 2601.04789 | [PDF](https://arxiv.org/pdf/2601.04789v1)
 
 **作者:** Xinyue Peng `[一作]` (Southeast University), Jiannan Cao `[通讯]` (Massachusetts Institute of Technology)
 
 **关键词:** `Computation and Language` `Optimization` `Large Language Model`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11825,15 +11205,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Dynamic Thermal Feedback in Highly Immersive VR Scenarios: a Multimodal Analysis of User Experience
+## 334. Dynamic Thermal Feedback in Highly Immersive VR Scenarios: a Multimodal Analysis of User Experience
 
 **arXiv ID:** 2601.04781 | [PDF](https://arxiv.org/pdf/2601.04781v1)
 
 **作者:** Sophie Villenave `[一作]` (Ecole Centrale de Lyon), Guillaume Lavoué `[通讯]` (Ecole Centrale de Lyon)
 
 **关键词:** `Human-Computer Interaction` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11861,17 +11239,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## LANGSAE EDITING: Improving Multilingual Information Retrieval via Post-hoc Language Identity Removal
+## 335. LANGSAE EDITING: Improving Multilingual Information Retrieval via Post-hoc Language Identity Removal
 
 **arXiv ID:** 2601.04768 | [PDF](https://arxiv.org/pdf/2601.04768v1)
 
 **作者:** Dongjun Kim `[一作]` (Korea University), Heuiseok Lim `[通讯]` (Korea University)
 
-**通讯引用:** 2647 | **OpenAlex IDs:** https://openalex.org/A5033580486
+**通讯引用:** 2647 | [OpenAlex ID](https://openalex.org/A5033580486)
 
 **关键词:** `Computation and Language` `Retrieval` `Auto Encoder` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11899,17 +11275,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Structural Indexing of Relational Databases for the Evaluation of Free-Connex Acyclic Conjunctive Queries
+## 336. Structural Indexing of Relational Databases for the Evaluation of Free-Connex Acyclic Conjunctive Queries
 
 **arXiv ID:** 2601.04757 | [PDF](https://arxiv.org/pdf/2601.04757v1)
 
 **作者:** Cristian Riveros `[一作]` (Pontificia Universidad Católica de Chile), Nicole Schweikardt `[通讯]` (Humboldt-Universität zu Berlin)
 
-**通讯引用:** 1328 | **OpenAlex IDs:** https://openalex.org/A5019365566
+**通讯引用:** 1328 | [OpenAlex ID](https://openalex.org/A5019365566)
 
 **关键词:** `Databases` `Relational Color Refinement` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11937,15 +11311,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Generalised Quantifiers Based on Rabin-Mostowski Index
+## 337. Generalised Quantifiers Based on Rabin-Mostowski Index
 
 **arXiv ID:** 2601.04739 | [PDF](https://arxiv.org/pdf/2601.04739v1)
 
 **作者:** Denis Kuperberg `[一作]` (CNRS), Michał Skrzypczak `[通讯]` (Institute of Informatics University of Warsaw)
 
 **关键词:** `Logic in Computer Science`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -11973,15 +11345,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Excess Description Length of Learning Generalizable Predictors
+## 338. Excess Description Length of Learning Generalizable Predictors
 
 **arXiv ID:** 2601.04728 | [PDF](https://arxiv.org/pdf/2601.04728v1)
 
 **作者:** Elizabeth Donoway `[一作]` (Anthropic), Jan Leike `[通讯]` (Anthropic)
 
 **关键词:** `Machine Learning` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12009,17 +11379,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning
+## 339. Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning
 
 **arXiv ID:** 2601.04726 | [PDF](https://arxiv.org/pdf/2601.04726v1)
 
 **作者:** Yuyang Hu `[一作]` (Renmin University of China), Zhicheng Dou `[通讯]` (Renmin University of China)
 
-**通讯引用:** 3838 | **OpenAlex IDs:** https://openalex.org/A5010558184
+**通讯引用:** 3838 | [OpenAlex ID](https://openalex.org/A5010558184)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Agentic AI` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12047,17 +11415,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Branch-width of connectivity functions is fixed-parameter tractable
+## 340. Branch-width of connectivity functions is fixed-parameter tractable
 
 **arXiv ID:** 2601.04756 | [PDF](https://arxiv.org/pdf/2601.04756v1)
 
 **作者:** Tuukka Korhonen `[一作]` (University of Copenhagen), Sang-il Oum `[通讯]` (Institute for Basic Science)
 
-**通讯引用:** 2176 | **OpenAlex IDs:** https://openalex.org/A5082994085
+**通讯引用:** 2176 | [OpenAlex ID](https://openalex.org/A5082994085)
 
 **关键词:** `Data Structures and Algorithms` `Optimization` `Computational Efficiency` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12085,15 +11451,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## One-clock synthesis problems
+## 341. One-clock synthesis problems
 
 **arXiv ID:** 2601.04902 | [PDF](https://arxiv.org/pdf/2601.04902v1)
 
 **作者:** Sławomir Lasota `[一作]` (University of Warsaw), Radosław Piórkowski `[通讯]` (University of Oxford)
 
 **关键词:** `Formal Languages and Automata Theory`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12121,17 +11485,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Rigorous numerical computation of the Stokes multipliers for linear differential equations with single level one
+## 342. Rigorous numerical computation of the Stokes multipliers for linear differential equations with single level one
 
 **arXiv ID:** 2601.04901 | [PDF](https://arxiv.org/pdf/2601.04901v1)
 
 **作者:** Michèle Loday-Richaud `[一作]` (Université Paris-Saclay), Pascal Remy `[通讯]` (Laboratoire de Mathématiques de Versailles)
 
-**通讯引用:** 110 | **OpenAlex IDs:** https://openalex.org/A5077146690
+**通讯引用:** 110 | [OpenAlex ID](https://openalex.org/A5077146690)
 
 **关键词:** `Mathematical Software` `Ordinary Differential Equation`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12159,7 +11521,7 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Quantum Secure Biometric Authentication in Decentralised Systems
+## 343. Quantum Secure Biometric Authentication in Decentralised Systems
 
 **arXiv ID:** 2601.04852 | [PDF](https://arxiv.org/pdf/2601.04852v1)
 
@@ -12169,15 +11531,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Flexible Manufacturing Systems Intralogistics: Dynamic Optimization of AGVs and Tool Sharing Using Coloured-Timed Petri Nets and Actor-Critic RL with Actions Masking
+## 344. Flexible Manufacturing Systems Intralogistics: Dynamic Optimization of AGVs and Tool Sharing Using Coloured-Timed Petri Nets and Actor-Critic RL with Actions Masking
 
 **arXiv ID:** 2601.04887 | [PDF](https://arxiv.org/pdf/2601.04887v1)
 
 **作者:** Sofiene Lassoued `[一作]` (South Westphalia University of Applied Sciences), Andreas Schwunga `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Optimization` `Reinforcement Learning` `Reinforcement Learning` `Tabular` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12205,7 +11565,7 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## AECV-Bench: Benchmarking Multimodal Models on Architectural and Engineering Drawings Understanding
+## 345. AECV-Bench: Benchmarking Multimodal Models on Architectural and Engineering Drawings Understanding
 
 **arXiv ID:** 2601.04819 | [PDF](https://arxiv.org/pdf/2601.04819v1)
 
@@ -12215,17 +11575,15 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## Orchestrating Intelligence: Confidence-Aware Routing for Efficient Multi-Agent Collaboration across Multi-Scale Models
+## 346. Orchestrating Intelligence: Confidence-Aware Routing for Efficient Multi-Agent Collaboration across Multi-Scale Models
 
 **arXiv ID:** 2601.04861 | [PDF](https://arxiv.org/pdf/2601.04861v1)
 
 **作者:** Jingbo Wang `[一作]` (Harbin Institute of Technology), Ting Liu `[通讯]` (Harbin Institute of Technology)
 
-**通讯引用:** 38260 | **OpenAlex IDs:** https://openalex.org/A5100418162
+**通讯引用:** 38260 | [OpenAlex ID](https://openalex.org/A5100418162)
 
 **关键词:** `Artificial Intelligence` `Computational Efficiency` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Text` `Physics Related` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12253,15 +11611,13 @@ SMT‑COMP UFNIRA/UFLRA 基准，加上自制的 Sum‑of‑Squares 与 Mathemat
 
 ---
 
-## DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation
+## 347. DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation
 
 **arXiv ID:** 2601.04860 | [PDF](https://arxiv.org/pdf/2601.04860v1)
 
 **作者:** Ayush Pande `[一作]` (Indian Institute of Technology Kanpur), Ayush Pande `[通讯]` (Indian Institute of Technology Kanpur)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Segmentation` `Neural Radiance Field` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12289,17 +11645,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation
+## 348. DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation
 
 **arXiv ID:** 2601.04823 | [PDF](https://arxiv.org/pdf/2601.04823v1)
 
 **作者:** Guanzhi Deng `[一作]` (City University of Hong Kong), Lijie Wen `[通讯]` (Tsinghua University)
 
-**通讯引用:** 4406 | **OpenAlex IDs:** https://openalex.org/A5030845033
+**通讯引用:** 4406 | [OpenAlex ID](https://openalex.org/A5030845033)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Mixture of Experts` `Supervised Fine-Tuning` `Text` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12327,15 +11681,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## 5G NR Non-Terrestrial Networks: From Early Results to the Road Ahead
+## 349. 5G NR Non-Terrestrial Networks: From Early Results to the Road Ahead
 
 **arXiv ID:** 2601.04882 | [PDF](https://arxiv.org/pdf/2601.04882v1)
 
 **作者:** Mattia Figaro `[一作]`, Michele Zorzi `[通讯]`
 
 **关键词:** `Networking and Internet Architecture`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12363,17 +11715,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters
+## 350. CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters
 
 **arXiv ID:** 2601.04885 | [PDF](https://arxiv.org/pdf/2601.04885v1)
 
 **作者:** Ao Sun `[一作]` (Southeast University), Yuheng Jia `[通讯]` (Southeast University)
 
-**通讯引用:** 1639 | **OpenAlex IDs:** https://openalex.org/A5013880628
+**通讯引用:** 1639 | [OpenAlex ID](https://openalex.org/A5013880628)
 
 **关键词:** `Computation and Language` `Generation` `Recommendation System` `Transformer` `Large Language Model` `Mixture of Experts` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12401,17 +11751,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Zero Wrench Control via Wrench Disturbance Observer for Learning-free Peg-in-hole Assembly
+## 351. Zero Wrench Control via Wrench Disturbance Observer for Learning-free Peg-in-hole Assembly
 
 **arXiv ID:** 2601.04881 | [PDF](https://arxiv.org/pdf/2601.04881v1)
 
 **作者:** Kiyoung Choi `[一作]` (Daegu Gyeongbuk Institute of Science and Technology), Sehoon Oh `[通讯]` (Daegu Gyeongbuk Institute of Science and Technology)
 
-**通讯引用:** 4127 | **OpenAlex IDs:** https://openalex.org/A5007243736
+**通讯引用:** 4127 | [OpenAlex ID](https://openalex.org/A5007243736)
 
 **关键词:** `Robotics` `Robotic Intelligence` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12439,17 +11787,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News
+## 352. MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News
 
 **arXiv ID:** 2601.04857 | [PDF](https://arxiv.org/pdf/2601.04857v1)
 
 **作者:** Zhiwei Liu `[一作]` (University of Manchester), Sophia Ananiadou `[通讯]` (University of Manchester)
 
-**通讯引用:** 17835 | **OpenAlex IDs:** https://openalex.org/A5077976343
+**通讯引用:** 17835 | [OpenAlex ID](https://openalex.org/A5077976343)
 
 **关键词:** `Computation and Language` `Classification` `Explainability and Interpretability` `Transformer` `Large Language Model` `Prompt Engineering` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12477,17 +11823,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution
+## 353. Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution
 
 **arXiv ID:** 2601.04855 | [PDF](https://arxiv.org/pdf/2601.04855v1)
 
 **作者:** Francesco Ferrini `[一作]` (University of Trento), Manfred Jaeger `[通讯]` (Aalborg University)
 
-**通讯引用:** 1506 | **OpenAlex IDs:** https://openalex.org/A5014289413
+**通讯引用:** 1506 | [OpenAlex ID](https://openalex.org/A5014289413)
 
 **关键词:** `Machine Learning` `Graph Neural Network` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12515,15 +11859,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## A Mathematical Theory of Payment Channel Networks
+## 354. A Mathematical Theory of Payment Channel Networks
 
 **arXiv ID:** 2601.04835 | [PDF](https://arxiv.org/pdf/2601.04835v1)
 
 **作者:** Rene Pickhardt `[一作]`, Rene Pickhardt `[通讯]`
 
 **关键词:** `Networking and Internet Architecture`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12551,17 +11893,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## When AI Settles Down: Late-Stage Stability as a Signature of AI-Generated Text Detection
+## 355. When AI Settles Down: Late-Stage Stability as a Signature of AI-Generated Text Detection
 
 **arXiv ID:** 2601.04833 | [PDF](https://arxiv.org/pdf/2601.04833v1)
 
 **作者:** Ke Sun `[一作]` (Westlake University), Yue Zhang `[通讯]` (Westlake University)
 
-**通讯引用:** 17277 | **OpenAlex IDs:** https://openalex.org/A5100333758
+**通讯引用:** 17277 | [OpenAlex ID](https://openalex.org/A5100333758)
 
 **关键词:** `Computation and Language` `Generation` `Anomaly Detection` `Transformer` `Large Language Model` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12589,17 +11929,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Faithful Summarisation under Disagreement via Belief-Level Aggregation
+## 356. Faithful Summarisation under Disagreement via Belief-Level Aggregation
 
 **arXiv ID:** 2601.04889 | [PDF](https://arxiv.org/pdf/2601.04889v1)
 
 **作者:** Favour Yahdii Aghaebe `[一作]` (University of Sheffield), Nafise Sadat Moosavi `[通讯]` (University of Sheffield)
 
-**通讯引用:** 1269 | **OpenAlex IDs:** https://openalex.org/A5054918343
+**通讯引用:** 1269 | [OpenAlex ID](https://openalex.org/A5054918343)
 
 **关键词:** `Computation and Language` `Generation` `Data Synthesis` `Transformer` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12627,17 +11965,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Precomputing Multi-Agent Path Replanning using Temporal Flexibility: A Case Study on the Dutch Railway Network
+## 357. Precomputing Multi-Agent Path Replanning using Temporal Flexibility: A Case Study on the Dutch Railway Network
 
 **arXiv ID:** 2601.04884 | [PDF](https://arxiv.org/pdf/2601.04884v1)
 
 **作者:** Issa Hanou `[一作]` (Delft University of Technology), Mathijs de Weerdt `[通讯]` (Delft University of Technology)
 
-**通讯引用:** 2116 | **OpenAlex IDs:** https://openalex.org/A5070981277
+**通讯引用:** 2116 | [OpenAlex ID](https://openalex.org/A5070981277)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12665,17 +12001,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Higher-Order Knowledge Representations for Agentic Scientific Reasoning
+## 358. Higher-Order Knowledge Representations for Agentic Scientific Reasoning
 
 **arXiv ID:** 2601.04878 | [PDF](https://arxiv.org/pdf/2601.04878v1)
 
 **作者:** Isabella A. Stewart `[一作]` (Massachusetts Institute of Technology), Markus J. Buehler `[通讯]` (Massachusetts Institute of Technology)
 
-**通讯引用:** 52018 | **OpenAlex IDs:** https://openalex.org/A5011504360
+**通讯引用:** 52018 | [OpenAlex ID](https://openalex.org/A5011504360)
 
 **关键词:** `Artificial Intelligence` `Graph Neural Network` `Large Language Model` `Agentic AI` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12703,15 +12037,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## EvolSQL: Structure-Aware Evolution for Scalable Text-to-SQL Data Synthesis
+## 359. EvolSQL: Structure-Aware Evolution for Scalable Text-to-SQL Data Synthesis
 
 **arXiv ID:** 2601.04875 | [PDF](https://arxiv.org/pdf/2601.04875v1)
 
 **作者:** Xuanguang Pan `[一作]` (Beihang University), Shuai Ma `[通讯]`
 
 **关键词:** `Computation and Language` `Data Synthesis` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Chain-of-Thought` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12739,17 +12071,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Wireless Communication with Cross-Linked Rotatable Antenna Array: Architecture Design and Rotation Optimization
+## 360. Wireless Communication with Cross-Linked Rotatable Antenna Array: Architecture Design and Rotation Optimization
 
 **arXiv ID:** 2601.04862 | [PDF](https://arxiv.org/pdf/2601.04862v1)
 
 **作者:** Ailing Zheng `[一作]` (Shanghai Jiao Tong University), Guoying Zhang `[通讯]` (Shanghai Jiao Tong University)
 
-**通讯引用:** 13182 | **OpenAlex IDs:** https://openalex.org/A5100633436
+**通讯引用:** 13182 | [OpenAlex ID](https://openalex.org/A5100633436)
 
 **关键词:** `Information Theory` `Optimization`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12777,17 +12107,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection
+## 361. RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection
 
 **arXiv ID:** 2601.04853 | [PDF](https://arxiv.org/pdf/2601.04853v1)
 
 **作者:** Zhiwei Liu `[一作]` (University of Manchester), Sophia Ananiadou `[通讯]` (University of Manchester)
 
-**通讯引用:** 17835 | **OpenAlex IDs:** https://openalex.org/A5077976343
+**通讯引用:** 17835 | [OpenAlex ID](https://openalex.org/A5077976343)
 
 **关键词:** `Computation and Language` `Retrieval` `Anomaly Detection` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Reinforcement Learning` `Retrieval-Augmented Generation` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12815,17 +12143,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Stability of Constrained Optimization Models for Structured Signal Recovery
+## 362. Stability of Constrained Optimization Models for Structured Signal Recovery
 
 **arXiv ID:** 2601.04849 | [PDF](https://arxiv.org/pdf/2601.04849v1)
 
 **作者:** Yijun Zhong `[一作]` (Zhejiang Sci-Tech University), Yi Shen `[通讯]` (Zhejiang Sci-Tech University)
 
-**通讯引用:** 8404 | **OpenAlex IDs:** https://openalex.org/A5009129294
+**通讯引用:** 8404 | [OpenAlex ID](https://openalex.org/A5009129294)
 
 **关键词:** `Information Theory` `Optimization`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12853,17 +12179,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## A Longitudinal Analysis of Gamification in Untappd: Ethical Reflections on a Social Drinking Application
+## 363. A Longitudinal Analysis of Gamification in Untappd: Ethical Reflections on a Social Drinking Application
 
 **arXiv ID:** 2601.04841 | [PDF](https://arxiv.org/pdf/2601.04841v1)
 
 **作者:** Jefferson Seide Molléri `[一作]` (Kristiania University), Jouni Smed `[通讯]` (University of Turku)
 
-**通讯引用:** 1274 | **OpenAlex IDs:** https://openalex.org/A5091346568
+**通讯引用:** 1274 | [OpenAlex ID](https://openalex.org/A5091346568)
 
 **关键词:** `Software Engineering`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12891,15 +12215,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Proof of Commitment: A Human-Centric Resource for Permissionless Consensus
+## 364. Proof of Commitment: A Human-Centric Resource for Permissionless Consensus
 
 **arXiv ID:** 2601.04813 | [PDF](https://arxiv.org/pdf/2601.04813v1)
 
 **作者:** Homayoun Maleki `[一作]` (University of Deusto), Jon Legarda `[通讯]` (University of Deusto)
 
 **关键词:** `Distributed, Parallel, and Cluster Computing`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12927,15 +12249,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers
+## 365. Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers
 
 **arXiv ID:** 2601.04890 | [PDF](https://arxiv.org/pdf/2601.04890v1)
 
 **作者:** Maksim Velikanov `[一作]` (Hugging Face), Hakim Hacid `[通讯]` (Hugging Face)
 
 **关键词:** `Machine Learning` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -12963,17 +12283,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Distributed Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower bounds
+## 366. Distributed Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower bounds
 
 **arXiv ID:** 2601.04907 | [PDF](https://arxiv.org/pdf/2601.04907v1)
 
 **作者:** Sifan Yang `[一作]` (Nanjing University), Lijun Zhang `[通讯]` (Nanjing University)
 
-**通讯引用:** 28060 | **OpenAlex IDs:** https://openalex.org/A5115603699
+**通讯引用:** 28060 | [OpenAlex ID](https://openalex.org/A5115603699)
 
 **关键词:** `Machine Learning` `Optimization`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13001,17 +12319,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Parallel Quadratic Selected Inversion in Quantum Transport Simulation
+## 367. Parallel Quadratic Selected Inversion in Quantum Transport Simulation
 
 **arXiv ID:** 2601.04904 | [PDF](https://arxiv.org/pdf/2601.04904v1)
 
 **作者:** Vincent Maillou `[一作]` (ETH Zurich), Mathieu Luisier `[通讯]` (ETH Zurich)
 
-**通讯引用:** 7371 | **OpenAlex IDs:** https://openalex.org/A5058537769
+**通讯引用:** 7371 | [OpenAlex ID](https://openalex.org/A5058537769)
 
 **关键词:** `Distributed, Parallel, and Cluster Computing` `Reinforcement Learning` `Physics Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13039,17 +12355,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Rotation-Robust Regression with Convolutional Model Trees
+## 368. Rotation-Robust Regression with Convolutional Model Trees
 
 **arXiv ID:** 2601.04899 | [PDF](https://arxiv.org/pdf/2601.04899v1)
 
 **作者:** Hongyi Li `[一作]` (Harbin Institute of Technology), Jun Xu `[通讯]` (Harbin Institute of Technology)
 
-**通讯引用:** 13900 | **OpenAlex IDs:** https://openalex.org/A5023647213
+**通讯引用:** 13900 | [OpenAlex ID](https://openalex.org/A5023647213)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Classification` `Optimization` `Convolutional Neural Network` `Supervised Fine-Tuning` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13077,7 +12391,7 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## FibreCastML: An Open Web Platform for Predicting Electrospun Nanofibre Diameter Distributions
+## 369. FibreCastML: An Open Web Platform for Predicting Electrospun Nanofibre Diameter Distributions
 
 **arXiv ID:** 2601.04873 | [PDF](https://arxiv.org/pdf/2601.04873v1)
 
@@ -13087,15 +12401,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## DVD: A Robust Method for Detecting Variant Contamination in Large Language Model Evaluation
+## 370. DVD: A Robust Method for Detecting Variant Contamination in Large Language Model Evaluation
 
 **arXiv ID:** 2601.04895 | [PDF](https://arxiv.org/pdf/2601.04895v1)
 
 **作者:** Renzhao Liang `[一作]` (Beihang University), Cunxiang Wang `[通讯]` (Tsinghua University)
 
 **关键词:** `Artificial Intelligence` `Generation` `Data Synthesis` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13123,15 +12435,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Scaling Vision Language Models for Pharmaceutical Long Form Video Reasoning on Industrial GenAI Platform
+## 371. Scaling Vision Language Models for Pharmaceutical Long Form Video Reasoning on Industrial GenAI Platform
 
 **arXiv ID:** 2601.04891 | [PDF](https://arxiv.org/pdf/2601.04891v1)
 
 **作者:** Suyash Mishra `[一作]` (Roche), Baddu Narendra `[通讯]`
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Drug Discovery` `Transformer` `Vision Language Model` `Large Language Model` `Video` `Audio` `Text` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13159,17 +12469,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## SmartSearch: Process Reward-Guided Query Refinement for Search Agents
+## 372. SmartSearch: Process Reward-Guided Query Refinement for Search Agents
 
 **arXiv ID:** 2601.04888 | [PDF](https://arxiv.org/pdf/2601.04888v1)
 
 **作者:** Tongyu Wen `[一作]` (Renmin University of China), Zhicheng Dou `[通讯]` (Renmin University of China)
 
-**通讯引用:** 3838 | **OpenAlex IDs:** https://openalex.org/A5010558184
+**通讯引用:** 3838 | [OpenAlex ID](https://openalex.org/A5010558184)
 
 **关键词:** `Artificial Intelligence` `Retrieval` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13197,15 +12505,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Responsibility Measures for Conjunctive Queries with Negation
+## 373. Responsibility Measures for Conjunctive Queries with Negation
 
 **arXiv ID:** 2601.04868 | [PDF](https://arxiv.org/pdf/2601.04868v1)
 
 **作者:** Meghyn Bienvenu `[一作]` (University of Bordeaux), Pierre Lafourcade `[通讯]` (University of Bordeaux)
 
 **关键词:** `Databases`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13250,17 +12556,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Key-Value Pair-Free Continual Learner via Task-Specific Prompt-Prototype
+## 374. Key-Value Pair-Free Continual Learner via Task-Specific Prompt-Prototype
 
 **arXiv ID:** 2601.04864 | [PDF](https://arxiv.org/pdf/2601.04864v1)
 
 **作者:** Haihua Luo `[一作]` (University of Jyväskylä), Fengyu Cong `[通讯]` (Dalian University of Technology)
 
-**通讯引用:** 4329 | **OpenAlex IDs:** https://openalex.org/A5042937962
+**通讯引用:** 4329 | [OpenAlex ID](https://openalex.org/A5042937962)
 
 **关键词:** `Artificial Intelligence` `Classification` `Recognition` `Transformer` `Prompt Engineering` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13288,15 +12592,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## A Navigational Approach for Comprehensive RAG via Traversal over Proposition Graphs
+## 375. A Navigational Approach for Comprehensive RAG via Traversal over Proposition Graphs
 
 **arXiv ID:** 2601.04859 | [PDF](https://arxiv.org/pdf/2601.04859v1)
 
 **作者:** Maxime Delmas `[一作]` (Idiap Research Institute), André Freitas `[通讯]` (Cancer Biomarker Centre)
 
 **关键词:** `Computation and Language` `Retrieval` `Recommendation System` `Graph Neural Network` `Large Language Model` `Retrieval-Augmented Generation` `Graph` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13324,15 +12626,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Token Maturation: Autoregressive Language Generation via Continuous Token Dynamics
+## 376. Token Maturation: Autoregressive Language Generation via Continuous Token Dynamics
 
 **arXiv ID:** 2601.04854 | [PDF](https://arxiv.org/pdf/2601.04854v1)
 
 **作者:** Oshri Naparstek `[一作]` (IBM Research), Oshri Naparstek `[通讯]` (IBM Research)
 
 **关键词:** `Computation and Language` `Generation` `Transformer` `Large Language Model` `Contrastive Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13360,17 +12660,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## LGTD: Local-Global Trend Decomposition for Season-Length-Free Time Series Analysis
+## 377. LGTD: Local-Global Trend Decomposition for Season-Length-Free Time Series Analysis
 
 **arXiv ID:** 2601.04820 | [PDF](https://arxiv.org/pdf/2601.04820v1)
 
 **作者:** Chotanansub Sophaken `[一作]` (King Mongkut’s University of Technology Thonburi), Chainarong Amornbunchornvej `[通讯]` (National Electronics and Computer Technology Center)
 
-**通讯引用:** 88 | **OpenAlex IDs:** https://openalex.org/A5007113918
+**通讯引用:** 88 | [OpenAlex ID](https://openalex.org/A5007113918)
 
 **关键词:** `Databases` `Optimization` `Computational Efficiency` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13398,17 +12696,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Privacy-Utility Trade-offs Under Multi-Level Point-Wise Leakage Constraints
+## 378. Privacy-Utility Trade-offs Under Multi-Level Point-Wise Leakage Constraints
 
 **arXiv ID:** 2601.04815 | [PDF](https://arxiv.org/pdf/2601.04815v1)
 
 **作者:** Amirreza Zamani `[一作]` (KTH), Mikael Skoglund `[通讯]` (KTH)
 
-**通讯引用:** 8707 | **OpenAlex IDs:** https://openalex.org/A5041348422
+**通讯引用:** 8707 | [OpenAlex ID](https://openalex.org/A5041348422)
 
 **关键词:** `Information Theory` `Safty and Privacy` `Optimization`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13436,15 +12732,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## V-FAT: Benchmarking Visual Fidelity Against Text-bias
+## 379. V-FAT: Benchmarking Visual Fidelity Against Text-bias
 
 **arXiv ID:** 2601.04897 | [PDF](https://arxiv.org/pdf/2601.04897v1)
 
 **作者:** Ziteng Wang `[一作]` (Chinese University of Hong Kong), Songxiang Liu `[通讯]` (Meituan)
 
 **关键词:** `Computation and Language` `Recognition` `Data-Centric Learning` `Transformer` `Large Language Model` `Prompt Engineering` `Vision Language Model` `Image` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13472,17 +12766,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests
+## 380. Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests
 
 **arXiv ID:** 2601.04886 | [PDF](https://arxiv.org/pdf/2601.04886v1)
 
 **作者:** Jingzhi Gong `[一作]` (King's College London), Jie M. Zhang `[通讯]` (King's College London)
 
-**通讯引用:** 3896 | **OpenAlex IDs:** https://openalex.org/A5088708850
+**通讯引用:** 3896 | [OpenAlex ID](https://openalex.org/A5088708850)
 
 **关键词:** `Software Engineering` `AI Code Assistant` `Agentic AI` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13510,17 +12802,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis
+## 381. Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis
 
 **arXiv ID:** 2601.04879 | [PDF](https://arxiv.org/pdf/2601.04879v1)
 
 **作者:** Mingyue Cheng `[一作]` (University of Science and Technology of China), Enhong Chen `[通讯]` (University of Science and Technology of China)
 
-**通讯引用:** 27290 | **OpenAlex IDs:** https://openalex.org/A5048237545
+**通讯引用:** 27290 | [OpenAlex ID](https://openalex.org/A5048237545)
 
 **关键词:** `Computation and Language` `Large Language Model` `Retrieval-Augmented Generation` `Text` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13548,15 +12838,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## ChronosAudio: A Comprehensive Long-Audio Benchmark for Evaluating Audio-Large Language Models
+## 382. ChronosAudio: A Comprehensive Long-Audio Benchmark for Evaluating Audio-Large Language Models
 
 **arXiv ID:** 2601.04876 | [PDF](https://arxiv.org/pdf/2601.04876v1)
 
 **作者:** Kaiwen Luo `[一作]` (North China Electric Power University), Qingsong Wen `[通讯]` (Squirrel AI Learning)
 
 **关键词:** `Sound` `Transformer` `Large Language Model` `Audio` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13584,17 +12872,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Intelligent resource allocation in wireless networks via deep reinforcement learning
+## 383. Intelligent resource allocation in wireless networks via deep reinforcement learning
 
 **arXiv ID:** 2601.04842 | [PDF](https://arxiv.org/pdf/2601.04842v1)
 
 **作者:** Marie Diane Iradukunda `[一作]` (African Institute for Mathematical Sciences), Yaé Ulrich Gaba `[通讯]` (Sefako Makgatho Health Sciences University)
 
-**通讯引用:** 402 | **OpenAlex IDs:** https://openalex.org/A5027109805
+**通讯引用:** 402 | [OpenAlex ID](https://openalex.org/A5027109805)
 
 **关键词:** `Networking and Internet Architecture` `Reinforcement Learning` `Optimization` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13622,15 +12908,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Character Detection using YOLO for Writer Identification in multiple Medieval books
+## 384. Character Detection using YOLO for Writer Identification in multiple Medieval books
 
 **arXiv ID:** 2601.04834 | [PDF](https://arxiv.org/pdf/2601.04834v1)
 
 **作者:** Alessandra Scotto di Freca `[一作]` (University of Cassino and Southern Lazio), Claudio De Stefano `[通讯]` (University of Cassino and Southern Lazio)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Recognition` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13658,17 +12942,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Zoomy: flexible modeling and simulation software for free-surface flows
+## 385. Zoomy: flexible modeling and simulation software for free-surface flows
 
 **arXiv ID:** 2601.04826 | [PDF](https://arxiv.org/pdf/2601.04826v1)
 
 **作者:** Ingo Steldermann `[一作]` (RWTH Aachen), Julia Kowalski `[通讯]` (RWTH Aachen)
 
-**通讯引用:** 2549 | **OpenAlex IDs:** https://openalex.org/A5042152059
+**通讯引用:** 2549 | [OpenAlex ID](https://openalex.org/A5042152059)
 
 **关键词:** `Computational Engineering, Finance, and Science` `Physics Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13696,17 +12978,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models
+## 386. SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models
 
 **arXiv ID:** 2601.04824 | [PDF](https://arxiv.org/pdf/2601.04824v1)
 
 **作者:** Oriol Rabasseda `[一作]` (Universitat de Barcelona), Sergio Escalera `[通讯]` (Universitat de Barcelona)
 
-**通讯引用:** 13261 | **OpenAlex IDs:** https://openalex.org/A5038228433
+**通讯引用:** 13261 | [OpenAlex ID](https://openalex.org/A5038228433)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Retrieval` `Autonomous Driving` `Transformer` `Large Language Model` `Prompt Engineering` `Video` `Text` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13734,17 +13014,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## The Rezk Completion for Elementary Topoi
+## 387. The Rezk Completion for Elementary Topoi
 
 **arXiv ID:** 2601.04814 | [PDF](https://arxiv.org/pdf/2601.04814v1)
 
 **作者:** Kobe Wullaert `[一作]` (Delft University of Technology), Niels van der Weide `[通讯]` (Radboud University Nijmegen)
 
-**通讯引用:** 71 | **OpenAlex IDs:** https://openalex.org/A5053770022
+**通讯引用:** 71 | [OpenAlex ID](https://openalex.org/A5053770022)
 
 **关键词:** `Logic in Computer Science`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13772,17 +13050,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG
+## 388. ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG
 
 **arXiv ID:** 2601.05038 | [PDF](https://arxiv.org/pdf/2601.05038v1)
 
 **作者:** Jianbo Li `[一作]` (Harbin Institute of Technology), Bing Qin `[通讯]` (Harbin Institute of Technology)
 
-**通讯引用:** 15641 | **OpenAlex IDs:** https://openalex.org/A5017671620
+**通讯引用:** 15641 | [OpenAlex ID](https://openalex.org/A5017671620)
 
 **关键词:** `Computation and Language` `Retrieval` `Compression` `Generation` `Transformer` `Retrieval-Augmented Generation` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13810,17 +13086,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## How to Set the Batch Size for Large-Scale Pre-training?
+## 389. How to Set the Batch Size for Large-Scale Pre-training?
 
 **arXiv ID:** 2601.05034 | [PDF](https://arxiv.org/pdf/2601.05034v1)
 
 **作者:** Yunhua Zhou `[一作]` (Shanghai AI Laboratory), Xipeng Qiu `[通讯]` (Fudan University)
 
-**通讯引用:** 17130 | **OpenAlex IDs:** https://openalex.org/A5044665993
+**通讯引用:** 17130 | [OpenAlex ID](https://openalex.org/A5044665993)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13848,17 +13122,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## OptiSet: Unified Optimizing Set Selection and Ranking for Retrieval-Augmented Generation
+## 390. OptiSet: Unified Optimizing Set Selection and Ranking for Retrieval-Augmented Generation
 
 **arXiv ID:** 2601.05027 | [PDF](https://arxiv.org/pdf/2601.05027v1)
 
 **作者:** Yi Jiang `[一作]` (Harbin Institute of Technology), Bing Qin `[通讯]` (Harbin Institute of Technology)
 
-**通讯引用:** 15641 | **OpenAlex IDs:** https://openalex.org/A5017671620
+**通讯引用:** 15641 | [OpenAlex ID](https://openalex.org/A5017671620)
 
 **关键词:** `Artificial Intelligence` `Retrieval` `Optimization` `Transformer` `Large Language Model` `Retrieval-Augmented Generation` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13886,15 +13158,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## A data structure for monomial ideals with applications to signature Gröbner bases
+## 391. A data structure for monomial ideals with applications to signature Gröbner bases
 
 **arXiv ID:** 2601.05026 | [PDF](https://arxiv.org/pdf/2601.05026v1)
 
 **作者:** Pierre Lairez `[一作]` (Inria Université Paris-Saclay), Théo Ternier `[通讯]` (Inria Université Paris-Saclay)
 
 **关键词:** `Symbolic Computation`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13922,17 +13192,15 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation
+## 392. Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation
 
 **arXiv ID:** 2601.05022 | [PDF](https://arxiv.org/pdf/2601.05022v1)
 
 **作者:** Konstantinos E. Kampourakis `[一作]` (Norwegian University of Science and Technology), Stefanos Gritzalis `[通讯]` (University of Piraeus)
 
-**通讯引用:** 6203 | **OpenAlex IDs:** https://openalex.org/A5091815745
+**通讯引用:** 6203 | [OpenAlex ID](https://openalex.org/A5091815745)
 
 **关键词:** `Cryptography and Security` `Data Synthesis` `Anomaly Detection` `Transformer` `Large Language Model` `Prompt Engineering` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13960,15 +13228,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## Hán Dān Xué Bù (Mimicry) or Qīng Chū Yú Lán (Mastery)? A Cognitive Perspective on Reasoning Distillation in Large Language Models
+## 393. Hán Dān Xué Bù (Mimicry) or Qīng Chū Yú Lán (Mastery)? A Cognitive Perspective on Reasoning Distillation in Large Language Models
 
 **arXiv ID:** 2601.05019 | [PDF](https://arxiv.org/pdf/2601.05019v1)
 
 **作者:** Yueqing Hu `[一作]` (Institute of Neuroscience), Tianhong Wang `[通讯]` (School of Philosophy)
 
 **关键词:** `Computation and Language` `Knowledge Distillation` `Reinforcement Learning` `Transformer` `Reinforcement Learning` `Supervised Fine-Tuning` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -13996,15 +13262,13 @@ LLFF、Mip‑NeRF 360、NVOS（用于评估）以及伪 Ground‑truth Mask。
 
 ---
 
-## An Empirical Investigation of Robustness in Large Language Models under Tabular Distortions
+## 394. An Empirical Investigation of Robustness in Large Language Models under Tabular Distortions
 
 **arXiv ID:** 2601.05009 | [PDF](https://arxiv.org/pdf/2601.05009v1)
 
 **作者:** Avik Dutta `[一作]` (Microsoft Corporation), Sumit Gulwani `[通讯]` (Microsoft Corporation)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Prompt Engineering` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14032,17 +13296,15 @@ Expert‑curated 50条表格问答样本的失真数据集（共22种语义失�
 
 ---
 
-## Can Large Language Models Resolve Semantic Discrepancy in Self-Destructive Subcultures? Evidence from Jirai Kei
+## 395. Can Large Language Models Resolve Semantic Discrepancy in Self-Destructive Subcultures? Evidence from Jirai Kei
 
 **arXiv ID:** 2601.05004 | [PDF](https://arxiv.org/pdf/2601.05004v1)
 
 **作者:** Peng Wang `[一作]` (Macau University of Science and Technology), Dagang Li `[通讯]` (Macau University of Science and Technology)
 
-**通讯引用:** 832 | **OpenAlex IDs:** https://openalex.org/A5100605483
+**通讯引用:** 832 | [OpenAlex ID](https://openalex.org/A5100605483)
 
 **关键词:** `Computation and Language` `Large Language Model` `Agentic AI` `Retrieval-Augmented Generation` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14070,15 +13332,13 @@ Expert‑curated 50条表格问答样本的失真数据集（共22种语义失�
 
 ---
 
-## On the Hidden Objective Biases of Group-based Reinforcement Learning
+## 396. On the Hidden Objective Biases of Group-based Reinforcement Learning
 
 **arXiv ID:** 2601.05002 | [PDF](https://arxiv.org/pdf/2601.05002v1)
 
 **作者:** Aleksandar Fontana `[一作]` (Scuola Superiore Sant’Anna), Paolo Mori `[通讯]` (National Research Council of Italy)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14106,17 +13366,15 @@ Expert‑curated 50条表格问答样本的失真数据集（共22种语义失�
 
 ---
 
-## On the Definition and Detection of Cherry-Picking in Counterfactual Explanations
+## 397. On the Definition and Detection of Cherry-Picking in Counterfactual Explanations
 
 **arXiv ID:** 2601.04977 | [PDF](https://arxiv.org/pdf/2601.04977v1)
 
 **作者:** James Hinns `[一作]` (University of Antwerp), David Martens `[通讯]` (University of Antwerp)
 
-**通讯引用:** 4261 | **OpenAlex IDs:** https://openalex.org/A5101474247
+**通讯引用:** 4261 | [OpenAlex ID](https://openalex.org/A5101474247)
 
 **关键词:** `Machine Learning` `Explainability and Interpretability` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14144,15 +13402,13 @@ Expert‑curated 50条表格问答样本的失真数据集（共22种语义失�
 
 ---
 
-## A Unified Spoken Language Model with Injected Emotional-Attribution Thinking for Human-like Interaction
+## 398. A Unified Spoken Language Model with Injected Emotional-Attribution Thinking for Human-like Interaction
 
 **arXiv ID:** 2601.04960 | [PDF](https://arxiv.org/pdf/2601.04960v1)
 
 **作者:** Qing Wang `[一作]`, Xuelong Li `[通讯]` (Institute of Artificial Intelligence)
 
 **关键词:** `Computation and Language` `Generation` `Data Synthesis` `Large Language Model` `Supervised Fine-Tuning` `Knowledge Distillation` `Audio` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14180,17 +13436,15 @@ Expert‑curated 50条表格问答样本的失真数据集（共22种语义失�
 
 ---
 
-## TEA: Temporal Adaptive Satellite Image Semantic Segmentation
+## 399. TEA: Temporal Adaptive Satellite Image Semantic Segmentation
 
 **arXiv ID:** 2601.04956 | [PDF](https://arxiv.org/pdf/2601.04956v1)
 
 **作者:** Juyuan Kang `[一作]` (Institute of Computing Technology), Feng Dai `[通讯]` (Institute of Computing Technology)
 
-**通讯引用:** 2357 | **OpenAlex IDs:** https://openalex.org/A5028926076
+**通讯引用:** 2357 | [OpenAlex ID](https://openalex.org/A5028926076)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Segmentation` `Knowledge Distillation` `Agriculture Related` `Transformer` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14218,15 +13472,13 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## Prototypicality Bias Reveals Blindspots in Multimodal Evaluation Metrics
+## 400. Prototypicality Bias Reveals Blindspots in Multimodal Evaluation Metrics
 
 **arXiv ID:** 2601.04946 | [PDF](https://arxiv.org/pdf/2601.04946v1)
 
 **作者:** Subhadeep Roy `[一作]` (University of Technology Nuremberg), Steffen Eger `[通讯]` (University of Technology Nuremberg)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Evaluation Metrics` `Recommendation System` `Transformer` `Large Language Model` `Contrastive Learning` `Vision Language Model` `Image` `Text` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14254,17 +13506,15 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## Approximate equivariance via projection-based regularisation
+## 401. Approximate equivariance via projection-based regularisation
 
 **arXiv ID:** 2601.05028 | [PDF](https://arxiv.org/pdf/2601.05028v1)
 
 **作者:** Torben Berndt `[一作]` (Heidelberg Institute for Theoretical Studies), Jan Stühmer `[通讯]` (Karlsruhe Institute of Technology)
 
-**通讯引用:** 951 | **OpenAlex IDs:** https://openalex.org/A5061756165
+**通讯引用:** 951 | [OpenAlex ID](https://openalex.org/A5061756165)
 
 **关键词:** `Machine Learning` `Restoration` `Optimization` `Convolutional Neural Network` `Supervised Fine-Tuning` `Image` `Biomedical Data` `Computed Tomography`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14292,15 +13542,13 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## Leveraging Prediction Entropy for Automatic Prompt Weighting in Zero-Shot Audio-Language Classification
+## 402. Leveraging Prediction Entropy for Automatic Prompt Weighting in Zero-Shot Audio-Language Classification
 
 **arXiv ID:** 2601.05011 | [PDF](https://arxiv.org/pdf/2601.05011v1)
 
 **作者:** Karim El Khoury `[一作]`, Benoit Macq `[通讯]`
 
 **关键词:** `Sound` `Classification` `Prompt Engineering` `Contrastive Learning` `Audio` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14328,15 +13576,13 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## SparseLaneSTP: Leveraging Spatio-Temporal Priors with Sparse Transformers for 3D Lane Detection
+## 403. SparseLaneSTP: Leveraging Spatio-Temporal Priors with Sparse Transformers for 3D Lane Detection
 
 **arXiv ID:** 2601.04968 | [PDF](https://arxiv.org/pdf/2601.04968v1)
 
 **作者:** Maximilian Pittner `[一作]` (Bosch Mobility Solutions, Robert Bosch GmbH), Alexandru Paul Condurache `[通讯]` (Bosch Mobility Solutions, Robert Bosch GmbH)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Autonomous Driving` `Transformer` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14364,7 +13610,7 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## What Students Ask, How a Generative AI Assistant Responds: Exploring Higher Education Students' Dialogues on Learning Analytics Feedback
+## 404. What Students Ask, How a Generative AI Assistant Responds: Exploring Higher Education Students' Dialogues on Learning Analytics Feedback
 
 **arXiv ID:** 2601.04919 | [PDF](https://arxiv.org/pdf/2601.04919v1)
 
@@ -14374,17 +13620,15 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## Precision over Diversity: High-Precision Reward Generalizes to Robust Instruction Following
+## 405. Precision over Diversity: High-Precision Reward Generalizes to Robust Instruction Following
 
 **arXiv ID:** 2601.04954 | [PDF](https://arxiv.org/pdf/2601.04954v1)
 
 **作者:** Yirong Zeng `[一作]` (Harbin Institute of Technology), Ting Liu `[通讯]` (Harbin Institute of Technology)
 
-**通讯引用:** 38260 | **OpenAlex IDs:** https://openalex.org/A5100418162
+**通讯引用:** 38260 | [OpenAlex ID](https://openalex.org/A5100418162)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14412,7 +13656,7 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## A Data-Driven Predictive Framework for Inventory Optimization Using Context-Augmented Machine Learning Models
+## 406. A Data-Driven Predictive Framework for Inventory Optimization Using Context-Augmented Machine Learning Models
 
 **arXiv ID:** 2601.05033 | [PDF](https://arxiv.org/pdf/2601.05033v1)
 
@@ -14422,15 +13666,13 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## GenProve: Learning to Generate Text with Fine-Grained Provenance
+## 407. GenProve: Learning to Generate Text with Fine-Grained Provenance
 
 **arXiv ID:** 2601.04932 | [PDF](https://arxiv.org/pdf/2601.04932v1)
 
 **作者:** Jingxuan Wei `[一作]` (Shenyang Institute of Computing Technology), Junnan Zhu `[通讯]` (MAIS)
 
 **关键词:** `Computation and Language` `Generation` `Optimization` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14458,15 +13700,13 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## Asynchronous Secure Federated Learning with Byzantine aggregators
+## 408. Asynchronous Secure Federated Learning with Byzantine aggregators
 
 **arXiv ID:** 2601.04930 | [PDF](https://arxiv.org/pdf/2601.04930v1)
 
 **作者:** Antonella Del Pozzo `[一作]`, Sara Tucci-Piergiovanni `[通讯]`
 
 **关键词:** `Distributed, Parallel, and Cluster Computing` `Federated Learning` `Safty and Privacy` `Convolutional Neural Network` `Differential Privacy` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14494,17 +13734,15 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## From Stories to Cities to Games: A Qualitative Evaluation of Behaviour Planning
+## 409. From Stories to Cities to Games: A Qualitative Evaluation of Behaviour Planning
 
 **arXiv ID:** 2601.04911 | [PDF](https://arxiv.org/pdf/2601.04911v1)
 
 **作者:** Mustafa F. Abdelwahed `[一作]` (University of St Andrews), Ian P. Gent `[通讯]` (University of St Andrews)
 
-**通讯引用:** 4881 | **OpenAlex IDs:** https://openalex.org/A5059061177
+**通讯引用:** 4881 | [OpenAlex ID](https://openalex.org/A5059061177)
 
 **关键词:** `Artificial Intelligence` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14532,17 +13770,15 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## HMVI: Unifying Heterogeneous Attributes with Natural Neighbors for Missing Value Inference
+## 410. HMVI: Unifying Heterogeneous Attributes with Natural Neighbors for Missing Value Inference
 
 **arXiv ID:** 2601.05017 | [PDF](https://arxiv.org/pdf/2601.05017v1)
 
 **作者:** Xiaopeng Luo `[一作]`, Zhuowei Wang `[通讯]` (Guangdong University of Technology)
 
-**通讯引用:** 3305 | **OpenAlex IDs:** https://openalex.org/A5007409112
+**通讯引用:** 3305 | [OpenAlex ID](https://openalex.org/A5007409112)
 
 **关键词:** `Machine Learning` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14570,17 +13806,15 @@ PASTIS（Sentinel‑2多光谱时间序列，33‑61帧，18作物+背景）和�
 
 ---
 
-## AlgBench: To What Extent Do Large Reasoning Models Understand Algorithms?
+## 411. AlgBench: To What Extent Do Large Reasoning Models Understand Algorithms?
 
 **arXiv ID:** 2601.04996 | [PDF](https://arxiv.org/pdf/2601.04996v1)
 
 **作者:** Henan Sun `[一作]` (Hong Kong University of Science and Technology), Jia Li `[通讯]` (Hong Kong University of Science and Technology)
 
-**通讯引用:** 18471 | **OpenAlex IDs:** https://openalex.org/A5100405681
+**通讯引用:** 18471 | [OpenAlex ID](https://openalex.org/A5100405681)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Transformer` `Large Language Model` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14608,7 +13842,7 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## The unsuitability of existing regulations to reach sustainable AI
+## 412. The unsuitability of existing regulations to reach sustainable AI
 
 **arXiv ID:** 2601.04958 | [PDF](https://arxiv.org/pdf/2601.04958v1)
 
@@ -14618,17 +13852,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Learning from Mistakes: Negative Reasoning Samples Enhance Out-of-Domain Generalization
+## 413. Learning from Mistakes: Negative Reasoning Samples Enhance Out-of-Domain Generalization
 
 **arXiv ID:** 2601.04992 | [PDF](https://arxiv.org/pdf/2601.04992v1)
 
 **作者:** Xueyun Tian `[一作]` (Chinese Academy of Sciences), Huawei Shen `[通讯]` (Chinese Academy of Sciences)
 
-**通讯引用:** 6646 | **OpenAlex IDs:** https://openalex.org/A5047897879
+**通讯引用:** 6646 | [OpenAlex ID](https://openalex.org/A5047897879)
 
 **关键词:** `Computation and Language` `Large Language Model` `Supervised Fine-Tuning` `Chain-of-Thought` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14656,17 +13888,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## When to Act: Calibrated Confidence for Reliable Human Intention Prediction in Assistive Robotics
+## 414. When to Act: Calibrated Confidence for Reliable Human Intention Prediction in Assistive Robotics
 
 **arXiv ID:** 2601.04982 | [PDF](https://arxiv.org/pdf/2601.04982v1)
 
 **作者:** Johannes A. Gaus `[一作]` (Hertie Institute for Clinical Brain Research), Daniel Haeufle `[通讯]` (Hertie Institute for Clinical Brain Research)
 
-**通讯引用:** 1170 | **OpenAlex IDs:** https://openalex.org/A5110486192
+**通讯引用:** 1170 | [OpenAlex ID](https://openalex.org/A5110486192)
 
 **关键词:** `Robotics` `Robotic Intelligence` `Safety and Privacy` `Explainability and Interpretability` `Computational Efficiency` `Recurrent Neural Network` `Supervised Fine-Tuning` `Multimodality` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14694,17 +13924,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning
+## 415. ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning
 
 **arXiv ID:** 2601.04973 | [PDF](https://arxiv.org/pdf/2601.04973v1)
 
 **作者:** Minda Hu `[一作]` (Chinese University of Hong Kong), Irwin King `[通讯]` (Chinese University of Hong Kong)
 
-**通讯引用:** 26928 | **OpenAlex IDs:** https://openalex.org/A5042251906
+**通讯引用:** 26928 | [OpenAlex ID](https://openalex.org/A5042251906)
 
 **关键词:** `Artificial Intelligence` `Compression` `Reinforcement Learning` `Reinforcement Learning` `Chain-of-Thought` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14732,17 +13960,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs
+## 416. T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs
 
 **arXiv ID:** 2601.04945 | [PDF](https://arxiv.org/pdf/2601.04945v1)
 
 **作者:** Chunyu Wei `[一作]` (Renmin University of China), Yueguo Chen `[通讯]` (Renmin University of China)
 
-**通讯引用:** 1494 | **OpenAlex IDs:** https://openalex.org/A5057384573
+**通讯引用:** 1494 | [OpenAlex ID](https://openalex.org/A5057384573)
 
 **关键词:** `Artificial Intelligence` `Retrieval` `Generation` `Graph Neural Network` `Retrieval-Augmented Generation` `Graph` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14770,17 +13996,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Can AI-Generated Persuasion Be Detected? Persuaficial Benchmark and AI vs. Human Linguistic Differences
+## 417. Can AI-Generated Persuasion Be Detected? Persuaficial Benchmark and AI vs. Human Linguistic Differences
 
 **arXiv ID:** 2601.04925 | [PDF](https://arxiv.org/pdf/2601.04925v1)
 
 **作者:** Arkadiusz Modzelewski `[一作]` (University of Padua), Giovanni Da San Martino `[通讯]` (University of Padua)
 
-**通讯引用:** 3867 | **OpenAlex IDs:** https://openalex.org/A5033850423
+**通讯引用:** 3867 | [OpenAlex ID](https://openalex.org/A5033850423)
 
 **关键词:** `Computation and Language` `Generation` `Data Synthesis` `Transformer` `Large Language Model` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14808,15 +14032,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Decentralized Privacy-Preserving Federal Learning of Computer Vision Models on Edge Devices
+## 418. Decentralized Privacy-Preserving Federal Learning of Computer Vision Models on Edge Devices
 
 **arXiv ID:** 2601.04912 | [PDF](https://arxiv.org/pdf/2601.04912v1)
 
 **作者:** Damian Harenčák `[一作]` (Comenius University), Martin Madaras `[通讯]` (Skeletex Research)
 
 **关键词:** `Cryptography and Security` `Federated Learning` `Safty and Privacy` `Segmentation` `Convolutional Neural Network` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14844,15 +14066,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## CurricuLLM: Designing Personalized and Workforce-Aligned Cybersecurity Curricula Using Fine-Tuned LLMs
+## 419. CurricuLLM: Designing Personalized and Workforce-Aligned Cybersecurity Curricula Using Fine-Tuned LLMs
 
 **arXiv ID:** 2601.04940 | [PDF](https://arxiv.org/pdf/2601.04940v1)
 
 **作者:** Arthur Nijdam `[一作]` (Lund University), Sara Ramezanian `[通讯]` (Karlstad University)
 
 **关键词:** `Cryptography and Security` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14880,17 +14100,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Learning Sparsifying Transforms for mmWave Communication via $\ell^4$-Norm Maximization
+## 420. Learning Sparsifying Transforms for mmWave Communication via $\ell^4$-Norm Maximization
 
 **arXiv ID:** 2601.04980 | [PDF](https://arxiv.org/pdf/2601.04980v1)
 
 **作者:** Sueda Taner `[一作]` (Ericsson Research), Christoph Studer `[通讯]` (ETH Zurich)
 
-**通讯引用:** 10610 | **OpenAlex IDs:** https://openalex.org/A5083617223
+**通讯引用:** 10610 | [OpenAlex ID](https://openalex.org/A5083617223)
 
 **关键词:** `Information Theory` `Optimization` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14918,17 +14136,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## SKATER: Synthesized Kinematics for Advanced Traversing Efficiency on a Humanoid Robot via Roller Skate Swizzles
+## 421. SKATER: Synthesized Kinematics for Advanced Traversing Efficiency on a Humanoid Robot via Roller Skate Swizzles
 
 **arXiv ID:** 2601.04948 | [PDF](https://arxiv.org/pdf/2601.04948v1)
 
 **作者:** Junchi Gu `[一作]` (University of Science and Technology of China), Shiwu Zhang `[通讯]` (University of Science and Technology of China)
 
-**通讯引用:** 6187 | **OpenAlex IDs:** https://openalex.org/A5101816100
+**通讯引用:** 6187 | [OpenAlex ID](https://openalex.org/A5101816100)
 
 **关键词:** `Robotics` `Robotic Intelligence` `Reinforcement Learning` `Reinforcement Learning` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14956,15 +14172,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## AVX / NEON Intrinsic Functions: When Should They Be Used?
+## 422. AVX / NEON Intrinsic Functions: When Should They Be Used?
 
 **arXiv ID:** 2601.04922 | [PDF](https://arxiv.org/pdf/2601.04922v1)
 
 **作者:** Théo Boivin `[一作]` (CERFACS), Joeffrey Legaux `[通讯]` (CERFACS)
 
 **关键词:** `Software Engineering` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -14992,17 +14206,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images
+## 423. OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images
 
 **arXiv ID:** 2601.04915 | [PDF](https://arxiv.org/pdf/2601.04915v1)
 
 **作者:** Miki Okamura `[一作]` (University of Tsukuba), Yoichi Ochiai `[通讯]` (University of Tsukuba)
 
-**通讯引用:** 1889 | **OpenAlex IDs:** https://openalex.org/A5013807777
+**通讯引用:** 1889 | [OpenAlex ID](https://openalex.org/A5013807777)
 
 **关键词:** `Human-Computer Interaction` `Generation` `Data Synthesis` `Large Language Model` `Diffusion model` `Image` `Video` `Text` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15030,15 +14242,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Patch-based Representation and Learning for Efficient Deformation Modeling
+## 424. Patch-based Representation and Learning for Efficient Deformation Modeling
 
 **arXiv ID:** 2601.05035 | [PDF](https://arxiv.org/pdf/2601.05035v1)
 
 **作者:** Ruochen Chen `[一作]` (CNRS), Shaifali Parashar `[通讯]` (CNRS)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Representation Learning` `Computational Efficiency` `Point Cloud` `Mesh`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15066,17 +14276,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction
+## 425. OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction
 
 **arXiv ID:** 2601.04984 | [PDF](https://arxiv.org/pdf/2601.04984v1)
 
 **作者:** Minseong Kweon `[一作]` (University of Minnesota), Jinsun Park `[通讯]` (Pusan National University)
 
-**通讯引用:** 1420 | **OpenAlex IDs:** https://openalex.org/A5079380164
+**通讯引用:** 1420 | [OpenAlex ID](https://openalex.org/A5079380164)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Restoration` `Depth Estimation` `Gaussian Splatting` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15104,15 +14312,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## A DQN-based model for intelligent network selection in heterogeneous wireless systems
+## 426. A DQN-based model for intelligent network selection in heterogeneous wireless systems
 
 **arXiv ID:** 2601.04978 | [PDF](https://arxiv.org/pdf/2601.04978v1)
 
 **作者:** Fayssal Bendaoud `[一作]` (Ecole Superieure en Informatique), karim Sehimi `[通讯]`
 
 **关键词:** `Networking and Internet Architecture` `Reinforcement Learning` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15140,17 +14346,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Text as a Universal Interface for Transferable Personalization
+## 427. Text as a Universal Interface for Transferable Personalization
 
 **arXiv ID:** 2601.04963 | [PDF](https://arxiv.org/pdf/2601.04963v1)
 
 **作者:** Yuting Liu `[一作]` (Northeastern University), Guibing Guo `[通讯]` (Northeastern University)
 
-**通讯引用:** 4109 | **OpenAlex IDs:** https://openalex.org/A5007061198
+**通讯引用:** 4109 | [OpenAlex ID](https://openalex.org/A5007061198)
 
 **关键词:** `Computation and Language` `Recommendation System` `Reinforcement Learning` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15178,15 +14382,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Cardinality augmented loss functions
+## 428. Cardinality augmented loss functions
 
 **arXiv ID:** 2601.04941 | [PDF](https://arxiv.org/pdf/2601.04941v1)
 
 **作者:** Miguel O'Malley `[一作]` (Max Planck Institute for Mathematics in the Sciences), Miguel O'Malley `[通讯]` (Max Planck Institute for Mathematics in the Sciences)
 
 **关键词:** `Machine Learning` `Classification` `Optimization` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15214,15 +14416,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Conversational AI for Rapid Scientific Prototyping: A Case Study on ESA's ELOPE Competition
+## 429. Conversational AI for Rapid Scientific Prototyping: A Case Study on ESA's ELOPE Competition
 
 **arXiv ID:** 2601.04920 | [PDF](https://arxiv.org/pdf/2601.04920v1)
 
 **作者:** Nils Einecke `[一作]` (Honda Research Institute Europe GmbH), Nils Einecke `[通讯]` (Honda Research Institute Europe GmbH)
 
 **关键词:** `Artificial Intelligence` `Optimization` `AI Code Assistant` `Transformer` `Large Language Model` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15250,17 +14450,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective
+## 430. Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective
 
 **arXiv ID:** 2601.04918 | [PDF](https://arxiv.org/pdf/2601.04918v1)
 
 **作者:** Ziwen Wang `[一作]` (Anhui University), Xingyi Zhang `[通讯]` (Anhui University)
 
-**通讯引用:** 17784 | **OpenAlex IDs:** https://openalex.org/A5028634381
+**通讯引用:** 17784 | [OpenAlex ID](https://openalex.org/A5028634381)
 
 **关键词:** `Information Retrieval` `Neural Architecture Search` `Optimization` `Neural Architecture Search` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15288,15 +14486,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Refinements of Jensen's Inequality for Twice-Differentiable Convex Functions with Bounded Hessian
+## 431. Refinements of Jensen's Inequality for Twice-Differentiable Convex Functions with Bounded Hessian
 
 **arXiv ID:** 2601.05030 | [PDF](https://arxiv.org/pdf/2601.05030v1)
 
 **作者:** Sambhab Mishra `[一作]`, Sambhab Mishra `[通讯]`
 
 **关键词:** `Information Theory` `Optimization`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15324,15 +14520,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling
+## 432. From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling
 
 **arXiv ID:** 2601.05016 | [PDF](https://arxiv.org/pdf/2601.05016v1)
 
 **作者:** Jin Gao `[一作]` (Massachusetts Institute of Technology), Saichandu Juluri `[通讯]` (Northeastern University)
 
 **关键词:** `Multiagent Systems` `Generation` `Optimization` `Robotic Intelligence` `Reinforcement Learning from Human Feedback` `Reinforcement Learning` `Agentic AI` `Mesh`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15360,15 +14554,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## The RoboSense Challenge: Sense Anything, Navigate Anywhere, Adapt Across Platforms
+## 433. The RoboSense Challenge: Sense Anything, Navigate Anywhere, Adapt Across Platforms
 
 **arXiv ID:** 2601.05014 | [PDF](https://arxiv.org/pdf/2601.05014v1)
 
 **作者:** Lingdong Kong `[一作]`, Yao He `[通讯]`
 
 **关键词:** `Robotics` `Robotic Intelligence` `Autonomous Driving` `Domain Adaptation` `Graph Neural Network` `Large Language Model` `Reinforcement Learning` `Contrastive Learning` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15396,7 +14588,7 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Evaluative Fingerprints: Stable and Systematic Differences in LLM Evaluator Behavior
+## 434. Evaluative Fingerprints: Stable and Systematic Differences in LLM Evaluator Behavior
 
 **arXiv ID:** 2601.05114 | [PDF](https://arxiv.org/pdf/2601.05114v1)
 
@@ -15406,15 +14598,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## The Squirrel Parser: A Linear-Time PEG Packrat Parser Capable of Left Recursion and Optimal Error Recovery
+## 435. The Squirrel Parser: A Linear-Time PEG Packrat Parser Capable of Left Recursion and Optimal Error Recovery
 
 **arXiv ID:** 2601.05012 | [PDF](https://arxiv.org/pdf/2601.05012v1)
 
 **作者:** Luke A. D. Hutchison `[一作]`, Luke A. D. Hutchison `[通讯]`
 
 **关键词:** `Programming Languages`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15442,15 +14632,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Higher-Order Adversarial Patches for Real-Time Object Detectors
+## 436. Higher-Order Adversarial Patches for Real-Time Object Detectors
 
 **arXiv ID:** 2601.04991 | [PDF](https://arxiv.org/pdf/2601.04991v1)
 
 **作者:** Jens Bayer `[一作]` (Fraunhofer IOSB and Fraunhofer Center for Machine Learning), Jürgen Beyerer `[通讯]` (Fraunhofer IOSB and Fraunhofer Center for Machine Learning)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Adversarial Attack` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15478,17 +14666,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Distilling the Thought, Watermarking the Answer: A Principle Semantic Guided Watermark for Large Reasoning Models
+## 437. Distilling the Thought, Watermarking the Answer: A Principle Semantic Guided Watermark for Large Reasoning Models
 
 **arXiv ID:** 2601.05144 | [PDF](https://arxiv.org/pdf/2601.05144v1)
 
 **作者:** Shuliang Liu `[一作]` (Hong Kong University of Science and Technology), Xuming Hu `[通讯]` (Hong Kong University of Science and Technology)
 
-**通讯引用:** 1186 | **OpenAlex IDs:** https://openalex.org/A5057914558
+**通讯引用:** 1186 | [OpenAlex ID](https://openalex.org/A5057914558)
 
 **关键词:** `Artificial Intelligence` `Knowledge Distillation` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15516,17 +14702,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts
+## 438. GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts
 
 **arXiv ID:** 2601.05110 | [PDF](https://arxiv.org/pdf/2601.05110v1)
 
 **作者:** Wenhao Zeng `[一作]` (Shanghai Jiao Tong University), Xiaodong Gu `[通讯]` (Shanghai Jiao Tong University)
 
-**通讯引用:** 2317 | **OpenAlex IDs:** https://openalex.org/A5033286111
+**通讯引用:** 2317 | [OpenAlex ID](https://openalex.org/A5033286111)
 
 **关键词:** `Artificial Intelligence` `Computational Efficiency` `Optimization` `Transformer` `Large Language Model` `Chain-of-Thought` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15554,17 +14738,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction
+## 439. Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction
 
 **arXiv ID:** 2601.05107 | [PDF](https://arxiv.org/pdf/2601.05107v1)
 
 **作者:** Muzhao Tian `[一作]` (Fudan University), Xiaoqing Zheng `[通讯]` (Fudan University)
 
-**通讯引用:** 1103 | **OpenAlex IDs:** https://openalex.org/A5017835517
+**通讯引用:** 1103 | [OpenAlex ID](https://openalex.org/A5017835517)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning from Human Feedback` `Large Language Model` `Supervised Fine-Tuning` `Reinforcement Learning` `Sequential`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15592,15 +14774,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## ECLIPSE: An Evolutionary Computation Library for Instrumentation Prototyping in Scientific Engineering
+## 440. ECLIPSE: An Evolutionary Computation Library for Instrumentation Prototyping in Scientific Engineering
 
 **arXiv ID:** 2601.05098 | [PDF](https://arxiv.org/pdf/2601.05098v1)
 
 **作者:** Max Foreback `[一作]` (Michigan State University), Julie Rolla `[通讯]` (NASA Jet Propulsion Laboratory)
 
 **关键词:** `Neural and Evolutionary Computing` `Optimization` `Tabular` `Physics Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15628,15 +14808,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Precoding Matrix Indicator in the 5G NR Protocol: A Tutorial on 3GPP Beamforming Codebooks
+## 441. Precoding Matrix Indicator in the 5G NR Protocol: A Tutorial on 3GPP Beamforming Codebooks
 
 **arXiv ID:** 2601.05092 | [PDF](https://arxiv.org/pdf/2601.05092v1)
 
 **作者:** Boyu Ning `[一作]`, Emil Björnson `[通讯]`
 
 **关键词:** `Information Theory` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15664,15 +14842,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Driver-Intention Prediction with Deep Learning: Real-Time Brain-to-Vehicle Communication
+## 442. Driver-Intention Prediction with Deep Learning: Real-Time Brain-to-Vehicle Communication
 
 **arXiv ID:** 2601.05084 | [PDF](https://arxiv.org/pdf/2601.05084v1)
 
 **作者:** Niloufar Alavi `[一作]`, Stefan Goetz `[通讯]`
 
 **关键词:** `Human-Computer Interaction` `Classification` `Autonomous Driving` `Convolutional Neural Network` `Time Series` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15700,17 +14876,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## DAVOS: An Autonomous Vehicle Operating System in the Vehicle Computing Era
+## 443. DAVOS: An Autonomous Vehicle Operating System in the Vehicle Computing Era
 
 **arXiv ID:** 2601.05072 | [PDF](https://arxiv.org/pdf/2601.05072v1)
 
 **作者:** Yuxin Wang `[一作]` (University of Delaware), Weisong Shi `[通讯]` (University of Delaware)
 
-**通讯引用:** 23537 | **OpenAlex IDs:** https://openalex.org/A5100651611
+**通讯引用:** 23537 | [OpenAlex ID](https://openalex.org/A5100651611)
 
 **关键词:** `Operating Systems` `Autonomous Driving` `Safty and Privacy` `Computational Efficiency` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15738,17 +14912,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## From Rays to Projections: Better Inputs for Feed-Forward View Synthesis
+## 444. From Rays to Projections: Better Inputs for Feed-Forward View Synthesis
 
 **arXiv ID:** 2601.05116 | [PDF](https://arxiv.org/pdf/2601.05116v1)
 
 **作者:** Zirui Wu `[一作]` (Hong Kong University of Science and Technology), Jie Song `[通讯]` (Hong Kong University of Science and Technology)
 
-**通讯引用:** 7667 | **OpenAlex IDs:** https://openalex.org/A5047979132
+**通讯引用:** 7667 | [OpenAlex ID](https://openalex.org/A5047979132)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Data Synthesis` `Depth Estimation` `Transformer` `Masked Auto‑Encoding` `Vision Transformer` `Point Cloud` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15776,17 +14948,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## A Lightweight and Explainable Vision-Language Framework for Crop Disease Visual Question Answering
+## 445. A Lightweight and Explainable Vision-Language Framework for Crop Disease Visual Question Answering
 
 **arXiv ID:** 2601.05143 | [PDF](https://arxiv.org/pdf/2601.05143v1)
 
 **作者:** Md. Zahid Hossain `[一作]` (Ahsanullah University of Science and Technology), Md. Siam Ansary `[通讯]` (Ahsanullah University of Science and Technology)
 
-**通讯引用:** 19 | **OpenAlex IDs:** https://openalex.org/A5025168758
+**通讯引用:** 19 | [OpenAlex ID](https://openalex.org/A5025168758)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Explainability and Interpretability` `Computational Efficiency` `Transformer` `Vision Language Model` `Multimodality` `Agriculture Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15814,15 +14984,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Why Are Some Countries More Politically Fragmented Online Than Others?
+## 446. Why Are Some Countries More Politically Fragmented Online Than Others?
 
 **arXiv ID:** 2601.05093 | [PDF](https://arxiv.org/pdf/2601.05093v1)
 
 **作者:** Yuan Zhang `[一作]`, Alexandre Bovet `[通讯]`
 
 **关键词:** `Social and Information Networks` `Text` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15850,17 +15018,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Agent-as-a-Judge
+## 447. Agent-as-a-Judge
 
 **arXiv ID:** 2601.05111 | [PDF](https://arxiv.org/pdf/2601.05111v1)
 
 **作者:** Runyang You `[一作]` (Hong Kong Polytechnic University), Wenjie Li `[通讯]` (Hong Kong Polytechnic University)
 
-**通讯引用:** 11482 | **OpenAlex IDs:** https://openalex.org/A5100408983
+**通讯引用:** 11482 | [OpenAlex ID](https://openalex.org/A5100408983)
 
 **关键词:** `Computation and Language` `Large Language Model` `Agentic AI` `Text` `Review/Survey Paper` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15888,15 +15054,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Dynamics in Search Engine Query Suggestions for European Politicians
+## 448. Dynamics in Search Engine Query Suggestions for European Politicians
 
 **arXiv ID:** 2601.05081 | [PDF](https://arxiv.org/pdf/2601.05081v1)
 
 **作者:** Franziska Pradel `[一作]` (Technical University of Munich), Fabian Haak `[通讯]` (University of Applied Sciences Cologne)
 
 **关键词:** `Information Retrieval` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15924,15 +15088,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Compositional Steering of Large Language Models with Steering Tokens
+## 449. Compositional Steering of Large Language Models with Steering Tokens
 
 **arXiv ID:** 2601.05062 | [PDF](https://arxiv.org/pdf/2601.05062v1)
 
 **作者:** Gorjan Radevski `[一作]` (Independent), Goran Glavaš `[通讯]` (Center for Artificial Intelligence and Data Science)
 
 **关键词:** `Computation and Language` `Generation` `Knowledge Distillation` `Transformer` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15960,17 +15122,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Reinforced Efficient Reasoning via Semantically Diverse Exploration
+## 450. Reinforced Efficient Reasoning via Semantically Diverse Exploration
 
 **arXiv ID:** 2601.05053 | [PDF](https://arxiv.org/pdf/2601.05053v1)
 
 **作者:** Ziqi Zhao `[一作]` (Shandong University), Xin Xin `[通讯]` (Shandong University)
 
-**通讯引用:** 81504 | **OpenAlex IDs:** https://openalex.org/A5100328102
+**通讯引用:** 81504 | [OpenAlex ID](https://openalex.org/A5100328102)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning` `Large Language Model` `Reinforcement Learning` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -15998,17 +15158,15 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control
+## 451. VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control
 
 **arXiv ID:** 2601.05138 | [PDF](https://arxiv.org/pdf/2601.05138v1)
 
 **作者:** Sixiao Zheng `[一作]` (Fudan University), Yanwei Fu `[通讯]` (Fudan University)
 
-**通讯引用:** 16344 | **OpenAlex IDs:** https://openalex.org/A5084959430
+**通讯引用:** 16344 | [OpenAlex ID](https://openalex.org/A5084959430)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Data Synthesis` `Depth Estimation` `Diffusion model` `World Model` `Video` `Point Cloud`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16042,15 +15200,13 @@ AlgBench 本身作为评测集，涵盖 Euclidean、Non‑Euclidean、非优化�
 
 ---
 
-## Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning
+## 452. Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning
 
 **arXiv ID:** 2601.05134 | [PDF](https://arxiv.org/pdf/2601.05134v1)
 
 **作者:** Polina Dolgova `[一作]` (CISPA Helmholtz Center for Information Security), Sebastian U. Stich `[通讯]` (CISPA Helmholtz Center for Information Security)
 
 **关键词:** `Machine Learning` `Safety and Privacy` `Convolutional Neural Network` `Transformer` `Gaussian Splatting` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16078,17 +15234,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding
+## 453. VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding
 
 **arXiv ID:** 2601.05125 | [PDF](https://arxiv.org/pdf/2601.05125v1)
 
 **作者:** Ignacio de Rodrigo `[一作]` (Comillas Pontifical University), Jaime Boal `[通讯]` (Comillas Pontifical University)
 
-**通讯引用:** 244 | **OpenAlex IDs:** https://openalex.org/A5047794771
+**通讯引用:** 244 | [OpenAlex ID](https://openalex.org/A5047794771)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Data Synthesis` `Representation Learning` `Transformer` `Vision Language Model` `Supervised Fine-Tuning` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16116,15 +15270,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Rule Rewriting Revisited: A Fresh Look at Static Filtering for Datalog and ASP
+## 454. Rule Rewriting Revisited: A Fresh Look at Static Filtering for Datalog and ASP
 
 **arXiv ID:** 2601.05108 | [PDF](https://arxiv.org/pdf/2601.05108v1)
 
 **作者:** Philipp Hanisch `[一作]` (Knowledge-Based Systems Group, TU Dresden), Markus Krötzsch `[通讯]` (Knowledge-Based Systems Group, TU Dresden)
 
 **关键词:** `Databases` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16152,7 +15304,7 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Code-Mix Sentiment Analysis on Hinglish Tweets
+## 455. Code-Mix Sentiment Analysis on Hinglish Tweets
 
 **arXiv ID:** 2601.05091 | [PDF](https://arxiv.org/pdf/2601.05091v1)
 
@@ -16162,15 +15314,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Token-Level LLM Collaboration via FusionRoute
+## 456. Token-Level LLM Collaboration via FusionRoute
 
 **arXiv ID:** 2601.05106 | [PDF](https://arxiv.org/pdf/2601.05106v1)
 
 **作者:** Nuoya Xiong `[一作]` (Carnegie Mellon University), Zhuokai Zhao `[通讯]` (Meta)
 
 **关键词:** `Artificial Intelligence` `Generation` `Optimization` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Mixture of Experts` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16198,15 +15348,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Arabic Prompts with English Tools: A Benchmark
+## 457. Arabic Prompts with English Tools: A Benchmark
 
 **arXiv ID:** 2601.05101 | [PDF](https://arxiv.org/pdf/2601.05101v1)
 
 **作者:** Konstantin Kubrak `[一作]` (General Organization for Social Insurance), Faisal Alsaby `[通讯]` (General Organization for Social Insurance)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Prompt Engineering` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16234,15 +15382,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts
+## 458. Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts
 
 **arXiv ID:** 2601.05099 | [PDF](https://arxiv.org/pdf/2601.05099v1)
 
 **作者:** Zhiyin Tan `[一作]` (L3S Research Center), Changxu Duan `[通讯]` (Technische Universität Darmstadt)
 
 **关键词:** `Digital Libraries` `Retrieval` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16270,17 +15416,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment
+## 459. SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment
 
 **arXiv ID:** 2601.05075 | [PDF](https://arxiv.org/pdf/2601.05075v1)
 
 **作者:** Ziyang Chen `[一作]` (Shenzhen University), Hui Huang `[通讯]` (Shenzhen University)
 
-**通讯引用:** 20988 | **OpenAlex IDs:** https://openalex.org/A5100684575
+**通讯引用:** 20988 | [OpenAlex ID](https://openalex.org/A5100684575)
 
 **关键词:** `Computation and Language` `Generation` `Optimization` `Representation Learning` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Contrastive Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16308,17 +15452,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Milestones over Outcome: Unlocking Geometric Reasoning with Sub-Goal Verifiable Reward
+## 460. Milestones over Outcome: Unlocking Geometric Reasoning with Sub-Goal Verifiable Reward
 
 **arXiv ID:** 2601.05073 | [PDF](https://arxiv.org/pdf/2601.05073v1)
 
 **作者:** Jianlong Chen `[一作]` (Chinese University of Hong Kong), Renqiu Xia `[通讯]` (Shanghai Jiao Tong University)
 
-**通讯引用:** 20 | **OpenAlex IDs:** https://openalex.org/A5113021225
+**通讯引用:** 20 | [OpenAlex ID](https://openalex.org/A5113021225)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Transformer` `Reinforcement Learning` `Large Language Model` `Multimodality` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16346,17 +15488,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Large language models can effectively convince people to believe conspiracies
+## 461. Large language models can effectively convince people to believe conspiracies
 
 **arXiv ID:** 2601.05050 | [PDF](https://arxiv.org/pdf/2601.05050v1)
 
 **作者:** Thomas H. Costello `[一作]` (Carnegie Mellon University), Gordon Pennycook `[通讯]` (Cornell University)
 
-**通讯引用:** 31550 | **OpenAlex IDs:** https://openalex.org/A5020533147
+**通讯引用:** 31550 | [OpenAlex ID](https://openalex.org/A5020533147)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16384,15 +15524,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## How to Set the Learning Rate for Large-Scale Pre-training?
+## 462. How to Set the Learning Rate for Large-Scale Pre-training?
 
 **arXiv ID:** 2601.05049 | [PDF](https://arxiv.org/pdf/2601.05049v1)
 
 **作者:** Yunhua Zhou `[一作]` (Shanghai AI Laboratory), Qipeng Guo `[通讯]` (Shanghai AI Laboratory)
 
 **关键词:** `Artificial Intelligence` `Optimization` `Mixture of Experts` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16420,17 +15558,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## DeepWeightFlow: Re-Basined Flow Matching for Generating Neural Network Weights
+## 463. DeepWeightFlow: Re-Basined Flow Matching for Generating Neural Network Weights
 
 **arXiv ID:** 2601.05052 | [PDF](https://arxiv.org/pdf/2601.05052v1)
 
 **作者:** Saumya Gupta `[一作]` (Northeastern University), Ayan Paul `[通讯]` (Northeastern University)
 
-**通讯引用:** 2346 | **OpenAlex IDs:** https://openalex.org/A5077110311
+**通讯引用:** 2346 | [OpenAlex ID](https://openalex.org/A5077110311)
 
 **关键词:** `Machine Learning` `Generation` `Optimization` `Flow-based Model` `Image` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16458,15 +15594,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Atlas 2 -- Foundation models for clinical deployment
+## 464. Atlas 2 -- Foundation models for clinical deployment
 
 **arXiv ID:** 2601.05148 | [PDF](https://arxiv.org/pdf/2601.05148v1)
 
 **作者:** Maximilian Alber `[一作]` (Aignostics), Andrew Norgan `[通讯]` (Machine Learning Group, Technische Universität Berlin)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Classification` `Segmentation` `Optimization` `Computational Efficiency` `Knowledge Distillation` `Transformer` `Contrastive Learning` `Image` `Biomedical Data`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16494,7 +15628,7 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## How Human is AI? Examining the Impact of Emotional Prompts on Artificial and Human and Responsiveness
+## 465. How Human is AI? Examining the Impact of Emotional Prompts on Artificial and Human and Responsiveness
 
 **arXiv ID:** 2601.05104 | [PDF](https://arxiv.org/pdf/2601.05104v1)
 
@@ -16504,15 +15638,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing
+## 466. Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing
 
 **arXiv ID:** 2601.05124 | [PDF](https://arxiv.org/pdf/2601.05124v1)
 
 **作者:** Runze He `[一作]` (Hunyuan, Tencent), Jiao Dai `[通讯]` (Institute of Intelligent Engineering, Chinese Academy of Sciences)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Reinforcement Learning` `Chain-of-Thought` `Rectified Flow` `Image` `Text` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16540,17 +15672,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Nalar: An agent serving framework
+## 467. Nalar: An agent serving framework
 
 **arXiv ID:** 2601.05109 | [PDF](https://arxiv.org/pdf/2601.05109v1)
 
 **作者:** Marco Laju `[一作]` (University of Texas at Austin), Aditya Akella `[通讯]` (University of Texas at Austin)
 
-**通讯引用:** 14731 | **OpenAlex IDs:** https://openalex.org/A5035329776
+**通讯引用:** 14731 | [OpenAlex ID](https://openalex.org/A5035329776)
 
 **关键词:** `Distributed, Parallel, and Cluster Computing` `Optimization` `Computational Efficiency` `Agentic AI` `Recommendation System` `Data-Centric Learning` `Large Language Model` `Text` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16578,17 +15708,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition
+## 468. UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition
 
 **arXiv ID:** 2601.05105 | [PDF](https://arxiv.org/pdf/2601.05105v1)
 
 **作者:** Filippo Ghilotti `[一作]` (TORC Robotics), Felix Heide `[通讯]` (Princeton University)
 
-**通讯引用:** 6224 | **OpenAlex IDs:** https://openalex.org/A5059313827
+**通讯引用:** 6224 | [OpenAlex ID](https://openalex.org/A5059313827)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Segmentation` `Object Detection` `Depth Estimation` `Autonomous Driving` `Transformer` `Simultaneous Localization and Mapping` `Point Cloud` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16616,7 +15744,7 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Challenges and Research Directions for Large Language Model Inference Hardware
+## 469. Challenges and Research Directions for Large Language Model Inference Hardware
 
 **arXiv ID:** 2601.05047 | [PDF](https://arxiv.org/pdf/2601.05047v1)
 
@@ -16626,15 +15754,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Semantically Orthogonal Framework for Citation Classification: Disentangling Intent and Content
+## 470. Semantically Orthogonal Framework for Citation Classification: Disentangling Intent and Content
 
 **arXiv ID:** 2601.05103 | [PDF](https://arxiv.org/pdf/2601.05103v1)
 
 **作者:** Changxu Duan `[一作]` (Technische Universitaet Darmstadt), Zhiyin Tan `[通讯]` (L3S Research Center Leibniz University Hannover)
 
 **关键词:** `Digital Libraries` `Classification` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16662,17 +15788,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Compensation Effect Amplification Control (CEAC): A movement-based approach for coordinated position and velocity control of the elbow of upper-limb prostheses
+## 471. Compensation Effect Amplification Control (CEAC): A movement-based approach for coordinated position and velocity control of the elbow of upper-limb prostheses
 
 **arXiv ID:** 2601.05074 | [PDF](https://arxiv.org/pdf/2601.05074v1)
 
 **作者:** Julian Kulozik `[一作]` (Sorbonne Université), Nathanaël Jarrassé `[通讯]` (Sorbonne Université)
 
-**通讯引用:** 2224 | **OpenAlex IDs:** https://openalex.org/A5057665161
+**通讯引用:** 2224 | [OpenAlex ID](https://openalex.org/A5057665161)
 
 **关键词:** `Robotics` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16700,15 +15824,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)
+## 472. From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)
 
 **arXiv ID:** 2601.05059 | [PDF](https://arxiv.org/pdf/2601.05059v1)
 
 **作者:** Suyash Mishra `[一作]` (Roche), Anubhav Girdhar `[通讯]` (Involead)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Optimization` `Computational Efficiency` `Transformer` `Vision Language Model` `Prompt Engineering` `Video` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16736,15 +15858,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## An Invitation to "Fine-grained Complexity of NP-Complete Problems"
+## 473. An Invitation to "Fine-grained Complexity of NP-Complete Problems"
 
 **arXiv ID:** 2601.05044 | [PDF](https://arxiv.org/pdf/2601.05044v1)
 
 **作者:** Jesper Nederlof `[一作]`, Jesper Nederlof `[通讯]`
 
 **关键词:** `Data Structures and Algorithms` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16792,15 +15912,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting
+## 474. FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting
 
 **arXiv ID:** 2601.05039 | [PDF](https://arxiv.org/pdf/2601.05039v1)
 
 **作者:** Xiangyu Li `[一作]` (National University of Singapore), Ke-Wei Huang `[通讯]` (Asian Institute of Digital Finance)
 
 **关键词:** `Multiagent Systems` `Recommendation System` `Optimization` `Anomaly Detection` `Finance Related` `Large Language Model` `Agentic AI` `Time Series` `Tabular` `Benchmark` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16828,17 +15946,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization
+## 475. LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization
 
 **arXiv ID:** 2601.05127 | [PDF](https://arxiv.org/pdf/2601.05127v1)
 
 **作者:** Etai Sella `[一作]` (Tel Aviv University), Or Patashnik `[通讯]` (Tel Aviv University)
 
-**通讯引用:** 2594 | **OpenAlex IDs:** https://openalex.org/A5076541595
+**通讯引用:** 2594 | [OpenAlex ID](https://openalex.org/A5076541595)
 
 **关键词:** `Graphics` `Image Harmonization` `Image Translation` `Object Detection` `Vision Language Model` `Diffusion model` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16866,17 +15982,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Advanced Multimodal Learning for Seizure Detection and Prediction: Concept, Challenges, and Future Directions
+## 476. Advanced Multimodal Learning for Seizure Detection and Prediction: Concept, Challenges, and Future Directions
 
 **arXiv ID:** 2601.05095 | [PDF](https://arxiv.org/pdf/2601.05095v1)
 
 **作者:** Ijaz Ahmad `[一作]` (Shenzhen University), Baiying Lei `[通讯]` (Shenzhen University)
 
-**通讯引用:** 11741 | **OpenAlex IDs:** https://openalex.org/A5001212991
+**通讯引用:** 11741 | [OpenAlex ID](https://openalex.org/A5001212991)
 
 **关键词:** `Neural and Evolutionary Computing` `Classification` `Anomaly Detection` `Explainability and Interpretability` `Federated Learning` `Convolutional Neural Network` `Recurrent Neural Network` `Graph Neural Network` `Transformer` `Supervised Fine-Tuning` `Transfer Learning` `Semi-Supervised Learning` `Attention Mechanism` `Multimodality` `Biomedical Data` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16904,17 +16018,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Driving on Registers
+## 477. Driving on Registers
 
 **arXiv ID:** 2601.05083 | [PDF](https://arxiv.org/pdf/2601.05083v1)
 
 **作者:** Ellington Kirby `[一作]` (Valeo), Matthieu Cord `[通讯]` (Sorbonne Université)
 
-**通讯引用:** 9085 | **OpenAlex IDs:** https://openalex.org/A5108118084
+**通讯引用:** 9085 | [OpenAlex ID](https://openalex.org/A5108118084)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Autonomous Driving` `Transformer` `Supervised Fine-Tuning` `Image` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16942,15 +16054,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Supporting Secured Integration of Microarchitectural Defenses
+## 478. Supporting Secured Integration of Microarchitectural Defenses
 
 **arXiv ID:** 2601.05057 | [PDF](https://arxiv.org/pdf/2601.05057v1)
 
 **作者:** Kartik Ramkrishnan `[一作]`, Pen-Chung Yew `[通讯]`
 
 **关键词:** `Cryptography and Security`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -16978,17 +16088,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Exploring Student Expectations and Confidence in Learning Analytics
+## 479. Exploring Student Expectations and Confidence in Learning Analytics
 
 **arXiv ID:** 2601.05082 | [PDF](https://arxiv.org/pdf/2601.05082v1)
 
 **作者:** Hayk Asatryan `[一作]` (Bochum University of Applied Sciences), Jörg Frochte `[通讯]` (Bochum University of Applied Sciences)
 
-**通讯引用:** 137 | **OpenAlex IDs:** https://openalex.org/A5027576910
+**通讯引用:** 137 | [OpenAlex ID](https://openalex.org/A5027576910)
 
 **关键词:** `Machine Learning` `Explainability and Interpretability` `Safty and Privacy` `Tabular` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17016,17 +16124,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence
+## 480. Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence
 
 **arXiv ID:** 2601.05051 | [PDF](https://arxiv.org/pdf/2601.05051v1)
 
 **作者:** Jennifer D'Souza `[一作]` (TIB Leibniz Information Centre for Science and Technology), Erwin Kessels `[通讯]` (Eindhoven University of Technology)
 
-**通讯引用:** 25653 | **OpenAlex IDs:** https://openalex.org/A5018346857
+**通讯引用:** 25653 | [OpenAlex ID](https://openalex.org/A5018346857)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Retrieval-Augmented Generation` `Prompt Engineering` `Text` `Tabular` `Review/Survey Paper` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17054,17 +16160,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Graph energy as a measure of community detectability in networks
+## 481. Graph energy as a measure of community detectability in networks
 
 **arXiv ID:** 2601.05065 | [PDF](https://arxiv.org/pdf/2601.05065v1)
 
 **作者:** Lucas Böttcher `[一作]` (Frankfurt School of Finance and Management), Santo Fortunato `[通讯]` (Indiana University)
 
-**通讯引用:** 37918 | **OpenAlex IDs:** https://openalex.org/A5053938061
+**通讯引用:** 37918 | [OpenAlex ID](https://openalex.org/A5053938061)
 
 **关键词:** `Social and Information Networks` `Graph Neural Network` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17092,7 +16196,7 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## An interpretable data-driven approach to optimizing clinical fall risk assessment
+## 482. An interpretable data-driven approach to optimizing clinical fall risk assessment
 
 **arXiv ID:** 2601.05194 | [PDF](https://arxiv.org/pdf/2601.05194v1)
 
@@ -17102,15 +16206,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Chain-of-Sanitized-Thoughts: Plugging PII Leakage in CoT of Large Reasoning Models
+## 483. Chain-of-Sanitized-Thoughts: Plugging PII Leakage in CoT of Large Reasoning Models
 
 **arXiv ID:** 2601.05076 | [PDF](https://arxiv.org/pdf/2601.05076v1)
 
 **作者:** Arghyadeep Das `[一作]` (University of Massachusetts), Sharvi Endait `[通讯]`
 
 **关键词:** `Artificial Intelligence` `Safty and Privacy` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Prompt Engineering` `Chain-of-Thought` `Text` `Biomedical Data` `Tabular` `Benchmark` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17138,17 +16240,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Concurrent Balanced Augmented Trees
+## 484. Concurrent Balanced Augmented Trees
 
 **arXiv ID:** 2601.05225 | [PDF](https://arxiv.org/pdf/2601.05225v1)
 
 **作者:** Evan Wrench `[一作]` (University of British Columbia), Yuanhao Wei `[通讯]` (University of British Columbia)
 
-**通讯引用:** 215 | **OpenAlex IDs:** https://openalex.org/A5081860460
+**通讯引用:** 215 | [OpenAlex ID](https://openalex.org/A5081860460)
 
 **关键词:** `Data Structures and Algorithms`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17176,17 +16276,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI
+## 485. EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI
 
 **arXiv ID:** 2601.05205 | [PDF](https://arxiv.org/pdf/2601.05205v1)
 
 **作者:** Zain Iqbal `[一作]` (National Research Council), Lorenzo Valerio `[通讯]` (National Research Council)
 
-**通讯引用:** 381 | **OpenAlex IDs:** https://openalex.org/A5022139051
+**通讯引用:** 381 | [OpenAlex ID](https://openalex.org/A5022139051)
 
 **关键词:** `Machine Learning` `Optimization` `Reinforcement Learning` `Recurrent Neural Network` `Reinforcement Learning` `Audio` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17214,17 +16312,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts
+## 486. FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts
 
 **arXiv ID:** 2601.05174 | [PDF](https://arxiv.org/pdf/2601.05174v1)
 
 **作者:** Yiji Zhao `[一作]` (Yunnan University), Hao Wu `[通讯]` (Yunnan University)
 
-**通讯引用:** 27250 | **OpenAlex IDs:** https://openalex.org/A5083170497
+**通讯引用:** 27250 | [OpenAlex ID](https://openalex.org/A5083170497)
 
 **关键词:** `Machine Learning` `Graph Neural Network` `Transformer` `Mixture of Experts` `Graph` `Time Series`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17252,15 +16348,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems
+## 487. Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems
 
 **arXiv ID:** 2601.05171 | [PDF](https://arxiv.org/pdf/2601.05171v1)
 
 **作者:** Jihao Zhao `[一作]` (MemTensor Technology Co., Ltd.), Zhiyu li `[通讯]`
 
 **关键词:** `Computation and Language` `Reinforcement Learning` `Recommendation System` `Transformer` `Large Language Model` `Reinforcement Learning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17288,17 +16382,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## RelayLLM: Efficient Reasoning via Collaborative Decoding
+## 488. RelayLLM: Efficient Reasoning via Collaborative Decoding
 
 **arXiv ID:** 2601.05167 | [PDF](https://arxiv.org/pdf/2601.05167v1)
 
 **作者:** Chengsong Huang `[一作]` (Washington University in St. Louis), Jiaxin Huang `[通讯]` (Washington University in St. Louis)
 
-**通讯引用:** 1571 | **OpenAlex IDs:** https://openalex.org/A5046688345
+**通讯引用:** 1571 | [OpenAlex ID](https://openalex.org/A5046688345)
 
 **关键词:** `Computation and Language` `Computational Efficiency` `Reinforcement Learning from Human Feedback` `Transformer` `Large Language Model` `Reinforcement Learning` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17326,17 +16418,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## DocDancer: Towards Agentic Document-Grounded Information Seeking
+## 489. DocDancer: Towards Agentic Document-Grounded Information Seeking
 
 **arXiv ID:** 2601.05163 | [PDF](https://arxiv.org/pdf/2601.05163v1)
 
 **作者:** Qintong Zhang `[一作]` (Peking University), Wentao Zhang `[通讯]` (Peking University)
 
-**通讯引用:** 14319 | **OpenAlex IDs:** https://openalex.org/A5100459860
+**通讯引用:** 14319 | [OpenAlex ID](https://openalex.org/A5100459860)
 
 **关键词:** `Computation and Language` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Agentic AI` `Retrieval-Augmented Generation` `Text` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17364,15 +16454,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Multi-Scale Local Speculative Decoding for Image Generation
+## 490. Multi-Scale Local Speculative Decoding for Image Generation
 
 **arXiv ID:** 2601.05149 | [PDF](https://arxiv.org/pdf/2601.05149v1)
 
 **作者:** Elia Peruzzo `[一作]` (Qualcomm AI Research), Amirhossein Habibian `[通讯]` (Qualcomm AI Research)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Auto Encoder` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17400,17 +16488,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Optimal Lower Bounds for Online Multicalibration
+## 491. Optimal Lower Bounds for Online Multicalibration
 
 **arXiv ID:** 2601.05245 | [PDF](https://arxiv.org/pdf/2601.05245v1)
 
 **作者:** Natalie Collina `[一作]`, Aaron Roth `[通讯]` (University of Pennsylvania)
 
-**通讯引用:** 16955 | **OpenAlex IDs:** https://openalex.org/A5057693522
+**通讯引用:** 16955 | [OpenAlex ID](https://openalex.org/A5057693522)
 
 **关键词:** `Machine Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17438,15 +16524,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation
+## 492. GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation
 
 **arXiv ID:** 2601.05244 | [PDF](https://arxiv.org/pdf/2601.05244v1)
 
 **作者:** Henghui Ding `[一作]` (Fudan University), Yu-Gang Jiang `[通讯]`
 
 **关键词:** `Computer Vision and Pattern Recognition` `Segmentation` `Generation` `Transformer` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17474,15 +16558,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Robust Reasoning as a Symmetry-Protected Topological Phase
+## 493. Robust Reasoning as a Symmetry-Protected Topological Phase
 
 **arXiv ID:** 2601.05240 | [PDF](https://arxiv.org/pdf/2601.05240v1)
 
 **作者:** Ilmo Sung `[一作]` (Science and Technology Directorate), Ilmo Sung `[通讯]` (Science and Technology Directorate)
 
 **关键词:** `Machine Learning` `Recurrent Neural Network` `Transformer` `Sequential` `Physics Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17510,17 +16592,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Plenoptic Video Generation
+## 494. Plenoptic Video Generation
 
 **arXiv ID:** 2601.05239 | [PDF](https://arxiv.org/pdf/2601.05239v1)
 
 **作者:** Xiao Fu `[一作]` (NVIDIA), Chen-Hsuan Lin `[通讯]` (NVIDIA)
 
-**通讯引用:** 2361 | **OpenAlex IDs:** https://openalex.org/A5101863881
+**通讯引用:** 2361 | [OpenAlex ID](https://openalex.org/A5101863881)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Data Synthesis` `Transformer` `Diffusion model` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17548,17 +16628,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## The Adverse Effects of Omitting Records in Differential Privacy: How Sampling and Suppression Degrade the Privacy-Utility Tradeoff (Long Version)
+## 495. The Adverse Effects of Omitting Records in Differential Privacy: How Sampling and Suppression Degrade the Privacy-Utility Tradeoff (Long Version)
 
 **arXiv ID:** 2601.05180 | [PDF](https://arxiv.org/pdf/2601.05180v1)
 
 **作者:** Àlex Miranda-Pascual `[一作]` (Karlsruhe Institute of Technology), Thorsten Strufe `[通讯]` (Karlsruhe Institute of Technology)
 
-**通讯引用:** 3712 | **OpenAlex IDs:** https://openalex.org/A5012001723
+**通讯引用:** 3712 | [OpenAlex ID](https://openalex.org/A5012001723)
 
 **关键词:** `Cryptography and Security` `Safty and Privacy` `Tabular`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17586,15 +16664,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Cutting AI Research Costs: How Task-Aware Compression Makes Large Language Model Agents Affordable
+## 496. Cutting AI Research Costs: How Task-Aware Compression Makes Large Language Model Agents Affordable
 
 **arXiv ID:** 2601.05191 | [PDF](https://arxiv.org/pdf/2601.05191v1)
 
 **作者:** Zuhair Ahmed Khan Taha `[一作]` (Muffakham Jah), Shahnawaz Alam `[通讯]` (Muffakham Jah)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Compression` `Computational Efficiency` `Knowledge Distillation` `Transformer` `Large Language Model` `Prompt Engineering` `Knowledge Distillation` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17622,15 +16698,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Learning Latent Action World Models In The Wild
+## 497. Learning Latent Action World Models In The Wild
 
 **arXiv ID:** 2601.05230 | [PDF](https://arxiv.org/pdf/2601.05230v1)
 
 **作者:** Quentin Garrido `[一作]` (FAIR at Meta), Michael Rabbat `[通讯]` (FAIR at Meta)
 
 **关键词:** `Artificial Intelligence` `Robotic Intelligence` `Reinforcement Learning from Human Feedback` `Transformer` `World Model` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17658,17 +16732,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Mechanisms of Prompt-Induced Hallucination in Vision-Language Models
+## 498. Mechanisms of Prompt-Induced Hallucination in Vision-Language Models
 
 **arXiv ID:** 2601.05201 | [PDF](https://arxiv.org/pdf/2601.05201v1)
 
 **作者:** William Rudman `[一作]` (University of Texas at Austin), Kyle Mahowald `[通讯]` (University of Texas at Austin)
 
-**通讯引用:** 3678 | **OpenAlex IDs:** https://openalex.org/A5039468724
+**通讯引用:** 3678 | [OpenAlex ID](https://openalex.org/A5039468724)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Recognition` `Transformer` `Vision Language Model` `Prompt Engineering` `Image` `Text` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17696,15 +16768,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## CoV: Chain-of-View Prompting for Spatial Reasoning
+## 499. CoV: Chain-of-View Prompting for Spatial Reasoning
 
 **arXiv ID:** 2601.05172 | [PDF](https://arxiv.org/pdf/2601.05172v1)
 
 **作者:** Haoyu Zhao `[一作]` (Zhejiang University), Bohan Zhuang `[通讯]` (Zhejiang University)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Vision Language Model` `Prompt Engineering` `Point Cloud` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17732,17 +16802,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## LaST$_{0}$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model
+## 500. LaST$_{0}$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model
 
 **arXiv ID:** 2601.05248 | [PDF](https://arxiv.org/pdf/2601.05248v1)
 
 **作者:** Zhuoyang Liu `[一作]` (Peking University), Shanghang Zhang `[通讯]` (Peking University)
 
-**通讯引用:** 9911 | **OpenAlex IDs:** https://openalex.org/A5013030532
+**通讯引用:** 9911 | [OpenAlex ID](https://openalex.org/A5013030532)
 
 **关键词:** `Robotics` `Robotic Intelligence` `Reinforcement Learning` `Transformer` `Vision-Language-Action Model` `Mixture of Experts` `Reinforcement Learning` `Multimodality` `Point Cloud`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17770,15 +16838,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Measuring and Fostering Peace through Machine Learning and Artificial Intelligence
+## 501. Measuring and Fostering Peace through Machine Learning and Artificial Intelligence
 
 **arXiv ID:** 2601.05232 | [PDF](https://arxiv.org/pdf/2601.05232v1)
 
 **作者:** P. Gilda `[一作]`, S. Carter `[通讯]`
 
 **关键词:** `Computation and Language` `Convolutional Neural Network` `Large Language Model` `Prompt Engineering` `Text` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17806,15 +16872,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Internal Representations as Indicators of Hallucinations in Agent Tool Selection
+## 502. Internal Representations as Indicators of Hallucinations in Agent Tool Selection
 
 **arXiv ID:** 2601.05214 | [PDF](https://arxiv.org/pdf/2601.05214v1)
 
 **作者:** Kait Healy `[一作]` (Amazon), Jing Wu `[通讯]` (Amazon)
 
 **关键词:** `Artificial Intelligence` `Classification` `Anomaly Detection` `Transformer` `Large Language Model` `Text` `Finance Related`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17842,15 +16906,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching
+## 503. FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching
 
 **arXiv ID:** 2601.05212 | [PDF](https://arxiv.org/pdf/2601.05212v1)
 
 **作者:** Danilo Danese `[一作]` (Politecnico di Bari), Tommaso Di Noia `[通讯]` (Politecnico di Bari)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Data Synthesis` `Flow-based Model` `Ordinary Differential Equation` `Image` `Biomedical Data` `Magnetic Resonance Imaging` `Alzheimer's Disease`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17878,17 +16940,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## MoE3D: A Mixture-of-Experts Module for 3D Reconstruction
+## 504. MoE3D: A Mixture-of-Experts Module for 3D Reconstruction
 
 **arXiv ID:** 2601.05208 | [PDF](https://arxiv.org/pdf/2601.05208v1)
 
 **作者:** Zichen Wang `[一作]` (University of Michigan), Jeong Joon Park `[通讯]` (University of Michigan)
 
-**通讯引用:** 961 | **OpenAlex IDs:** https://openalex.org/A5109413502
+**通讯引用:** 961 | [OpenAlex ID](https://openalex.org/A5109413502)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Depth Estimation` `Segmentation` `Transformer` `Mixture of Experts` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17916,15 +16976,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation
+## 505. LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation
 
 **arXiv ID:** 2601.05192 | [PDF](https://arxiv.org/pdf/2601.05192v1)
 
 **作者:** Samy Haffoudhi `[一作]` (Telecom Paris Institute Polytechnique de Paris), Nils Holzenberger `[通讯]` (Telecom Paris Institute Polytechnique de Paris)
 
 **关键词:** `Computation and Language` `Domain Adaptation` `Retrieval` `Transformer` `Large Language Model` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17952,17 +17010,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning
+## 506. SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning
 
 **arXiv ID:** 2601.05187 | [PDF](https://arxiv.org/pdf/2601.05187v1)
 
 **作者:** Yanchang Liang `[一作]` (University of Warwick), Xiaowei Zhao `[通讯]` (University of Warwick)
 
-**通讯引用:** 5446 | **OpenAlex IDs:** https://openalex.org/A5000635250
+**通讯引用:** 5446 | [OpenAlex ID](https://openalex.org/A5000635250)
 
 **关键词:** `Artificial Intelligence` `Reinforcement Learning` `Transformer` `Large Language Model` `Reinforcement Learning` `Retrieval-Augmented Generation` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -17990,15 +17046,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice
+## 507. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice
 
 **arXiv ID:** 2601.05175 | [PDF](https://arxiv.org/pdf/2601.05175v1)
 
 **作者:** Shuming Liu `[一作]` (King Abdullah University of Science and Technology), Yunyang Xiong `[通讯]` (Meta AI)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Reinforcement Learning` `Computational Efficiency` `Transformer` `Reinforcement Learning` `Large Language Model` `Chain-of-Thought` `Video` `Text` `Image` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18050,15 +17104,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Fundamental Tradeoffs for ISAC Multiple Access in Finite-Blocklength Regime
+## 508. Fundamental Tradeoffs for ISAC Multiple Access in Finite-Blocklength Regime
 
 **arXiv ID:** 2601.05165 | [PDF](https://arxiv.org/pdf/2601.05165v1)
 
 **作者:** Zhentian Zhang `[一作]` (Southeast University), Mohammad Javad Ahmadi `[通讯]` (Technische Universität Dresden)
 
 **关键词:** `Information Theory`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18086,15 +17138,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## $PC^2$: Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models
+## 509. $PC^2$: Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models
 
 **arXiv ID:** 2601.05150 | [PDF](https://arxiv.org/pdf/2601.05150v1)
 
 **作者:** Wonwoo Choi `[一作]`, Myoungsung You `[通讯]`
 
 **关键词:** `Cryptography and Security` `Generation` `Adversarial Attack` `Transformer` `Large Language Model` `Prompt Engineering` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18122,15 +17172,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video
+## 510. Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video
 
 **arXiv ID:** 2601.05251 | [PDF](https://arxiv.org/pdf/2601.05251v1)
 
 **作者:** Zeren Jiang `[一作]` (VGG University of Oxford), Andrea Vedaldi `[通讯]` (VGG University of Oxford)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Object Tracking` `Transformer` `Diffusion model` `Auto Encoder` `Video` `Mesh`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18158,7 +17206,7 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Stock Market Price Prediction using Neural Prophet with Deep Neural Network
+## 511. Stock Market Price Prediction using Neural Prophet with Deep Neural Network
 
 **arXiv ID:** 2601.05202 | [PDF](https://arxiv.org/pdf/2601.05202v1)
 
@@ -18168,15 +17216,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Random Models and Guarded Logic
+## 512. Random Models and Guarded Logic
 
 **arXiv ID:** 2601.05247 | [PDF](https://arxiv.org/pdf/2601.05247v1)
 
 **作者:** Oskar Fiuk `[一作]` (Institute of Computer Science, University of Wrocław), Oskar Fiuk `[通讯]` (Institute of Computer Science, University of Wrocław)
 
 **关键词:** `Logic in Computer Science` `Probabilistic Methods`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18204,15 +17250,13 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration
+## 513. Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration
 
 **arXiv ID:** 2601.05243 | [PDF](https://arxiv.org/pdf/2601.05243v1)
 
 **作者:** Xingyi He `[一作]` (Cornell University), Kuan Fang `[通讯]`
 
 **关键词:** `Robotics` `Robotic Intelligence` `Data Synthesis` `Generation` `Image` `Point Cloud` `Multimodality`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18240,17 +17284,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
+## 514. GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 **arXiv ID:** 2601.05242 | [PDF](https://arxiv.org/pdf/2601.05242v1)
 
 **作者:** Shih-Yang Liu `[一作]` (NVIDIA), Pavlo Molchanov `[通讯]` (NVIDIA)
 
-**通讯引用:** 6771 | **OpenAlex IDs:** https://openalex.org/A5066945976
+**通讯引用:** 6771 | [OpenAlex ID](https://openalex.org/A5066945976)
 
 **关键词:** `Computation and Language` `Reinforcement Learning` `Optimization` `Reinforcement Learning`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18278,17 +17320,15 @@ MNIST（全连接网络）、CIFAR‑10（ResNet‑18）及实验中提及的 Vi
 
 ---
 
-## Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop
+## 515. Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop
 
 **arXiv ID:** 2601.05184 | [PDF](https://arxiv.org/pdf/2601.05184v1)
 
 **作者:** Yaxuan Wang `[一作]` (University of California), Yang Liu `[通讯]` (University of California)
 
-**通讯引用:** 59131 | **OpenAlex IDs:** https://openalex.org/A5100355692
+**通讯引用:** 59131 | [OpenAlex ID](https://openalex.org/A5100355692)
 
 **关键词:** `Artificial Intelligence` `Large Language Model` `Reinforcement Learning` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18316,17 +17356,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## Vision-Language Introspection: Mitigating Overconfident Hallucinations in MLLMs via Interpretable Bi-Causal Steering
+## 516. Vision-Language Introspection: Mitigating Overconfident Hallucinations in MLLMs via Interpretable Bi-Causal Steering
 
 **arXiv ID:** 2601.05159 | [PDF](https://arxiv.org/pdf/2601.05159v1)
 
 **作者:** Shuliang Liu `[一作]` (Hong Kong University of Science and Technology), Xuming Hu `[通讯]` (Hong Kong University of Science and Technology)
 
-**通讯引用:** 1186 | **OpenAlex IDs:** https://openalex.org/A5057914558
+**通讯引用:** 1186 | [OpenAlex ID](https://openalex.org/A5057914558)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Generation` `Explainability and Interpretability` `Transformer` `Large Language Model` `Vision Language Model` `Multimodality` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18354,15 +17392,13 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## Learning Mixture Models via Efficient High-dimensional Sparse Fourier Transforms
+## 517. Learning Mixture Models via Efficient High-dimensional Sparse Fourier Transforms
 
 **arXiv ID:** 2601.05157 | [PDF](https://arxiv.org/pdf/2601.05157v1)
 
 **作者:** Alkis Kalavasis `[一作]`, Manolis Zampetakis `[通讯]`
 
 **关键词:** `Data Structures and Algorithms` `Mixture of Experts`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18390,17 +17426,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes
+## 518. RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes
 
 **arXiv ID:** 2601.05249 | [PDF](https://arxiv.org/pdf/2601.05249v1)
 
 **作者:** Yuan-Kang Lee `[一作]` (MediaTek Inc.), Yu-Lun Liu `[通讯]` (National Yang Ming Chiao Tung University)
 
-**通讯引用:** 1145 | **OpenAlex IDs:** https://openalex.org/A5101674908
+**通讯引用:** 1145 | [OpenAlex ID](https://openalex.org/A5101674908)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Reinforcement Learning` `Reinforcement Learning` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18428,15 +17462,13 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation
+## 519. RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation
 
 **arXiv ID:** 2601.05241 | [PDF](https://arxiv.org/pdf/2601.05241v1)
 
 **作者:** Boyang Wang `[一作]` (Shanghai AI Laboratory), Jiangmiao Pang `[通讯]` (Shanghai AI Laboratory)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Robotic Intelligence` `Diffusion model` `Vision Language Model` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18464,17 +17496,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## Information-Theoretic Limits on Exact Subgraph Alignment Problem
+## 520. Information-Theoretic Limits on Exact Subgraph Alignment Problem
 
 **arXiv ID:** 2601.05173 | [PDF](https://arxiv.org/pdf/2601.05173v1)
 
 **作者:** Chun Hei Michael Shiu `[一作]` (University of British Columbia), Lele Wang `[通讯]` (University of British Columbia)
 
-**通讯引用:** 5082 | **OpenAlex IDs:** https://openalex.org/A5100383682
+**通讯引用:** 5082 | [OpenAlex ID](https://openalex.org/A5100383682)
 
 **关键词:** `Information Theory` `Graph Neural Network` `Graph`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18502,17 +17532,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## Reverse-engineering NLI: A study of the meta-inferential properties of Natural Language Inference
+## 521. Reverse-engineering NLI: A study of the meta-inferential properties of Natural Language Inference
 
 **arXiv ID:** 2601.05170 | [PDF](https://arxiv.org/pdf/2601.05170v1)
 
 **作者:** Rasmus Blanck `[一作]` (University of Gothenburg), Stergios Chatzikyriakidis `[通讯]` (University of Crete)
 
-**通讯引用:** 825 | **OpenAlex IDs:** https://openalex.org/A5020791896
+**通讯引用:** 825 | [OpenAlex ID](https://openalex.org/A5020791896)
 
 **关键词:** `Computation and Language` `Classification` `Generation` `Transformer` `Large Language Model` `Supervised Fine-Tuning` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18540,17 +17568,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## Inapproximability of Counting Permutation Patterns
+## 522. Inapproximability of Counting Permutation Patterns
 
 **arXiv ID:** 2601.05166 | [PDF](https://arxiv.org/pdf/2601.05166v1)
 
 **作者:** Michal Opler `[一作]` (Czech Technical University), Michal Opler `[通讯]` (Czech Technical University)
 
-**通讯引用:** 20 | **OpenAlex IDs:** https://openalex.org/A5006649123
+**通讯引用:** 20 | [OpenAlex ID](https://openalex.org/A5006649123)
 
 **关键词:** `Data Structures and Algorithms`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18578,15 +17604,13 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## GenAI-DrawIO-Creator: A Framework for Automated Diagram Generation
+## 523. GenAI-DrawIO-Creator: A Framework for Automated Diagram Generation
 
 **arXiv ID:** 2601.05162 | [PDF](https://arxiv.org/pdf/2601.05162v1)
 
 **作者:** Jinze Yu `[一作]` (AWS Generative AI Innovation Center), Dayuan Jiang `[通讯]` (AWS Generative AI Innovation Center)
 
 **关键词:** `Graphics` `Generation` `Transformer` `Large Language Model` `Prompt Engineering` `Text` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18614,17 +17638,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## Safe Continual Reinforcement Learning Methods for Nonstationary Environments. Towards a Survey of the State of the Art
+## 524. Safe Continual Reinforcement Learning Methods for Nonstationary Environments. Towards a Survey of the State of the Art
 
 **arXiv ID:** 2601.05152 | [PDF](https://arxiv.org/pdf/2601.05152v1)
 
 **作者:** Timofey Tomashevskiy `[一作]` (McMaster University), Timofey Tomashevskiy `[通讯]` (McMaster University)
 
-**通讯引用:** 9 | **OpenAlex IDs:** https://openalex.org/A5050619633
+**通讯引用:** 9 | [OpenAlex ID](https://openalex.org/A5050619633)
 
 **关键词:** `Machine Learning` `Reinforcement Learning` `Safty and Privacy` `Review/Survey Paper`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18652,15 +17674,13 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents
+## 525. MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents
 
 **arXiv ID:** 2601.05215 | [PDF](https://arxiv.org/pdf/2601.05215v1)
 
 **作者:** Tamil Sudaravan Mohan Doss `[一作]` (Microsoft), Balasaravanan Thoravi Kumaravel `[通讯]` (Microsoft Research)
 
 **关键词:** `Artificial Intelligence` `Transformer` `Large Language Model` `Agentic AI` `Text` `Benchmark`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18688,17 +17708,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## Multivector Reranking in the Era of Strong First-Stage Retrievers
+## 526. Multivector Reranking in the Era of Strong First-Stage Retrievers
 
 **arXiv ID:** 2601.05200 | [PDF](https://arxiv.org/pdf/2601.05200v1)
 
 **作者:** Silvio Martinico `[一作]` (University of Pisa), Rossano Venturini `[通讯]` (University of Pisa)
 
-**通讯引用:** 1608 | **OpenAlex IDs:** https://openalex.org/A5084138015
+**通讯引用:** 1608 | [OpenAlex ID](https://openalex.org/A5084138015)
 
 **关键词:** `Information Retrieval` `Retrieval` `Compression` `Computational Efficiency` `Retrieval-Augmented Generation` `Text`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18726,17 +17744,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer
+## 527. QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer
 
 **arXiv ID:** 2601.05250 | [PDF](https://arxiv.org/pdf/2601.05250v1)
 
 **作者:** Daniele Lizzio Bosco `[一作]` (University of Udine), Vladislav Golyanik `[通讯]` (Max Planck Institute for Informatics)
 
-**通讯引用:** 2888 | **OpenAlex IDs:** https://openalex.org/A5080103406
+**通讯引用:** 2888 | [OpenAlex ID](https://openalex.org/A5080103406)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Generation` `Data Synthesis` `Neural Radiance Field` `Image`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18764,17 +17780,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## Pixel-Perfect Visual Geometry Estimation
+## 528. Pixel-Perfect Visual Geometry Estimation
 
 **arXiv ID:** 2601.05246 | [PDF](https://arxiv.org/pdf/2601.05246v1)
 
 **作者:** Gangwei Xu `[一作]` (Huazhong University of Science and Technology), Xin Yang `[通讯]` (Huazhong University of Science and Technology)
 
-**通讯引用:** 23660 | **OpenAlex IDs:** https://openalex.org/A5100719715
+**通讯引用:** 23660 | [OpenAlex ID](https://openalex.org/A5100719715)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Depth Estimation` `Generation` `Transformer` `Diffusion model` `Flow-based Model` `Image` `Video` `Point Cloud`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18802,17 +17816,15 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos
+## 529. ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos
 
 **arXiv ID:** 2601.05237 | [PDF](https://arxiv.org/pdf/2601.05237v1)
 
 **作者:** Rustin Soraki `[一作]` (University of Washington), Roozbeh Mottaghi `[通讯]` (University of Washington)
 
-**通讯引用:** 8455 | **OpenAlex IDs:** https://openalex.org/A5070375939
+**通讯引用:** 8455 | [OpenAlex ID](https://openalex.org/A5070375939)
 
 **关键词:** `Computer Vision and Pattern Recognition` `Object Detection` `Object Tracking` `Pose Estimation` `Transformer` `Diffusion model` `Video`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
@@ -18840,15 +17852,13 @@ News Continuation（Webis‑Bias‑Flipper‑18）、Preference Dissection（Dol
 
 ---
 
-## Approximation theory for distant Bang calculus
+## 530. Approximation theory for distant Bang calculus
 
 **arXiv ID:** 2601.05199 | [PDF](https://arxiv.org/pdf/2601.05199v1)
 
 **作者:** Kostia Chardonnet `[一作]` (University of Lorraine), Axel Kerinec `[通讯]` (University of Paris Est Creteil)
 
 **关键词:** `Logic in Computer Science`
-
-### 📋 论文摘要
 
 **🎯 论文内容**
 
